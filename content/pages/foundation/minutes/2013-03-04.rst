@@ -1,0 +1,54 @@
+Minutes - March 04, 2013
+########################
+:url: foundation/minutes/board-meeting-minutes2013-03-04.html
+:save_as: foundation/minutes/board-meeting-minutes2013-03-04.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Travis Oliphant, Anthony Scopatz, Ralf Gommers, Didrik Pinte,
+Fernando Perez, Perry Greenfield
+
+**Not Attending**:
+Andy R. Terrel, Jarrod Millman, Emmanuelle Gouillart
+
+Approval of prior minutes
+-------------------------
+Prior minutes have been approved.
+
+Treasurer’s Report
+------------------
+
+Question for Ralf: everything sorted out with the Mac Mini?
+
+Old Business
+============
+a. Mac Mini: will be available any time now at ci.scipy.org (now preliminary at ci.scipy.org:8080). One week for experimenting, when stable publicize.
+
+b.  Fundraising for Boot Camp for Women in Science and Engineering - Now on the website: http://numfocus.org/numfocus-is-currently-raising-funds-for-the-following/boot-camp-for-women-in-science-engineering. Leah is working with Greg Wilson and Amy Brown on getting a flier finished.  Anthony created a generic Software Carpentry donation button, under the idea that Numfocus will be happy to take donations for SWC in general, and it will be up to them to decide on what specific subprojects they use them.
+
+c. Transfer of SciPy Central domain names to NumFOCUS: Ralf reports that as far as he knows, the transfer was completed by Kevin Dunn.  But Jarrod has the full details and is not present, so we’ll wait for final confirmation. The domains are scipy-central.{org, com}, and same without the ‘-’.
+
+Team Reports
+============
+Membership: the membership flier drafted by Perry was approved by the board, conditional on the fact that the line about conference discounts still needs a bit more detail. The body of the document is now approved, and the specifics on the conference discounts will be sorted out in the next few days so that the final version can be distributed at PyCon/PyData.
+
+Finance: we discussed how Didrik could participate on the finance team, which both needs more people and particularly needs someone anchored in Europe, so that we can have a bank account in Europe.  Didrik was on board with the idea.
+
+Fundraising: Ralf spoke with Andy on Sloan Letter.  Will send out draft later this week.  Letter should go out this week.  Approval can happen online.
+
+New Business
+============
+a.  Additional projects to add to fundraising page. Good idea to add projects / fundraising efforts when those are ready (page has to grow organically).
+
+b.  Sponsorship of SciPy/EuroScipy. Anthony reported that SciPy is looking for sponsors. Last year we sponsored SciPy with 2 community/student tickets (at a cost of around $2000).  Anthony and Didrik will find out the specific costs of doing it this year and what Numfocus would get in return (such as tickets for Numfocus).  Once we know the details, we’ll vote via email.
+
+c.  collaboration with Mike McKerns with UQ foundation. Andy and Travis know the details, Fernando only knew very little, so we’ll revisit this next time with their input.
+
+d.  NumFOCUS providing a cash prize to the winner of the John Hunter plotting contest at SciPy.  cash prizes will be given to the winners: $500, $200, and $100 for 1st, 2nd, and 3rd.  This was approved over email.
+
+e.  In our bylaws we need a change to ensure decisions are made by 3 unaffiliated members of the board. It would also be a good idea to disclose affiliations of all board members on the website.  Fernando will draft language to this effect that will be voted on at the next meeting. 
+
+f. Given that several of us will be present at PyCon, we’ll try to schedule the next meeting for that time.  That way most people can be in the same room, and only a few others will need to call in. We’ll do the scheduling by email.
+

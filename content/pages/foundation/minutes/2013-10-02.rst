@@ -1,0 +1,101 @@
+Minutes - October 02, 2013
+##########################
+:url: foundation/minutes/board-meeting-minutes2013-10-02.html
+:save_as: foundation/minutes/board-meeting-minutes2013-10-02.html
+
+
+Attendance
+----------
+**Participating**: 
+Leah Silen, Perry Greenfield, Matt Terry, Fernando Perez, Anthony Scopatz, Andy
+R. Terrel
+
+**Not Attending**:
+Emmanuelle Gouillart, Jarrod Millman, Travis Oliphant, Didrik Pinte, Ralf
+Gommers
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+- Leah will highlight things that are not public
+
+- Approved: Matt and Anthony
+
+
+Old Business
+============
+
+FSA - Tony’s comments on G/G model
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Tabled for next meeting
+- Leah and Travis are rephrasing and will send around again.
+
+New Business
+============
+
+Accounting software update
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Now fully integrated with QuickBooks
+
+- Try to refine for more transactional details
+
+- QuickBooks good at accounting, however less so at storing documents for
+  auditing. An extra add-on called SmartVault, which we are using, can do this
+  for us.  Still in the trial phase for both products, but strongly feel we
+  should buy these services.  About $40/month for QuickBooks and $20/month for
+  SmartVault, ~$700/year - $100.
+
+- Motion to make expense proposed by Anthony.
+
+  1. Seconded by Fernando
+
+  2. Passed unanimously.
+
+Six weeks left for tax filing. Paid TANO to file taxes, and require raw data.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Anthony requests for Leah to interface with TANO on this action
+
+  + Can give QuickBooks sharing, don’t use personal accounts, have numfocus.org
+    account
+
+  + Critical to have more than Anthony to know about the system.
+
+- Can SmartVault handle documents signed by orgs?
+
+  + No webpage, for automatic handling, but a user can specify.  
+
+  + Envision a system with 1-3 pdf’s per transactions.
+
+    * Need to become much more formal about the process. Hopefully through the
+      website.
+
+Getting other people to know the process
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* London user on mailing list knows about running financials of orgs.
+
+  - Do people know him?
+
+    + No.
+
+  - What kind of things do we want him to help out?
+
+    + Fernando suggests a formal interview with references due to the nature of
+      financial information.
+
+    + At first, no spending authority (no one other than someone officially a
+      member of board)
+
+    + Interview to even have access to information
+
+      a. Ask for resume 
+      b. Ask for three references
+
+  - Anthony will send out email to him to start this process
+
+Misc
+----
+
+* Leah will get information about pursuing a line of credit.
+
+* Leah put in shared numfocus drive: FSA Donation Suggestions from Tony

@@ -1,0 +1,67 @@
+Minutes - July 10, 2013
+#######################
+:url: foundation/minutes/board-meeting-minutes2013-07-10.html
+:save_as: foundation/minutes/board-meeting-minutes2013-07-10.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Anthony Scopatz, Jarrod Millman, Fernando Perez, Ralf Gommers,
+Perry Greenfield
+
+**Not Attending**:
+Didrik Pinte, Andy Terrel, Emmanuelle Gouillart, Travis Oliphant
+
+6/12 Minutes approved
+---------------------
+
+
+Old Business
+============
+a.  Fiscal Sponsorship update - https://github.com/numfocus/fiscal-sponsorship
+
+Fernando Perez gave a short update on the discussion at the SciPy'13 conference.  Basically there was a NumFocus BOF where the primary discussion was presenting the current fiscal sponsorship with the community.   Major changes related to how the sponsored projects would be organized and all changes were made to the document in a minisprint at the end of the conference. Leah is getting legal feedback on the current draft as well as looking into insurance and liability issues.  Once we receive this feedback, we are currently expecting to be able to finalize this quickly.
+
+Leah reports that Tony Sebro, currently legal counsel for Software Conservancy would be willing to work with NumFOCUS on an hourly basis at a rate of $200/hour. He thinks that reviewing our current FSA would take ~1 hour of work, given it was derived from the SWC one.
+
+b.  Website redesign update
+
+After a community call by Anthony, Matt Terry rose to the occasion and has put a lot of work into a redesign of the website.  That work is mostly completed, modulo checking that comment support has made it in and we don’t lose the history of existing comments in our current pages.
+
+The board voted to effectively transfer control of decisions on the website to a team led by Matt Terry, pending on checking with Matt that he’s OK with accepting this role. If he accepts, the rest of the discussion on when the new site is considered ready for transfer and update of the DNS records will take place on the mailing list instead of on board discussions, and Matt will have the authority to take action based on list input.
+
+c.  NumFOCUS logo and link on project sites update 
+
+Done scipy.org and maybe additional sites.  Ralf will send an email  to follow-up to the numfocus mailing list; if member projects would add logo+link on their own sites that should close this agenda point.
+
+d.  Report on Women in Science and Engineering Boot Camp and future event plans
+
+Leah reported that the Boston WISE Bootcamp was a great success. Leah gave a presentation at the event about NumFOCUS, and there was a lot of interest from the community of women who participated.   There’s a Flickr set with pictures from the event and some blog posts about it, Leah will send a post to the NF mailing list with these links.  There’s a plan to continue doing these WISE meetings in the future as funds allow.
+
+e.  NumFOCUS now holds the license for the new version of the "Standards Of Fundamental Astronomy" library. Is this ready to publicize?
+
+Perry will email list and ask this to be added to the new website.  We also need to create a category (or page) to track all NumFocus associated IP/domain ownership. We also started to think about whether and how we might want to apply for trademarks for some core projects.
+
+Team Reports 
+=============
+ 
+Membership 
+-----------
+Still working on membership wording.
+
+Fundraising
+-----------
+Two large donations are pending and will be announced when the money is confirmed to be in NF’s accounts.
+
+Publicity
+---------
+New website being worked on.  See above.
+
+Grants/Fellowships
+------------------
+We are still collecting funding, which needs to progress further before we begin the application and funding proposals. Fernando spoke with Josh (Sloan) and he will need to put off a decision until next year due to time and financial constraints, but he is interested in principle and we should approach him later.
+
+New Business
+============
+a.  PyData Boston. Leah reports it’s going well and expects it to sell out. NF will have a small table/booth to interact with attendees.  Ideally we should have the new membership model finalized so Leah can advertise it and gather new members.

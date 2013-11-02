@@ -1,0 +1,60 @@
+Minutes - December 17, 2012
+###########################
+:url: foundation/minutes/board-meeting-minutes2012-12-17.html
+:save_as: foundation/minutes/board-meeting-minutes2012-12-17.html
+
+
+Attendance
+----------
+**Participating**:
+Emmanuelle Gouillart, Prabhu Ramachandran, Ralf Gommers, Travis Oliphant, Perry
+Greenfield, Anthony Scopatz, Leah Silen
+
+**Not Attending**:
+Fernando Perez, Jarrod Millman, Andy Terrel
+
+News Items
+==========
+Beginning this meeting, minutes will be sent to board members  and approved at the next meeting for placement on the website.  Efforts will be made to increase the transparency of NumFOCUS. 
+
+Travis stated he would like to see NumFOCUS working to raise money and funding projects and tools.
+
+The proceeds from PyData Silicon Valley will go to NumFOCUS in the same way that PSF receives funding through PyCon.
+
+Leah, working as the Administrator for NumFOCUS, is here to help the board members and they are encouraged to contact her as needed.
+
+The Domain Name Donation and Transfer Agreement needed for the donation of numpy.org and numpy.com by John Turner was discussed for this transaction and for future domain transfers and donations. It was moved by Travis to accept and was approved unanimously. 
+
+The John Hunter Memorial Fund has had 1400 donors from all over the world and raised close to $90,000 for John’s family. It  was proposed and unanimously approved that as of December 31, 2012 donations will no longer be going through NumFOCUS, but will instead go directly to the bank account of John’s widow, Mariam.  The Memorial Fund information will remain on the website. 
+
+The following Teams and Chairs/Co-Chairs were discussed at the meeting. Names were also taken from the shared “Teams” google doc:
+
+Membership - Chair, Perry with Ralf, Travis and Anthony working on the team.  It was proposed and unanimously accepted that at this time the acceptance of projects promoted by NumFOCUS would also fall under the Membership Team’s duties.
+
+Website - Chair, Emmanuelle
+
+Publicity - Co-Chairs Emmanuelle and Ralf
+
+Fundraising - Chair, Travis with Emmanuelle also working on the team
+
+Finance - Chair, Anthony
+
+Grants and Fellowship - Chair, Jarrod 
+
+This team will review grant proposals from projects and individuals applying to NumFOCUS for funding.
+
+Sprints - Chair, Ralf
+
+Prabhu’s time is stretched very thin right now and will therefore decide in a month or so which team to volunteer for.
+
+The Membership Team will work on a proposal for information to be posted on the website.  The proposal will be discussed at one of January’s meetings.
+
+It was asked by Emmanuelle why Python is not included in the purpose of NumFOCUS. Perry would like C and Fortran also included if they could help Python.  Travis felt like projects using other languages should be included as long as they helped Python in science.  Emmanuelle volunteered to put a suggestion on the mailing list for discussion.
+
+The NumFOCUS logo is on the PyCon website as an OSS sponsor.  Sponsorship includes a booth at the conference.
+
+Travis suggested that NumFOCUS set up an international bank account.
+
+The NumFOCUS brochure from PyData will be placed in a shared google doc.
+
+It was suggested that at least one board member posts a blog on the website once a week. Perhaps people from the community mailing list could also participate.  Travis stated that there could be a weekly schedule so a board member would only have to blog once every 9 weeks.  Perry asked if the blog would need board approval and Anthony, Emmanuelle and Travis all were in agreement that this was not needed as long as the post stayed within the purpose of NumFOCUS.

@@ -1,0 +1,86 @@
+Minutes - June 06, 2012
+#######################
+:url: foundation/minutes/board-meeting-minutes2012-06-06.html
+:save_as: foundation/minutes/board-meeting-minutes2012-06-06.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Holdridge, Anthony Scopatz, Fernando Perez, Jarrod Millman, Stefan van der
+Walt, Perry Greenfield.
+
+**Not Attending**:
+Travis Oliphant, John Hunter.
+
+Treasurer’s report
+------------------
+* Decided to fund Stefan’s buildbot, working on payment logistics.
+* Decided to fund Scipy/Euroscipy.
+
+Fundraising
+-----------
+We need to raise further funding as accounts are very low right now.  We’re not
+a 501(c)(3) yet, and this is not mentioned in promotional materials yet.
+
+Kitware will be making a donation soon through the PSF, but there hasn’t been
+much feedback from the PSF yet.  This would be the first donation to Numfocus.
+It should have already happened, but PSF hasn’t been contacted for the money
+yet.  Jarrod suggests that we confirm the money transfer from the PSF actually
+happens; Anthony will focus on this in the next two weeks.
+
+Strategy: private fundraising party.  We’ll try to identify targets.
+
+Dave Beazley mentioned that HP is diving deep into Python, follow up with him
+for funding possibilities.
+
+Large companies mentioned include HP and the financial industry.
+
+Perry suggests mining download logs and mailing list logs.
+
+Leah will start a shared google spreadsheet to plan the logistics of
+fundraising.
+
+Small donations for individual projects are ready, but not tax deductible
+because it’s a direct paypal button.  We’ll need to wait for the PSF mechanism
+to be tested before we can take tax-deductible donations.
+
+http://www1.networkforgood.org/: look into it as an option for funding.
+
+Jarrod will contact David Welle (from Deep Springs) about his experience
+fundraising (possibly to join a future conference call).
+
+Leah indicates how critical it is to have a personal contact at the prospective
+donor organization, as the success rate in that case is vastly higher than cold
+calling.
+
+Astropy
+-------
+Perry will check with astropy mailing list to see if anyone objects to numfocus
+owning the astropy.org domain.
+
+501(c)(3) Application  
+-----------------------
+These are documents we need to file:
+
+* Affiliated Project Application – shared google doc :
+  https://docs.google.com/a/numfocus.org/document/d/1nLK1Qrdnh3PJKZ7vgo763q8Yv9-wpWwDH7lJj_gp4UI/edit
+* Revenue/Expense Budget Projections:
+  https://docs.google.com/a/numfocus.org/spreadsheet/ccc?key=0AgeZEXdbNXbVdGViNmZacG1CWmw1ZDJ6dFJRX2xxWkE
+* Bylaws: use the Apache and PSF ones as guidance
+* Request for funding application
+* Fellowship application
+
+
+Action items: help out with:
+* Affiliated Project Application document.
+* Budget
+
+Promotion at conferences?
+* Poster
+* Banner
+
+For each of these, check that there will be space to hang/present it.
+
+Find out what we are allowed to send to Scipy/euroscipy attendees as an email
+(or part of one). Once we know what we can send, we’ll draft that text. 

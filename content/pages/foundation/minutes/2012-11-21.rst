@@ -1,0 +1,42 @@
+Minutes - November 21, 2012
+###########################
+:url: foundation/minutes/board-meeting-minutes2012-11-21.html
+:save_as: foundation/minutes/board-meeting-minutes2012-11-21.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Holdridge, Perry Greenfield, Fernando Perez, Jarrod Millman, Travis Oliphant
+
+**Not Attending**:
+Anthony Scopatz, Andy Terrel, Emmanuelle Gouillart, Ralf Gommers
+
+News Items
+==========
+Emmanuelle Gouillart, Andy Terrel and Ralf Gommers accepted Board Membership.  We’re waiting on Prabhu Ramachandran, Perry will contact him.
+
+Fernando presented at PyCon CA.  Met with Elizabeth Liddy of Plone Foundation.  There is much to learn from Plone Foundation including Roberts Rules
+
+E. Liddy emphasized the importance of transparency to build the community, suggested making minutes of meetings public.  We will 
+
+Domains
+-------
+Travis Vaught donated scipy.com and scipy.net.   John Turner donated numpy.org and numpy.com.  Fernando will let py4science.* lapse unless someone on the list wants them.  Action item: Troy Troy Powell from Continuum will help us with the registration transfer.  
+
+Teams
+=====
+Chaired by a board member, otherwise autonomous.  Team 
+
+* Membership: will start being the board itself.
+* Promotion:  Identifying projects to promote --- getting twitter account and promoting Python for science and data analysis
+* Grants: Jarrod offered to chair this one.
+* Fundraising.
+* Web site:  We need good team members for this one.
+* Sprint Team: Specifically focused on helping projects get sprints organized, run, and providing some financial help
+* Community Outreach:  work with individual software projects.  This team is 1-2 board members plus representatives of different projects.  This is promotion but to open source developers. 
+* Software Engineering Team:  Work on continuous integration, unified documentation, packaging, etc.  
+
+Web site
+========
+Action item: the web site needs to be updated.

@@ -1,16 +1,18 @@
-Minutes - January 7, 2013
-#########################
-:url: foundation/minutes/board-meeting-minutes2013-01-30.html
-:save_as: foundation/minutes/board-meeting-minutes2013-01-30.html
+Minutes - January 07, 2013
+##########################
+:url: foundation/minutes/board-meeting-minutes2013-01-07.html
+:save_as: foundation/minutes/board-meeting-minutes2013-01-07.html
 
 
-Participating
-
+Attendance
+----------
+**Participating**:
 Leah Silen, Fernando Perez, Emmanuelle Gouillart, Andy R. Terrel,
 Anthony Scopatz, Jarrod Millman, Ralf Gommers, Prabhu Ramachandran.
 
-Not attending
- Travis Oliphant,
+**Not Attending**:
+Travis Oliphant
+
 
 Treasurer’s Report
 ------------------
@@ -28,7 +30,7 @@ Approval of Prior Minutes
 The minutes from the previous meeting have been accepted.
 
 Old Business
-------------
+============
 
 Approval of the appraisal of the domain was recorded, Leah will now take
 care of having the appraisal done.
@@ -48,7 +50,7 @@ password management, to which Jarrod proposes setting up a KeePassX
 shared password file, which Jarrod will set up for everyone.
 
 New Business
-------------
+============
 
 a. Discussion of adding Didrik Pinte to the Board as an official representative
 from Enthought.  Fernando proposed to table the discussion until next meeting

@@ -1,0 +1,103 @@
+Minutes - June 20, 2012
+#######################
+:url: foundation/minutes/board-meeting-minutes2012-06-20.html
+:save_as: foundation/minutes/board-meeting-minutes2012-06-20.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Holdridge, Anthony Scopatz, Travis Oliphant, Jarrod Millman, John Hunter,
+Perry Greenfield
+
+**Not Attending**:
+Fernando Perez
+
+Treasurer’s report
+------------------
+
+* SciPy has been disbursed.
+* International wire setup.  EuroSciPy has yet to be funded.  Will be funded
+  with a wire (Belgium doesn’t take checks).
+* Stefan has been paid for the buildbot.
+
+PSF Fiscal Sponsorship
+----------------------
+
+* http://www.adlercolvin.com/resources/basic-resources.php#tab_forms
+
+* Leah will check with accountant, Perry and Anthony will check into these
+  forms of sponsorship and we will decide how to proceed with the PSF. 
+
+501(c)(3) Application  
+
+* Affiliated Project Application:
+  https://docs.google.com/a/numfocus.org/document/d/1nLK1Qrdnh3PJKZ7vgo763q8Yv9-wpWwDH7lJj_gp4UI/edit
+
+* Revenue/Expense Budget Projections
+  https://docs.google.com/a/numfocus.org/spreadsheet/ccc?key=0AgeZEXdbNXbVdGViNmZacG1CWmw1ZDJ6dFJRX2xxWkE
+
+* Bylaws draft to be added to Google doc so we can start reviewing it.
+
+* Write to project mailing lists to see if we can start getting some donations
+  (they won’t be tax-exempt yet).  This will help us assess the potential
+  contributions we might expect to see once we get tax exempt status, which
+  will help us make better budget projections.  (If we get the tax exempt
+  status before taxes are due, people may be able to amend their taxes.)
+
+SciPy Conferences
+-----------------
+
+We got two free passes that will be used by Fernando and Anthony 
+
+Leah is creating a short ad for distribution to conference attendees and will
+solicit short blurbs from the numfocus mailing list.
+
+Fernando and Anthony will organize a BoF to engage conference attendees in a
+discussion about the foundation.
+
+Bylaw Discussion
+----------------
+
+Jarrod brought up the desire to distinguish member from donor after Perry left.
+Travis and John agreed.   Ideas for a member that came from the discussion
+ensued.   Here is a proposal by Travis:
+
+A member is one who:
+
+* agrees to a regular donation schedule (at least yearly, but could be
+  monthly).  The schedule will be commensurate with status (student, early
+  professional, professional, retired).
+
+* must be invited by another member and approved by at least 3 board members
+
+* can nominate for the board and be nominated for the board
+
+* can participate in special elections as described below
+
+Board elections must end with an odd number of members --- can contain up to 9
+members but must have at least 3.   Board elected by itself by a strict
+majority.  All board elections are done by the board defined *before* the
+election.   
+
+Members can replace a board member by calling for a special election with a
+majority of the members agreeing and ⅔ majority of membership agreeing to the
+replacement. 
+
+Board can create councils and committees as needed to accomplish its mission. 
+
+Action Items
+------------
+Jarrod:  Contact David about discussing fundraising practices with us.
+
+Perry:  Review Kurt Kaiser forms and advise on action with PSF
+
+Anthony:  Pay EuroSciPy
+
+All:  Review bylaw draft
+
+Leah:  Finish Bylaws
+
+Travis: Post to NumPy and SciPy mailing lists requesting donations
+
+John: Post to Matplotlib mailing list requesting donations

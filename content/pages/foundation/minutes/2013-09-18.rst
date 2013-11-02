@@ -1,0 +1,90 @@
+Minutes - September 18, 2013
+############################
+:url: foundation/minutes/board-meeting-minutes2013-09-18.html
+:save_as: foundation/minutes/board-meeting-minutes2013-09-18.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Ralf Gommers, Matt Terry, Anthony Scopatz, Fernando Perez
+
+**Not Attending**:
+Emmanuelle Gouillart, Jarrod Millman, Perry Greenfield, Travis Oliphant, Andy
+R. Terrel, Didrik Pinte
+
+Treasurer’s Report
+------------------
+Anthony started the discussion of what to do regarding accounting tools. It’s
+looking like QuickBooks + SmartVault  may be the way to go, so it’s easy to
+associate documents with transactions.
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+The minutes are approved
+
+Old Business
+============
+
+FSA Approval
+------------
+We will need two FSA documents, one for Grantor-Grantee model and one for the
+comprehensive fiscal sponsorship model. Both the documents and the people
+needing to sign those are very different.
+
+We need to put on the website an explanation of what the difference is between
+the models (pros/cons, legal implications, project governance impact), as well
+as the two actual documents.
+
+Three very useful documents:
+
+1. Guidelines for Comprehensive Fiscal Sponsorship:
+   http://www.tides.org/fileadmin/user/NNFS/NNFS-Fiscal-Sponsorship-Guidelines-for-Comprehensive.pdf
+
+2. Guidelines for Pre-Approved Grant Relationship Fiscal Sponsorship:
+   http://www.tides.org/fileadmin/user/NNFS/NNFS-Fiscal-Sponsorship-Guidelines-for-Pre-Approved-Grant-Relationship.pdf
+
+
+3. The above are both drafted in part from the book “Six ways to do it right”
+   by G. Colvin, the following is a summary of the book’s main points by the
+   same author:
+   http://grants.firesafecouncil.org/Fiscal_Sponsorship_Six_Ways_To_Do_It_Right.pdf
+
+Fernando will go back to the original SFC FSA now that we understand it,
+re-edit it and attempt to get a complete FSA for the comprehensive model agreed
+upon asap.
+
+The following motion is approved: after email voting on the Grantor-Grantee FSA
+is completed (aim is to do this today), we forward that FSA to Tony Sebro for
+review.
+
+The New Website: defining project levels and associations 
+----------------------------------------------------------
+
+Once documents are approved, there should be an official “documents archive”
+area.
+
+Donations via Google Checkout are broken, Anthony has access to those.
+
+Leah will provide Matt with the source documents for the logo.
+
+Access to old WordPress site to recover the comments?  Leah will provide Matt
+login credentials so he can pull the old comment archive out.
+
+Ralf will help Matt with copy editing when he needs review of certain items.
+
+More information about corporate sponsorship?  The description of how to get
+involved for corporate entities needs to be clarified; Leah will follow up with
+Matt to include a more descriptive document on the site.
+
+
+New Business
+============
+
+Microsoft
+---------
+
+Since IPython will become a comprehensive member of Numfocus, the Microsoft
+donation can be listed as a standard Numfocus one.  We will link the sponsors
+Numfocus page with the official announcement on the IPython site once that’s
+up.

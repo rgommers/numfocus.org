@@ -1,17 +1,16 @@
-Minutes - April 1, 2013
-#######################
+Minutes - April 01, 2013
+########################
 :url: foundation/minutes/board-meeting-minutes2013-04-01.html
 :save_as: foundation/minutes/board-meeting-minutes2013-04-01.html
 
 
-Participating
-^^^^^^^^^^^^^
-
+Attendance
+----------
+**Participating**:
 Andy R. Terrel, Ralf Gommers, Fernando Perez, Didrik Pinte, Anthony
 Scopatz, Leah Silen, Travis Oliphant
 
-Not attending
-
+**Not Attending**:
 Jarrod Millman, Emmanuelle Gouillart,  Perry Greenfield
 
 Treasurer’s Report
@@ -23,7 +22,7 @@ name on website).  Once the corresponding details for EuroScipy are
 clear, the same will be done.
 
 Old Business
-
+============
 a.  Mac Mini - Is this ready to be publicized on the site?
 
 Ralf reports that Christoph hasn’t replied much to his queries.  The
@@ -90,7 +89,7 @@ Travis likes the intent. Keeping the educational component in mind is important.
 **Finance**
 
 New Business
-^^^^^^^^^^^^
+============
 
 a.  UQ Foundation update from PyCon
 

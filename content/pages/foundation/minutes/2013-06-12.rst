@@ -1,0 +1,85 @@
+Minutes - June 12, 2013
+#######################
+:url: foundation/minutes/board-meeting-minutes2013-06-12.html
+:save_as: foundation/minutes/board-meeting-minutes2013-06-12.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Ralf Gommers, Fernando Perez, Perry Greenfield, Travis Oliphant,
+Brian Granger (visiting)
+
+**Not Attending**:
+Anthony Scopatz, Didrik Pinte, Jarrod Millman, Andy Terrel, Emmanuelle Gouillart
+
+Discussion of Fiscal Sponsorship
+--------------------------------
+Brian Granger visited to discuss the fiscal sponsorship documents.   Brian
+wanted to clarify what the services were related to fiscal sponsorship and
+ensure that NumFOCUS is clear about what it is providing for the overhead fees.
+A healthy discussion ensued which led to the action item of updating our fiscal
+document as well as the messaging around that document to clarify the services
+provided by NumFOCUS.   In particular issues like tax liability insurance and
+any legal help to be provided to the projects was clarified. 
+
+5/29 Minutes approved
+---------------------
+
+Items discussed
+---------------
+Updating Fiscal Sponsorship Document --- Fernando will update fiscal document
+to provide overview of services.  We should take care not to over-promise in
+the legal document and provide most of the service listing on our website. 
+
+Membership Modifications --- Travis and Leah will update the membership
+language based around a new model suggested by Van Lindberg for the PSF and
+send around the bylaw amendment for approval.   
+
+Leah will remind Fernando to talk to Josh Greenberg about NumFOCUS during their
+conversations next week (Wed and Thurs.)
+
+Other approvals:
+----------------
+* Moving web-page to github-backed approach
+
+Fernando suggested: http://opentechschool.github.io/python-data-intro, whose repo is: 
+
+https://github.com/opentechschool/python-data-intro
+
+Old Business
+============
+
+a.  Fiscal Sponsorship https://docs.google.com/document/d/1io9G2hJQ4-4EGy4Pqmlb9N-5MqMdmBMlzL_NhCBWfF4/edit
+
+* Update FSA with a short description of services offered, using SWC as a
+  guide.
+
+* Find out what tax liability insurance costs or if it’s better done with
+  generic insurance for numfocus, and what we can offer from this to the
+  projects.
+
+* Building a list of attorneys that could be available for projects and finding
+  our rates. 10 h/year possible? For non-US projects, NF will contribute this
+  equivalent amount back to the project.
+
+
+b.  SciPy - Who will be attending? - NumFOCUS BoF. Fernando, Andy, Travis
+
+
+Document listing the PSF Model that we are basing NumFOCUS membership model on
+
+https://docs.google.com/document/d/1z7hHII7_zKPku3w4M3rNHLPV6DE8EnjENiTZXd9ucn8/edit?usp=sharing
+
+Travis and Leah will update language to amend NumFOCUS bylaws and we will use email to approve.
+
+New Business
+============
+a.  Fiscal Sponsorship of SymPy. Will tell them to wait a little bit for us to finish revamping the FSA before they sign. Leah and Travis will set up e-signing.
+
+b.  NumFOCUS logo and link on project sites
+
+c. numfocus.org redesign plans, Will look into doing something like this site: http://opentechschool.github.io/python-data-intro, whose repo is:
+
+https://github.com/opentechschool/python-data-intro
+

@@ -1,0 +1,90 @@
+Minutes - May 16, 2012
+######################
+:url: foundation/minutes/board-meeting-minutes2012-05-16.html
+:save_as: foundation/minutes/board-meeting-minutes2012-05-16.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Holdridge, Anthony Scopatz, Travis Oliphant, Fernando Perez, Jarrod
+Millman, John Hunter, Stefan van der Walt.
+
+**Not Attending**:
+Perry Greenfield
+
+Meeting frequency
+-----------------
+Proposal to meet every other week, at least for the initial setup phase of
+numfocus. Hopefully once things are working smoothly, frequency can decrease.
+This proposal was agreed upon, for now.  We’ll revisit to reduce as soon as
+feasible.
+
+New members
+-----------
+Travis asks how to engage others: include more people in the board? 
+
+Mailing list
+------------
+We will continue using the public NumFOCUS group for public discussion:
+http://groups.google.com/group/numfocus/about.  This is publicly accessible and
+archived, anyone can join.
+
+We continue to have trouble with Leah’s and Anthony’s posts not reaching the
+group. Jarrod changed the membership list to use actual email addresses instead
+of numfocus addresses (e.g., admin@numfocus.org).
+
+News
+----
+Other projects? PyAMG, (Jacob Schroder) AstroPy (Erik Tollerud)?
+
+Fernando will send SFC application so we can use it as an example and make an
+explicit sponsorship offer to these projects as well as request they fill 
+
+IRS Status
+----------
+Leah explained that we can be tax umbrella for projects without taking their
+donations ourselves.  Also, that the IRS 501c3 status doesn’t look as difficult
+to obtain as we thought, the IRS contact has been supportive.
+
+Plan is to submit application this month, if possible.
+
+SciPy/EuroSciPy sponsorship
+---------------------------
+Approved, earmarked towards the “community scholarship” item. We will offer the
+cost of two domestic scholarships, which we estimate to be roughly $1200.
+
+For EuroSciPy, we approve sponsorship at the silver level, which is 1000 euros
+($1275).
+
+PDF presentation
+----------------
+Feedback was given to Leah on this.  John will send some updated figures,
+Fernando will send some text corrections.
+
+Prospective donors & fundraising
+--------------------------------
+A spreadsheet will be started with information about potential donors, contact
+persons, etc.
+
+Hardware and cloud time donations
+---------------------------------
+Contact hardware vendors as well as the various cloud providers to try to get
+time donations as well as hardware to be donated to projects and developers
+(especially laptops).
+
+A special PDF presentation will be created to send to potential Hardware and
+cloud donors. 
+
+Discussion channels
+-------------------
+All tax-sensitive discussions will happen on the private admin mailing list,
+but we’ll try to do as much as we can on the public google group from now on.
+
+Friends of NumFOCUS
+-------------------
+In a discussion about including D.E. Shaw on the “Friends of NumFOCUS” page it
+was decided to create “levels” of funding for inclusion on such a page.  $5000
+donation was suggested as a minimum amount for a company to be included.
+The idea of creating a “Success Stories” page was suggested so that companies
+could promote their use of the NumFOCUS projects.

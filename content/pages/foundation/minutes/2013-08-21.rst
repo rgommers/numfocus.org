@@ -1,0 +1,177 @@
+Minutes - August 21, 2013
+#########################
+:url: foundation/minutes/board-meeting-minutes2013-08-21.html
+:save_as: foundation/minutes/board-meeting-minutes2013-08-21.html
+
+
+Attendance
+----------
+**Participating**:
+Ralf Gommers, Leah Silen, Anthony Scopatz, Fernando Perez, Jarrod Millman,
+Perry Greenfield, Andy Terrel, Travis Oliphant
+
+Tony Sebro, from Software Conservancy, providing feedback on our FSA draft.
+
+**Not Attending**:
+Didrik Pinte, Emmanuelle Gouillart
+
+Treasurer’s Report
+------------------
+
+Whoohoo!  The Microsoft donation for IPython came in!
+
+Approval of Minutes from Last Meeting
+
+
+Old Business
+============
+
+FSA discussion with Tony Sebro
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Limited liability protection is afforded to the projects as well as a greater
+level of service, while it requires more oversight.
+
+Grantor/grantee model is more of an arm’s length relationship.  Only
+requirements are that the money is spent in accordance with the 501c3
+regulations. But project members are still an unincorporated loose coalition,
+tax liability is unclear for the projects, etc.
+
+Discussion of concrete example: Microsoft donation to IPython (paid to NumFOCUS).
+
+1) paying developer in France to write tutorials
+
+2) hiring US developer (ex-Cal Poly student) as contractor for a year
+
+Question is if these two things work well under grantor-grantee model, or would
+it work better as comprehensive sponsor.
+
+#2 can be done. IPython writes up a grant, wants NF to allocate money to fund
+developer. NF contracts with developer. NF responsibility: check developer
+output is in keeping with the grant. Main thing to be careful for: don’t look
+like pass-through agent to IRS. Need paper trail showing IPython pitched the
+idea, NF reviewed it, it’s in the scope of NF, then NF drafted contract with
+developer. This becomes even more important if you want to fund yourself.
+
+Holding assets becomes more difficult in grantor-grantee model. Who owns IPython trademark? 
+
+Being done now: Julia trademarks possible in future, astronomy library copyright.
+
+Assigning copyright is fine. Filing trademarks is hard if you’re not the entity
+using/producing the trademarked thing. One individual developer could do it
+(which is awkward); NF could still pay for it though. Dev can then assign
+trademark to NF, NF has to draw up a license for it (so project/developers can
+continue to use it). Solution may be to have a very broad trademark license.
+Other solution is to license to all leaders of the project. Yet another
+solution (also for reducing liability of individual devs): project incorporates
+(but doesn’t file for 501(c)3 status). 
+
+NF also can’t then just give it away under all circumstances - only in the US
+but not to a foreign org (it’d have to be sold for market value).
+
+Upside of grantor-grantee model compared to comprehensive model: actions of one
+project cannot affect all other projects under the “umbrella”.
+
+Questions for Tony:
+
+* Q: SWC time effort, practical day-to-day workflow with projects?
+
+    It depends… “Dormant” projects that don’t receive donations, don’t raise
+    money, don’t create liability, require very little time. When projects want
+    to host conferences themselves, that takes a ton of work.  For a
+    grantor-grantee project, it’s much harder to run a conference or any other
+    event that requires signing contracts for a venue, renting space, etc.
+    Licensing issues can take time too, they require more legal scrutiny. SWC
+    has two full-time staff for 29 projects, the bulk of the time is consumed
+    by ~ ⅓ of those.
+
+* Q: Under grantor/grantee, could NF still offer things like “10 hours of legal
+  support per year, to be used by the project as needed”?
+
+    There are some tricky nuances there: Tony’s retainer is with NF, but the
+    discussions would be with third-parties that are not covered by
+    attorney-client privilege as the projects do not belong to NF.  A
+    relationship would have to be established with the individual projects.
+    Tony will need to think more about this one.
+
+* Q: Does every single expense need a grant? How would small things like paying
+  for pizza for a meeting, or a night of hotel for a developer work?
+
+    Some things are easy, e.g. a recurring cost for a hosting service.  One-off
+    expenses should be recorded, though it can be relatively simple.  
+
+    * Needed for all money distributed: grant request, grant approval and proof
+      (i.e. a receipt) that the money was spent consistent with the request.
+
+* Q: Can the grant application process have “levels” for small/medium/large sizes?
+
+    Yes, the IRS just expects standard business practices regarding diligence.
+    Important: there must be a way of linking requests, approvals in board
+    minutes and receipts. The paper trail needs to be easy to track and follow,
+    in case an audit is required. SWC uses the open source Ledger, but it’s a
+    low-level command-line tool, they are looking for a better open source
+    solution. Even proprietary solutions like Quicken don’t work very well for
+    non-profit, only quite expensive solutions work well for non-profit work.
+
+* Q: Can NF work as ‘comprehensive’ sponsor for some projects and
+  grantor/grantee for others? Does it raise red flags for the IRS?
+
+    Yes, it can be done. SWC is considering doing that and has talked to other
+    non-profits about that idea.  Fiscal sponsorship is already something that
+    tends to attract heightened IRS scrutiny, this probably won’t add any more
+    to that scrutiny.
+
+* Q: Is there any experience working with academics working for Universities on
+  grantor-grantee model?  Specifically, we would like to avoid the large
+  overhead fees that Universities charge on federal grants.
+
+    For the most part the academic worlds are kept completely separate from the
+    SWC work. Have not had to deal with granting money to University sponsored
+    projects. SWC tries to be part of the process for hiring employees with
+    project to make sure the due diligence is followed, in those instances we
+    probably would not go with an academic.
+
+    * SWC uses ~ $75/hour as their standard rate for contractors, they need to
+      go to the board for anything above that.
+
+* Q: Member project raises money themselves. Is there a mechanism in
+  grantor-grantee model that allows for that money to go to NF?
+
+    Money follows from use of trademark (t-shirts, conference, etc.). NF can be
+    beneficiary of this money, but if trademark is not owned by NF then person
+    raising the money is entitled to keep it.
+
+* Q: You (Tony) saw an ambiguity in current FSA. What needs to change in the
+  FSA in order for it to fit the grantor-grantee model?  
+
+    If you want to go to the grantor-grantee model I suggest you start over.
+    Section 2C of the SWC agreement was taken out, which wouldn’t exist in a
+    grantor-grantee relationship. The grantor-grantee FSA would need to
+    contain:
+
+    * Agreement that NF accepts donations on behalf of project.
+
+    * Agreement that NF allocates that money through grants.
+
+    * Outline the structure under which the project can make grant requests to
+      NF (this is completely missing in SWC agreement, because it’s not
+      needed).
+
+* Q: How difficult is it for a NF to switch types of sponsorship?
+
+    It would be easy to move from a grantor-grantees relationship to
+    comprehensive.  But the major problem with any termination is what happens
+    with the assets.  From gg->comp you keep ownership, from comp->gg you might
+    either have to grant the assets to another 5013c or sell it at market rate.
+
+    Tony: We have a threshold question, “Do we want a comprehensive or
+    grantor/grantee model?”
+
+Approval of retainer for Tony Sebro’s legal services
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+https://docs.google.com/a/numfocus.org/file/d/0B-gSJFIZZXQPcU5xQkc3anBuUmM/edit
+
+Action Items
+------------
+FP:  Send email to Tony with questions and answers.

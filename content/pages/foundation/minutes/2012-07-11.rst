@@ -1,0 +1,79 @@
+Minutes - July 11, 2012
+#######################
+:url: foundation/minutes/board-meeting-minutes2012-07-11.html
+:save_as: foundation/minutes/board-meeting-minutes2012-07-11.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Holdridge, Travis Oliphant, Jarrod Millman, John Hunter, Perry Greenfield
+
+**Not Attending**:
+Anthony Scopatz, Fernando Perez
+
+Treasurer’s report
+------------------
+Delayed due to Anthony Scopatz’ absence
+
+501(c)(3) Application
+
+Old Business
+============
+
+Leah incorporated feedback from last meeting and only a few final questions
+remain.  Plan to finalize application prior to SciPy and ask a few lawyers to
+review.
+
+Aligning the purpose of NumFOCUS on all documentation.
+
+1.  Website:  
+
+- To initiate and support educational programs furthering the use of open
+  source software in science - To promote the use of high-level languages and
+  open source in science, engineering and math research
+- To encourage scientific research
+- To provide infrastructure, legal, and organizational support for open-source
+  projects for technical computing 
+
+2.   Slide presentation:
+
+The  purpose of NumFOCUS is to promote the use of accessible and reproducible
+computing in science and technology.
+
+This is accomplished through:
+
+* Educational programs
+* The promotion of high-level languages, reproducible scientific research, and
+  open-code development * An increase in collaborative research tools and
+  documentation
+
+3.  Certificate of Formation:
+
+- Through research grants, scholarships, project sponsorships, and maintenance
+  of open source software, NumFOCUS will promote the development and use of
+  high-level, array-based computer languages for improving the practice of
+  reproducible science, engineering, and data analytics.
+
+Software Carpentry workshops
+
+* NumFocus “Distribution”.  Idea was raised about creating/distributing
+  complete distribution for scientific computing.  Feeling was that this was
+  the kind of activity the foundation might financially support, but probably
+  wouldn’t be a core activity of the foundation itself.
+
+* Promoting SC workshops through NumFocus was generally supported.  Will be
+  added to our educational projects page along with inSCIght.
+
+AOE media Inc. sponsorship
+
+Action Items
+------------
+
+* Jarrod:  Contact David about discussing fundraising practices with us and
+  mention.
+* Fernando:  Organize Numfocus BoF at US SciPy to adopt bylaws and promote
+  foundation.  Present foundation in lightning talk.
+* Leah:  Send email with specific items left for 501(c)(3) application
+* Travis:  Contact Van Lindberg to review application.
+* John:  Contact XX to review application.

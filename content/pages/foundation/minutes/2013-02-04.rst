@@ -1,17 +1,17 @@
-Minutes - February 4, 2013
-##########################
+Minutes - February 04, 2013
+###########################
 :url: foundation/minutes/board-meeting-minutes2013-02-04.html
 :save_as: foundation/minutes/board-meeting-minutes2013-02-04.html
 
 
-Participating
--------------
-
+Attendance
+----------
+**Participating**:
 Leah Silen, Travis Oliphant, Anthony Scopatz, Ralf Gommers, Fernando
 Perez, Andy R. Terrel, Perry Greenfield, Jarrod Millman
 
-Not attending
- Prabhu Ramachandran, Emmanuelle Gouillart
+**Not Attending**:
+Prabhu Ramachandran, Emmanuelle Gouillart
 
 Approval of prior minutes
 -------------------------
@@ -19,7 +19,7 @@ Approval of prior minutes
 Prior minutes have been approved.
 
 Old Business
-------------
+============
 
 Boot Camp for Women in Science and Engineering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,7 +101,7 @@ Nothing to report
 
 
 New Business
-------------
+============
 
 Approved minutes are now on the website under "Board"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

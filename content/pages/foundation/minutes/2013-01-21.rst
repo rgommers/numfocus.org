@@ -4,15 +4,13 @@ Minutes - January 21, 2013
 :save_as: foundation/minutes/board-meeting-minutes2013-01-21.html
 
 
-Participating
--------------
-
+Attendance
+----------
+**Participating**:
 Leah Silen, Travis Oliphant, Anthony Scopatz, Ralf Gommers, Jarrod
 Millman, Prabhu Ramachandran.
 
-Not Attending
--------------
-
+**Not Attending**:
 Fernando Perez, Emmanuelle Gouillart, Andy R. Terrel, Perry Greenfield
 
 Approval of Prior Minutes
@@ -21,7 +19,7 @@ Approval of Prior Minutes
 Minutes look fine, and are approved.
 
 Old Business
-------------
+============
 
 a.  Sloan Foundation
 
@@ -64,7 +62,7 @@ Finance
 - No reports yet.
 
 New Business
-------------
+============
 
 a.  Boot Camp for Women in Science and Engineering
 
@@ -103,4 +101,4 @@ agreeing to under-write a conference itself.
 
 Next Meeting
 ------------
- February 4, 2013
+February 4, 2013

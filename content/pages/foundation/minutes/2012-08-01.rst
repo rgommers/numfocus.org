@@ -1,0 +1,133 @@
+Minutes - August 01, 2012
+#########################
+:url: foundation/minutes/board-meeting-minutes2012-08-01.html
+:save_as: foundation/minutes/board-meeting-minutes2012-08-01.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Holdridge, Travis Oliphant, Jarrod Millman, Perry Greenfield, Fernando
+Perez, Anthony Scopatz.  Greg Wilson is present as guest.
+
+**Not Attending**:
+John Hunter
+
+Treasurer’s Report
+------------------
+* Decided to fund PyPy-in-a-box (Maciej Fijalkowski).
+
+Old Business
+============
+- SciPy: citations project, reorganization of web pages for numpy/scipy,
+  Numfocus could encourage/support this process.  Good funding discussion, the
+  idea that numfocus could be explicitly promoting the tools.
+
+- Idea: as part of our grants program, we could offer a small amount (yet to be
+  determined) to community members who offer to run specific events at their
+  conferences: tutorials, minisymposia, panels, etc. The
+
+- 501(c)(3) Update
+
+Leah is working on a detailed narrative that is required by the IRS for the
+application.  Indicating what we are solving by creating the organization.  We
+need to have concrete amounts on how much we fund things like students and
+mentors in our fellowship program, since these questions are very specific in
+the IRS application.  Leah sent the ‘Group exemptions’ information, as we need
+to apply for that separately.  This lets us act as umbrella organization for
+other groups (astropy, sympy, etc).  This is separate from fiscal sponsorship,
+these groups become known as ‘Subordinate organizations’.  Greg Wilson
+indicates that if the PSF had done this 14 years ago, the process for Software
+Carpentry would have been much smoother.  It would give a path for small to
+medium sized groups to have the benefits of 501c3 status without having to do
+the full-blown application process by themselves.  In practice, the IRS is
+delegating the authority to grant 501c3 coverage to us, as long as we accept
+the responsibility of vetting and monitoring those who get that coverage.
+
+- Individual donor contributions
+
+- Bylaws: signing
+
+- AOE media Inc. sponsorship
+
+New Business
+============
+- Changes to our Certificate of Formation:  need formal approval of new purpose
+  and supplemental provision reflecting the purpose of NumFOCUS agreed on last
+  meeting
+
+- Citation/publication list: Anthony
+
+- Sloan foundation opportunities: Fernando
+
+- For 501c3 application:
+
+1) we need to have an itemized list of all gifts, grants, and other amounts
+   paid out for this year. We have a total of $34,000 on our budget
+
+2) I also have to itemize gross receipts from merchandise sold or services
+   performed.  We have $750 for this year on the budget.
+
+Since this is not required by the IRS, we will zero it out for now and will
+deal with sales/services when we actually have any.
+
+- Addresses for Jarrod and John to send the bylaws signature page
+
+-   501c3 Group Exemptions
+
+- Donations: Jarrod will check that donating actually works with a small
+  amount, and then will draft a mini-pledge drive and then with Fernando will
+  send it to all the relevant mailing lists asking for small amounts.  We will
+  in the next meeting collect statistics on this.
+
+- We need to find out how to make a donation without forcing the donor to have
+  a paypal/google account.  Paypal seems to indicate that’s possible
+  (https://www.paypal.com/uk/cgi-bin/webscr?cmd=xpt/cps/general/OptionalAccount-outside),
+  but their payment page doesn’t show a way to not create an account.
+
+- Greg Wilson
+
+By 5pm Friday, Mozilla has to submit an application to the Sloan foundation
+that will fund Software Carpentry (SWC) for 2 years.  This would allow SWC to
+scale its coverage to ~2500-3000 scientists.  The workshops would continue
+covering the ‘stack’ SWC covers so far: shell, version control, testing,
+python, etc.  Greg Wilson is shifting his personal focus to ‘train the
+trainers’ so that SWC has more trainers.  Greg is asking for better
+communication and coordination with numfocus on what tools we use, how we
+teach, etc.  If grant is funded, Matlab will be dropped from the curriculum,
+and Windows support may also be dropped because Windows users consume too many
+resources. Git may be dropped as the version control tool in favor of mercurial
+because of past difficulties. SWC is looking to expand towards Latin America
+and the European Union.
+
+- Josh Greenberg: Fernando will contact Josh, Travis and Leah to start the
+  conversation with the Sloan foundation regarding possible help from them with
+  our becoming a 501c3.
+
+- There are a few changes to the IRS.  We need to amend the old purpose of the
+  foundation to a new purpose:
+
+New purpose:
+------------
+
+The  purpose of NumFOCUS is to promote the use of accessible and reproducible
+computing in science and technology.
+
+This is accomplished through:
+
+* Educational programs
+* The promotion of high-level languages, reproducible scientific research, and
+  open-code development
+* An increase in collaborative research tools and documentation
+
+Old purpose:
+------------
+
+Through research grants, scholarships, project sponsorships, and maintenance of
+open source software, NumFOCUS will promote the development and use of
+high-level, array-based computer languages for improving the practice of
+reproducible science, engineering, and data analytics.
+
+
+Votes: Jarrod, Perry, Fernando approve these changes to our official purpose
+statement.

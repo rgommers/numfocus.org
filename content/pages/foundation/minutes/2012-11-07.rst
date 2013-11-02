@@ -1,0 +1,72 @@
+Minutes - November 07, 2012
+###########################
+:url: foundation/minutes/board-meeting-minutes2012-11-07.html
+:save_as: foundation/minutes/board-meeting-minutes2012-11-07.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Holdridge, Perry Greenfield, Fernando Perez, Anthony Scopatz, Travis Oliphant.
+
+**Not Attending**:
+Jarrod Millman
+
+News Items
+==========
+
+IPython
+-------
+IPython proposal got very positive reviews. Fernando is optimistic about funding.
+
+501(C)(3)
+
+We should revisit the idea of being an umbrella organization in February.
+
+Sloan Foundation? Fernando will wait to see if he gets the Sloan grant, if that goes through, will ask about how they could help us.
+
+PyData
+------
+Leah distributed information at PyData NYC and the new PyData Silicon Valley site allows for donations as part of the registration process, it’s already getting some money that way.
+
+IPython donations
+
+It has already been working, there’s around $100-$200 already there.
+
+New Business
+============
+Donate buttons? Were already made for IPython and SymPy.  Anthony will have a list of points of contact for each project and will formalize how the button creation process works.
+
+The Google Wallet buttons can now be added, because we’ve been cleared by Google.
+
+Process for transfering money for sponsored projects:
+
+* numfocus will write receipts
+* projects will submit an invoice. Numfocus will create a simple invoice form that projects can use.
+* when these two things are done, numfocus will transfer the money to the point of contact for each project. We will never give funds to anyone but the project point of contact.
+
+Travis mentioned that Dwolla works very well and numfocus is already set up with Dwolla.  Anthony plans on offering PayPal, Google Wallet, Dwolla and WePay buttons.
+
+We need a mechanism to offer access to the sponsored projects to their balances without bugging Anthony constantly with questions.
+
+Anthony Scopatz as new board member?
+
+All current board members voted yes on adding him as a board member.
+
+New board members?
+
+We will expand the board size to nine.
+
+IPython/Mozilla possible grant
+
+Mozilla foundation could perhaps fund some IPython work but it must be done before the end of the year.  Fernando asks whether we could try to do this via numfocus.  Travis, Leah and Anthony are supportive of the idea.  The logistics of getting money to Europe are a little more complex, but it can be made to work.
+
+Perry asks: it’s basically contract work, is that going to be OK with the IRS?  Fernando will try to clarify this with Mozilla.
+
+The John Hunter technical fellowship
+
+The fellowship will now be named the John Hunter Technical Fellowship. Approved by the board.
+
+PyCon 2013 presence?
+
+Leah will look into whether Numfocus can be a community sponsor.

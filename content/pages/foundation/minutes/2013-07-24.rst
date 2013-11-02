@@ -1,0 +1,42 @@
+Minutes - July 24, 2013
+#######################
+:url: foundation/minutes/board-meeting-minutes2013-07-24.html
+:save_as: foundation/minutes/board-meeting-minutes2013-07-24.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Jarrod Millman, Didrik Pinte, Ralf Gommers
+
+**Not Attending**:
+Anthony Scopatz, Fernando Perez, Perry Greenfield, Andy Terrel, Emmanuelle
+Gouillart, Travis Oliphant
+
+7/10 minutes approved
+---------------------
+
+
+Treasurer’s Report
+------------------
+Anthony was not in attendance, so there was no treasurer’s report.
+
+Old Business
+============
+a.  Fiscal Sponsorship Update
+
+We are sending the current draft to Tony Sebro.  It also looks like we won’t be getting insurance.  Leah will ask Tony about whether the fiscal sponsorship will provide projects and project leads some amount of personal liability protection.  Didrik brought up the idea that we may need to do some risk assessment for large contributions.  We also discussed the need for a reserve fund and how we might fund it.  Leah will look into reserve funds and how we should proceed.  Leah is also following up a contact from Van Lindberg about advice from organizations/individuals regarding fiscal sponsorship.
+
+b.  Website re-design
+
+We haven’t heard back from Anthony about whether Matt Terry wanted to take on the role of leading the website team.  Leah is becoming more familiar with the github/pelican workflow.
+
+Team Reports 
+-------------
+Membership:  We still need to finalize and approve membership rules.  Will continue discuss and review over email.
+
+New Business
+============
+a.  EuroSciPy BoF
+
+Ralf, Didrik, and Emmanuelle (perhaps others) will lead a BoF similar to the one at the Austin meeting.

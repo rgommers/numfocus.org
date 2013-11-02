@@ -1,0 +1,80 @@
+Minutes - May 29, 2013
+######################
+:url: foundation/minutes/board-meeting-minutes2013-05-29.html
+:save_as: foundation/minutes/board-meeting-minutes2013-05-29.html
+
+
+Attendance
+----------
+**Participating**:
+Anthony Scopatz, Leah Silen, Ralf Gommers, Didrik Pinte, Jarrod Millman,
+Fernando Perez
+
+**Not Attending**:
+Travis Oliphant, Andy Terrel, Perry Greenfield, Emmanuelle Gouillart
+
+Treasurer’s Report
+------------------
+Hans-Petter Langtangen, on behalf of Simula Research Laboratory in Oslo,
+Norway, made a $10,000 donation to the matplotlib project. We’ll make an
+announcement of this on the NF website/mailing list.
+
+5/15: Minutes approved
+----------------------
+
+Old Business
+============
+
+a.  Fiscal Sponsorship - Approval
+    https://docs.google.com/document/d/1io9G2hJQ4-4EGy4Pqmlb9N-5MqMdmBMlzL_NhCBWfF4/edit
+
+VOTE PASSED: We decided to remove this paragraph entirely and if it turns out
+that “Ultimate Responsibility” clauses are needed, we can always add this
+language back in either the main part of the document or as an addendum.
+
+b.  Simula - $10,000 donation to matplotlib:  We’ll need to publicize now that
+    the funds have come through.
+
+c.  Sponsor level discussion and approval:
+    https://docs.google.com/a/numfocus.org/document/d/12mjYidMAoA723gM07Dy7RCiRjZIpu4OHXw4Fv7pwcf0/edit
+    https://docs.google.com/a/numfocus.org/document/d/12mjYidMAoA723gM07Dy7RCiRjZIpu4OHXw4Fv7pwcf0/edit
+
+This was approved unanimously.
+
+d.  Astropy request for approval of NumFOCUS taking ownership of the ERFA
+    library, (Essential Routines for Fundamental Astronomy) - This was approved
+    by an email vote 
+
+Team reports
+------------
+
+Fernando will contact Josh Greenberg (Sloan), ccing Ralf, Andy, Jarrod and
+Travis, to find out about the status of our request to the foundation.
+
+New Business
+============
+
+a.  SciPy NumFOCUS BoF: Andy submitted a BoF session for the SciPy conference,
+    as per the mailing list.
+
+b. The women in science and engineering bootcamp, hosted in conjunction with
+   Software Carpentry, is moving forward. Anthony and Leah have been working on
+   the project and the financial management. Tracy Teal is heading up the
+   instructor team for SWC on this project. JP Morgan has made a substantial
+   donation to this women in tech project; they will send some of their
+   engineers and developers to participate in the event as assistants and will
+   help out.  There are 120 confirmed attendees and a waiting list. JP Morgan
+   is sponsoring a dinner event with the group.
+
+c. Didrik reported that EuroSciPy is moving forward with the sponsorship plan
+   discussed earlier, we should have a confirmed decision in a few weeks. The
+   creation of the European bank account is moving forward; Anthony indicates
+   that if EuroScipy needs the funds before this account is ready, he could
+   wire from the US (though it’s more expensive and less ideal).
+
+f. Jarrod asked about the conference calling tech being used. We voted to
+   cancel the NF GotoMeeting account, which was expensive ($150/month). We’ll
+   test out Google+ hangouts, using Enthought’s GotoMeeting account as backup
+   if needed, which they don’t need in that time slot.
+
+Next meeting: 6/12

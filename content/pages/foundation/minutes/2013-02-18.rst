@@ -1,0 +1,80 @@
+Minutes - February 18, 2013
+###########################
+:url: foundation/minutes/board-meeting-minutes2013-02-18.html
+:save_as: foundation/minutes/board-meeting-minutes2013-02-18.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Travis Oliphant, Anthony Scopatz, Fernando Perez, Andy R. Terrel,
+Perry Greenfield, Jarrod Millman, Emmanuelle Gouillart
+
+**Not Attending**:
+Prabhu Ramachandran, Ralf Gommers
+
+Approval of prior minutes
+-------------------------
+Prior minutes have been approved.
+
+Treasurer’s Report
+------------------
+Purchased MacMini and rented space to host it at MacMiniVault.
+
+1. MacMiniValut Annual Rental:  $323.46
+
+2. MacMini - 2.3 GHz i7, 8 GB Memory: $899 + Tax + Shipping
+
+Old Business
+============
+a.  Fundraising for Boot Camp for Women in Science and Engineering
+
+Travis started blog post and will add a link on the numfocus site to have a targeted donation.  Will have an embeddable button so others can put on their pages the snippet which would create donations that are automatically tagged for this boot camp.  Travis will send the link once it’s ready so we can all tweet/g+.
+
+b.  Update for Mac Mini
+
+See treasurer’s report above.
+
+c.  PyGotham update
+
+It has a connection to the women in bootcamp as it’s run by Gloria, a member of PyLadies.  Travis is planning to contact more targeted people in NYC that he knows, and continues to work on this.
+
+d. Board size update
+
+5 responses, keep odd number and 9 members, and consider issue now--not later.  The plan is to move in the direction of replacing Prabhu with Didrik Pinte from Enthought, which was suggested in an email by Prabhu.  Jarrod will contact Prabhu to double-check that he’s OK with the idea and that the board didn’t mis-understand his intent.  Jarrod will encourage Prabhu to remain as engaged with Numfocus as his time allows, without having to worry about making the time for the Board meetings.  We’ll also ask him to remain on the board until Didrik accepts.  Once he accepts, Jarrod will get his email/bio/photo for the website.
+
+Team Reports
+============
+
+Membership
+----------
+
+Perry is preparing a document that would be a “Why should you be a Numfocus member?” discussion that can be disseminated to encourage membership.  It will promote both the self-interested and altruistic benefits of membership.  This will be available as a distributable brochure and as an html page on the site.  It would be ideal to have it done by PyCon 2013.
+
+Fundraising
+-----------
+We plan to build a page that has a number of events that are happening within the scope of Numfocus: scientific python conferences, tracks/minisymposia at larger conferences, meetings, bootcamps, sprints, etc.  This page would summarize all upcoming events, with link to the event’s own page, and would offer a single button per event to allow targeted donations to be made.  There would also be a main button for generic donations, in case someone wants to make an un-targeted donation, but the specific buttons will allow people to choose which event they want to fund.
+
+Need concise (1-page?) summary for fundraising available as PDF and HTML (maybe discussion with Publicity/promotion). 
+
+Publicity/Promotion
+-------------------
+
+twitter added to numfocus website.  Fernando will also tweet from it, and so can others.  It will be linked in the pydata site.
+
+Grants/Fellowships
+------------------
+Andy and Ralf have been swamped with Scipy’13 organization, but continue to make progress on the financing of the technical fellowship.  More will be announced at the next meeting.
+
+Finance
+-------
+Anthony is focusing on getting Numfocus a European banking account and our upcoming tax filing.
+
+New Business
+============
+
+a. Transfer of SciPy Central domain names to NumFOCUS.
+
+Numfocus has hosting at namecheap.com, we need to get an EPP code from the original owner of the domain.  Jarrod will sort out who owns the domain right now to get the codes.
+
+Numpy.org has already been transfered, numpy.com has had a glitch where the EPP codes have failed, need to investigate further.

@@ -1,0 +1,86 @@
+Minutes - May 15, 2013
+######################
+:url: foundation/minutes/board-meeting-minutes2013-05-15.html
+:save_as: foundation/minutes/board-meeting-minutes2013-05-15.html
+
+
+Attendance
+----------
+**Participating**:
+Anthony Scopatz, Leah Silen, Perry Greenfield, Fernando Perez, Andy Terrel,
+Emmanuelle Gouillart
+
+**Not Attending**:
+Jarrod Millman, Ralf Gommers, Travis Oliphant, Didrik Pinte
+
+Approval of Minutes From Last Meeting 
+--------------------------------------
+
+a. Minutes can be viewed at: 
+
+https://docs.google.com/a/numfocus.org/document/d/1fyK21hL4r83foiPzlWwbeCOTCe0Btn92vSK9QwAx22c/edit#
+
+The minutes were approved.
+
+Treasurer’s Report
+------------------
+* Checking: $2,893.04
+* Savings: $4,549.27
+
+We filed an IRS form 8868 on May 14th (Woohoo!).  This gives us a 3-month
+extension to file our 990 form and Schedule A.  In this time we will contact an
+accountant and file our 990.
+
+Old Business
+============
+
+a.  Fiscal Sponsorship https://docs.google.com/document/d/1io9G2hJQ4-4EGy4Pqmlb9N-5MqMdmBMlzL_NhCBWfF4/edit
+
+Detailed discussions of the language of the document took place, and all edits
+will be put on github for approval of the final version over the next week.
+
+b.  Sponsor level discussion and approval:
+    https://docs.google.com/a/numfocus.org/document/d/12mjYidMAoA723gM07Dy7RCiRjZIpu4OHXw4Fv7pwcf0/edit
+
+Leah requested input on this document so that we have official ‘levels’ of
+sponsorship for corporate donations, based on feedback obtained from industry
+partners who are interested in providing support for NumFOCUS but want
+explicitly defined amounts to participate.
+
+Team Reports 
+=============
+
+Membership 
+-----------
+* Switch corporate membership to sponsorship
+* Membership Information Form approval
+  https://docs.google.com/a/numfocus.org/spreadsheet/gform?key=0AgeZEXdbNXbVdEt4MGJ2Rk0zSFJLTHNIMGhGWDdTYVE&gridId=0#edit
+
+Publicity
+---------
+* Call for someone to redesign website through mailing list, Leah will continue
+  this conversation in public.
+
+New Business
+============
+a.  Donation for matplotlib from Simula. Hans-Petter Langtangen is managing the
+    paperwork to make a donation earmarked for matplotlib support.
+
+b.  Astropy request for approval of NumFOCUS taking ownership of the ERFA
+    library, (Essential Routines for Fundamental Astronomy) 
+
+The license of this library is not GPL-compatible, and the authors aren’t
+willing to change the license.  But the authors are willing to allow a fork of
+the library that changes the *name* of the project, and which then will
+relicense the newly-named project. 
+
+Perry will circulate by email the original license so we can take an email vote.
+
+c. PyData Boston - July 27-28. This will be the next pydata event, 2-days, held
+   at a Microsoft venue (donated by MS).  Leah is looking for speakers,
+   Fernando will send a few links to her.
+
+d. Funding Request: Women in Science reception at SciPy 2013. This will be led
+   by Kristen Ting and Barbara Shaurette (from PyLadies Austin). Andy is
+   requesting $300, and he will seek matching funds from the PSF.  A was taken
+   and approved.

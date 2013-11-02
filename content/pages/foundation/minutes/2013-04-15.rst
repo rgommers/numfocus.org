@@ -1,17 +1,16 @@
 Minutes - April 15, 2013
 ########################
-:url: foundation/minutes/board-meeting-minutes2013-04-15s.html
-:save_as: foundation/minutes/board-meeting-minutes2013-04-15s.html
+:url: foundation/minutes/board-meeting-minutes2013-04-15.html
+:save_as: foundation/minutes/board-meeting-minutes2013-04-15.html
 
 
-Participating
-^^^^^^^^^^^^^
-
+Attendance
+----------
+**Participating**:
 Ralf Gommers, Didrik Pinte, Anthony Scopatz, Leah Silen, Perry
 Greenfield, Fernando Perez, Andy Terrel, Travis Oliphant
 
-Not attending
-
+**Not Attending**:
 Emmanuelle Gouillart, Jarrod Millman
 
 Treasurer’s Report
@@ -21,7 +20,7 @@ We have until May 15th to file our 990 forms for the IRS.  Didrik is
 working on the European bank account, it’s moving along.
 
 Old Business
-~~~~~~~~~~~~
+============
 
 a.  Proceeds from PyData
 
@@ -40,14 +39,14 @@ Team Reports
 bank account.
 
 New Business
-~~~~~~~~~~~~
+============
 
 For next week, take some time to think about what the corporate
 sponsorship levels are and what they mean.  We need a more solid
 business model here.  Look at the Van Lindberg email from the PSF.
 
 Fiscal Sponsorship
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 -  Establishment of rules for projects to have formal relationship with
    NumFOCUS

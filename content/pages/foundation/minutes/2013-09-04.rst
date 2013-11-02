@@ -1,0 +1,80 @@
+Minutes - September 04, 2013
+############################
+:url: foundation/minutes/board-meeting-minutes2013-09-04.html
+:save_as: foundation/minutes/board-meeting-minutes2013-09-04.html
+
+
+Attendance
+----------
+**Participating**:
+Andy R. Terrel, Travis Oliphant, Didrik Pinte, Perry Greenfield, Leah Silen
+
+**Not Attending**:
+Emmanuelle Gouillart, Ralf Gommers, Anthony Scopatz, Fernando Perez, Jarrod Millman
+
+Treasurer’s Report
+------------------
+(Anthony's report, given by Travis)
+
+* No money from JPMorgan yet, promised venue for PyData NYC
+
+* More visibility needed for projects funds.  
+
+   - Not easy solutions:
+
+      + QuickBooks expensive
+      + Spreadsheets don’t scale but might do so for a while
+
+   - Scikit-learn would probably be okay with a spreadsheet
+
+* Start with private spreadsheet or monthly report
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+The minutes have been approved.
+
+Old Business
+============
+
+FSA
+---
+General consensus seems that grantor-grantee with more service for
+trademark and such.  Comprehensive should be made available by request.
+
+Need to rewrite FSA document - Need volunteers - Travis recommends to
+just write documents as needed rather than full rewrite now. Have a
+board member be responsible for approving use of funds.  Best
+protection we have is really to get a bigger membership, could spend
+many many hours on legalize and still not have everything setup
+correctly.
+
+Andy’s concern is just having a representative from each community
+and formalizing that enough to avoid problems.
+
+Andy suggests moving ahead with small contracts with orgs that are
+begin held up, Travis starting a template for these orgs:
+
+    - Scikit-learn,
+    - Matplotlib,
+    - Sympy, 
+    - Spyder
+
+        
+New Website
+-----------
+Leah gives update on switch over to new one developed by Matt Terry.  Still
+working on the bugs.  Adding content to old site for now. Hopefully launch in
+the next month.
+
+Membership Update
+-----------------
+Should be set to process new members and start campaign.  Amendment to bylaws
+posted, working on change content on site about membership.
+
+New Business
+============
+a.  Madagascar Project headed by Sergey Fomel asked to be a sponsored project.
+
+b. Sponsor of SciPy2014, what kind of sponsorship would NumFOCUS be interested in.  Maybe discuss being a 501(c)(3) partner for the meeting.
+
+c. PyData Boston meeting will bring in $5K to be used for projects or sponsoring attendance to future meetings.
