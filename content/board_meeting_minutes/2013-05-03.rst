@@ -1,0 +1,21 @@
+May 03, 2013
+############
+:date: 2013-05-03
+:slug: board-meeting-minutes-2013-05-03
+
+Participating
+-------------
+Anthony Scopatz, Leah Silen, Perry Greenfield, Fernando Perez, Andy Terrel
+
+Not attending
+-------------
+Emmanuelle Gouillart, Jarrod Millman, Ralf Gommers, Travis Oliphant
+
+Treasurer’s Report
+------------------
+* Checking: $2,965.04
+* Savings: $4,549.27
+
+We will file an IRS form 8868 by May 15th for a 3-month extension to file our 990 form and Schedule A.  In this time we will contact an accountant.
+
+Discussion on fiscal sponsorship document was started.

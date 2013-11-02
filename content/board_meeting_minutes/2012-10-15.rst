@@ -1,0 +1,18 @@
+October 15, 2012
+################
+:date: 2012-10-15
+:slug: board-meeting-minutes-2012-10-15
+
+Participating
+-------------
+Leah Holdridge, Jarrod Millman, Perry Greenfield, Fernando Perez, Anthony Scopatz. 
+
+Not attending
+-------------
+Travis Oliphant
+
+John Hunter’s image on front page
+
+When to remove it? Anthony proposes to let it follow a natural course, whenever we have an event next that needs that space.
+
+Announce membership 

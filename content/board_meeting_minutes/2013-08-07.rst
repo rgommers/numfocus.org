@@ -1,0 +1,58 @@
+August 07, 2013
+###############
+:date: 2013-08-07
+:slug: board-meeting-minutes-2013-08-07
+
+
+Participating
+-------------
+Leah Silen, Anthony Scopatz, Andy Terrel, Fernando Perez,
+
+Not attending
+-------------
+
+Treasurer’s Report - Anthony
+----------------------------
+* Checking: $9,150.46
+* Savings: $4,849.86
+
+Expecting a few checking acct. disbursements: reimbursements, M. Droetboom is waiting for the Mac Mini reimbursement.  Matplotlib is having a meeting on August 15th, at that point they will have a better idea of their expenses.
+
+We should get a second person to help out with treasurer activities, which is right now the most demanding job of all and Anthony is overloaded with this work.
+
+Taxes are due on the 15th, so Anthony is very busy with that.
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+The minutes have been approved.
+
+Old Business
+============
+a.  Update on Fiscal Sponsorship Agreement
+
+Tony Sebro (from Software Conservancy) reviewed our current FSA draft, and he indicated that in its current form, our FSA is ambiguous regarding whether we are engaging a grantor-grantee relationship or a full sponsorship one.  Once he returns from vacation he offered to join us in a phone call.
+
+Liability coverage was also discussed, he indicated that under a grantor-grantee model, liability for actions outside of a specific grant would rest on the individual project members.
+
+Action item: we will schedule a special phone call with Tony and as many board members as  possible to further discuss his evaluation of our FSA and gather advice.
+
+ 
+New Business
+============
+a. Board member size (potential to include someone from R maybe Julia?)
+
+Worry about dilution and bystander effect for the board.  Increasing size would make it worse.  Perhaps asking if there is a board member who would be willing to step down and invite someone from one of the new committees. 
+
+Perhaps a better approach would be an annual review where board members are able to volunteer for the next year. Then community members from R and Julia can be invited to join that process.  Importantly making sure that there is not a Python bias always in the future. 
+
+We propose a date for this board election, June 1st. 
+
+In short term a proposal is to include non-board members to committees. At very minimum start with a membership drive with R and Julia communities to join our mailing list.  We should find a champion from each community to make our case.  We should draft a letter for these champion asking two things:
+
+1. Become a NumFOCUS member
+
+2. Join our mailing list.
+
+Question: Are we done defining our membership model?
+
+Point of information: 227 ppl on NumFOCUS public mailing list.
