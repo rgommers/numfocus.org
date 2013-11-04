@@ -1,14 +1,14 @@
-October 02, 2013
-################
+Board Meeting Minutes, October 02, 2013
+#######################################
 :date: 2013-10-02
 :slug: board-meeting-minutes-2013-10-02
 
-Participating
--------------
+Attendence
+==========
+**Participating**: 
 Leah Silen, Perry Greenfield, Matt Terry, Fernando Perez, Anthony Scopatz, Andy R. Terrel
 
-Not Attending
--------------
+**Not Attending**:
 Emmanuelle Gouillart, Jarrod Millman, Travis Oliphant, Didrik Pinte, Ralf Gommers
 
 Treasurer’s Report - Anthony 
@@ -19,75 +19,78 @@ Treasurer’s Report - Anthony
 
 Approval of Minutes from Last Meeting
 -------------------------------------
-
 - Leah will hightlight things that are not public
 
-Approved: Matt and Anthony
+- Approved: Matt and Anthony
 
 
 Old Business
 ------------
 
-a. FSA - Tony’s comments on G/G model
-
-  - Tabled for next meeting
-  - Leah and Travis are rephrasing and will send around again.
+FSA - Tony’s comments on G/G model
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Tabled for next meeting
+- Leah and Travis are rephrasing and will send around again.
 
 New Business
 ------------
 
-a. Accounting software update
+Accounting software update
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  - Now fully integrated with quickbooks
+- Now fully integrated with quickbooks
 
-  - Try to refine for more transactional details
+- Try to refine for more transactional details
 
-  - Quick books good at accounting, however less so at storing documents for auditing. An extra add-on called SmartVault, which we are using, can do this for us.  Still in the trial phase for both products, but strongly feel we should buy these services.  About $40/month for Quickbooks and $20/month for SmartVault, ~$700/year - $100.
+- Quick books good at accounting, however less so at storing documents for
+  auditing. An extra add-on called SmartVault, which we are using, can do this
+  for us.  Still in the trial phase for both products, but strongly feel we
+  should buy these services.  About $40/month for Quickbooks and $20/month for
+  SmartVault, ~$700/year - $100.
 
-  - Motion to make expense proposed by Anthony.
+- Motion to make expense proposed by Anthony.
 
-  - Seconded by Fernando
+  1. Seconded by Fernando
 
-  - Passed unanimously.
+  2. Passed unanimously.
 
-b. Six weeks left for tax filing. Paid TANO to file taxes, and require raw data.
+Six weeks left for tax filing. Paid TANO to file taxes, and require raw data.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  - Anthony requests for Leah to interface with TANO on this action
+- Anthony requests for Leah to interface with TANO on this action
 
-    + Can give quickbooks sharing, don’t use personal accounts, have numfocus.org account
+  + Can give quickbooks sharing, don’t use personal accounts, have numfocus.org
+    account
 
-    + Critical to have more than Anthony to know about the system.
+  + Critical to have more than Anthony to know about the system.
 
-  - Can SmartVault handle documents signed by orgs?
+- Can SmartVault handle documents signed by orgs?
 
-    - No webpage, for automatic handling, but a user can specify.  
+  + No webpage, for automatic handling, but a user can specify.  
 
-    - Envision a system with 1-3 pdf’s per transactions.
+  + Envision a system with 1-3 pdf’s per transactions.
 
-    - Need to become much more formal about the process. Hopefully through the website.
+    * Need to become much more formal about the process. Hopefully through the
+      website.
 
-c. Getting other people to know the process
+Getting other people to know the process
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* London user on mailing list knows about running financials of orgs.
+  - Do people know him?
+    + No.
+  - What kind of things do we want him to help out?
+    + Fernando suggests a formal interview with references due to the nature of
+      financial information.
+    + At first, no spending authority (no one other than someone officially a
+      member of board)
+    + Interview to even have access to information
+      a. Ask for resume 
+      b. Ask for three references
+  - Anthony will send out email to him to start this process
 
-  i. London user on mailing list knows about running financials of orgs.
+Misc
+----
 
-    - Do people know him?
+* Leah will get information about pursuing a line of credit.
 
-      + No.
-
-    - What kind of things do we want him to help out?
-
-      + Fernando suggests a formal interview with references due to the nature of financial information.
-
-      + At first, no spending authority (no one other than someone officially a member of board)
-
-      + Interview to even have access to information
-
-         a) Ask for resume 
-
-         b) Ask for three references
-
-   ii. Anthony will send out email to him to start this process
-
-  e. Leah will get information about pursuing a line of credit.
-
-  f. Leah put in shared numfocus drive: FSA Donation Suggestions from Tony
+* Leah put in shared numfocus drive: FSA Donation Suggestions from Tony
