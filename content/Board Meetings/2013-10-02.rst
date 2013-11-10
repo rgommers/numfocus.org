@@ -19,7 +19,7 @@ Treasurer’s Report - Anthony
 
 Approval of Minutes from Last Meeting
 -------------------------------------
-- Leah will hightlight things that are not public
+- Leah will highlight things that are not public
 
 - Approved: Matt and Anthony
 
@@ -38,14 +38,14 @@ New Business
 Accounting software update
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Now fully integrated with quickbooks
+- Now fully integrated with QuickBooks
 
 - Try to refine for more transactional details
 
-- Quick books good at accounting, however less so at storing documents for
+- QuickBooks good at accounting, however less so at storing documents for
   auditing. An extra add-on called SmartVault, which we are using, can do this
   for us.  Still in the trial phase for both products, but strongly feel we
-  should buy these services.  About $40/month for Quickbooks and $20/month for
+  should buy these services.  About $40/month for QuickBooks and $20/month for
   SmartVault, ~$700/year - $100.
 
 - Motion to make expense proposed by Anthony.
@@ -59,7 +59,7 @@ Six weeks left for tax filing. Paid TANO to file taxes, and require raw data.
 
 - Anthony requests for Leah to interface with TANO on this action
 
-  + Can give quickbooks sharing, don’t use personal accounts, have numfocus.org
+  + Can give QuickBooks sharing, don’t use personal accounts, have numfocus.org
     account
 
   + Critical to have more than Anthony to know about the system.
@@ -76,16 +76,24 @@ Six weeks left for tax filing. Paid TANO to file taxes, and require raw data.
 Getting other people to know the process
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * London user on mailing list knows about running financials of orgs.
+
   - Do people know him?
+
     + No.
+
   - What kind of things do we want him to help out?
+
     + Fernando suggests a formal interview with references due to the nature of
       financial information.
+
     + At first, no spending authority (no one other than someone officially a
       member of board)
+
     + Interview to even have access to information
+
       a. Ask for resume 
       b. Ask for three references
+
   - Anthony will send out email to him to start this process
 
 Misc
