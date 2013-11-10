@@ -24,7 +24,7 @@ Old Business
 ============
 a.  Fiscal Sponsorship update - https://github.com/numfocus/fiscal-sponsorship
 
-Fernando Perez gave a short update on the discussion at SciPy conference.  Basically there was a NumFocus BOF where the primary discussion was presenting the current fiscal sponsorship with the community.   Major changes related to how the sponsored projects would be organized and all changes were made to the document in a minisprint at the end of the conference. Leah is getting legal feedback on the current draft as well as looking into insurance and liability issues.  Once we receive this feedback, we are currently expecting to be able to finalize this quickly.
+Fernando Perez gave a short update on the discussion at the SciPy'13 conference.  Basically there was a NumFocus BOF where the primary discussion was presenting the current fiscal sponsorship with the community.   Major changes related to how the sponsored projects would be organized and all changes were made to the document in a minisprint at the end of the conference. Leah is getting legal feedback on the current draft as well as looking into insurance and liability issues.  Once we receive this feedback, we are currently expecting to be able to finalize this quickly.
 
 Leah reports that Tony Sebro, currently legal counsel for Software Conservancy would be willing to work with NumFOCUS on an hourly basis at a rate of $200/hour. He thinks that reviewing our current FSA would take ~1 hour of work, given it was derived from the SWC one.
 
@@ -40,7 +40,7 @@ Done scipy.org and maybe additional sites.  Ralf will send an email  to follow-u
 
 d.  Report on Women in Science and Engineering Boot Camp and future event plans
 
-Leah reported that the Boston WISE Bootcamp was a great success. Leah gave a presentation at the event about NumFOCUS, and there was a lot of interest from the community of women who participated.   There’s a flickr set with pictures from the event and some blog posts about it, Leah will send a post to the NF mailing list with these links.  There’s a plan to continue doing these WISE meetings in the future as funds allow.
+Leah reported that the Boston WISE Bootcamp was a great success. Leah gave a presentation at the event about NumFOCUS, and there was a lot of interest from the community of women who participated.   There’s a Flickr set with pictures from the event and some blog posts about it, Leah will send a post to the NF mailing list with these links.  There’s a plan to continue doing these WISE meetings in the future as funds allow.
 
 e.  NumFOCUS now holds the license for the new version of the "Standards Of Fundamental Astronomy" library. Is this ready to publicize?
 

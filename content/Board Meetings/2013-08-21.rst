@@ -111,7 +111,7 @@ Questions for Tony:
     minutes and receipts. The paper trail needs to be easy to track and follow,
     in case an audit is required. SWC uses the open source Ledger, but it’s a
     low-level command-line tool, they are looking for a better open source
-    solution. Even proprietary solutions like quicken don’t work very well for
+    solution. Even proprietary solutions like Quicken don’t work very well for
     non-profit, only quite expensive solutions work well for non-profit work.
 
 * Q: Can NF work as ‘comprehensive’ sponsor for some projects and
@@ -170,7 +170,6 @@ Questions for Tony:
 
 Approval of retainer for Tony Sebro’s legal services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 
 https://docs.google.com/a/numfocus.org/file/d/0B-gSJFIZZXQPcU5xQkc3anBuUmM/edit
 

@@ -14,7 +14,7 @@ Emmanuelle Gouillart, Jarrod Millman, Perry Greenfield, Travis Oliphant, Andy R.
 Treasurer’s Report - Anthony 
 -----------------------------
 Anthony started the discussion of what to do regarding accounting tools. It’s
-looking like Quickbooks + SmartVault  may be the way to go, so it’s easy to
+looking like QuickBooks + SmartVault  may be the way to go, so it’s easy to
 associate documents with transactions.
 
 Approval of Minutes from Last Meeting
@@ -58,7 +58,6 @@ review.
 
 The New Website: defining project levels and associations 
 ----------------------------------------------------------
-
 
 Once documents are approved, there should be an official “documents archive”
 area.

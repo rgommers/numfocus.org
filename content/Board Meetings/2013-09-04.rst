@@ -14,11 +14,16 @@ Emmanuelle Gouillart, Ralf Gommers, Anthony Scopatz, Fernando Perez, Jarrod Mill
 Treasurer’s Report - Anthony (Given by Travis)
 ----------------------------------------------
 * No money from JPMorgan yet, promised venue for PyData NYC
+
 * More visibility needed for projects funds.  
-   * Not easy solutions:
-      * Quick books expensive
-      * Spreadsheets don’t scale but might do so for a while
-   * SK-learn would probably be okay with a spreadsheet
+
+   - Not easy solutions:
+
+      + QuickBooks expensive
+      + Spreadsheets don’t scale but might do so for a while
+
+   - SK-learn would probably be okay with a spreadsheet
+
 * Start with private spreadsheet or monthly report
 
 Approval of Minutes from Last Meeting
@@ -40,16 +45,16 @@ protection we have is really to get a bigger membership, could spend
 many many hours on legalize and still not have everything setup
 correctly.
 
-- Andy’s concern is just having a representative from each community
-   and formalizing that enough to avoid problems.
+Andy’s concern is just having a representative from each community
+and formalizing that enough to avoid problems.
 
-- Andy suggests moving ahead with small contracts with orgs that are
-   begin held up, Travis starting a template for these orgs.
+Andy suggests moving ahead with small contracts with orgs that are
+begin held up, Travis starting a template for these orgs:
 
-   - Sk-learn,
-   - Matplotlib,
-   - Sympy, 
-   - Spyder
+    - Scikit-learn,
+    - Matplotlib,
+    - Sympy, 
+    - Spyder
 
         
 New Website
@@ -60,7 +65,8 @@ the next month.
 
 Membership Update
 -----------------
-Should be set to process new members and start campaign.  Amendment to bylaws posted, working on change content on site about membership.
+Should be set to process new members and start campaign.  Amendment to bylaws
+posted, working on change content on site about membership.
 
 New Business
 ============
