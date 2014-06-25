@@ -5,9 +5,9 @@ Join as Project
 
 Get in touch by submitting the `proposal form`_.
 
-Or emailing info@numfocus.org with the following information:</p>
+Or emailing info@numfocus.org with the following information:
 
-Please include links and references, where relevant:</p>
+Please include links and references, where relevant:
 
 * Project Name
 * Submitter Name
