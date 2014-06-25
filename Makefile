@@ -63,16 +63,16 @@ theme:
 	cd theme && $(MAKE) 
 
 $(OUTPUTDIR)/%.html:
-	cp -r redirects/* $(OUTPUTDIR)
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	cp -nr redirects/* $(OUTPUTDIR) || true
 
 clean:
 	$(MAKE) -C theme clean
 	[ ! -d $(OUTPUTDIR) ] || find $(OUTPUTDIR) -mindepth 1 -delete
 
 regenerate: clean
-	cp -r redirects/* $(OUTPUTDIR)
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	cp -nr redirects/* $(OUTPUTDIR) || true
 
 serve:
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server
@@ -87,8 +87,8 @@ stopserver:
 	$(RM) -rf pelican.pid srv.pid
 
 publish:
-	cp -r redirects/* $(OUTPUTDIR)
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	cp -nr redirects/* $(OUTPUTDIR) || true
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
@@ -107,7 +107,7 @@ s3_upload: publish
 
 github: publish
 	test "$(GITHUB_REMOTE)" = "$(GITHUB_DEPLOY_REMOTE)" && (echo "$(TOP_LEVEL_DOMAIN)" > $(OUTPUTDIR)/CNAME) || echo "CNAME file not made, GITHUB_REMOTE != GITHUB_DEPLOY_REMOTE"
-	./ghp-import $(OUTPUTDIR) 
+	ghp-import $(OUTPUTDIR) 
 	git push -f $(GITHUB_REMOTE) $(GITHUB_PAGES_BRANCH) 
 
 .PHONY: html debug theme help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload github
