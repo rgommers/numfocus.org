@@ -48,9 +48,19 @@ body {
 			padding-bottom: 20px;
 		}
 		ul {
-			padding:0 0 30px 50px;
+			padding:0 0 20px 50px;
+			&.simple {
+				> li {
+					margin: 5px 0 15px 0;
+				}
+			}
+			ul {
+				padding: 0 0 10px 50px;
+				> li {
+					margin: 5px 0 10px 0;
+				}
+			}
 		}
-		
 	}
 	section.sidebar {
 		margin: 20px 0 0 0;
