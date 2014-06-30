@@ -2,7 +2,7 @@
 Announcing the NumFOCUS Technology Fellowship Program
 =====================================================
 :date: 2014-03-11
-:author: Leah Silen
+:author: Ralf Gommers
 
 From the beginning of its founding, Numfocus has aimed at setting up a
 Technology Fellowship Program. Therefore we're thrilled that this Program is
