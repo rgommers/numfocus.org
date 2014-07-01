@@ -24,6 +24,6 @@ year.
 
 .. _2014 John Hunter Fellowship: |filename|/pages/programs/john_hunter_fellowship_2014.rst
 
-.. _Olga's work at her site: http://olgabotvinnik.com/
+.. _Olga's work at her site.: http://olgabotvinnik.com/
 .. _Gene Yeo: http://yeolab.ucsd.edu/yeolab/Home.html 
 .. _C. Titus Brown: http://ged.msu.edu/
