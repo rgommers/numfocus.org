@@ -37,7 +37,7 @@ This is the very first fellowship offered by the Numfocus
 Technology Fellowship Program.  For more details, see
 `John Hunter Fellowship 2014`_.
 
-Honorary Mentions go to **Damien Irving (University of Melbourne)** 
+Honorable Mentions go to **Damien Irving (University of Melbourne)** 
 and **Connie Gao (MIT)**. 
 
 .. _John Hunter Fellowship 2014: |filename|john_hunter_fellowship_2014.rst
