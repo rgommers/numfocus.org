@@ -1,7 +1,7 @@
 =========================================
-John Hunter Technology Fellowship awarded
+Jxohn Hunter Technology Fellowship awarded
 =========================================
-:date: 2014-06-30
+:date: 2014-07-01
 :author: Ralf Gommers
 
 We're thrilled to announce that the `2014 John Hunter Fellowship`_ has been
