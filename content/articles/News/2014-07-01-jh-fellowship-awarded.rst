@@ -6,6 +6,11 @@ John Hunter Technology Fellowship awarded
 
 We're thrilled to announce that the `2014 John Hunter Fellowship`_ has been
 awarded to **Olga Botvinnik, UC San Diego**.  The focus of her Fellowship will
+
+.. image:: /media/img/fellowships/olga_botvinnik_2014fellow.jpg
+    :height: 150px
+    :alt: Olga Botvinnik
+
 be to create open source analysis software for the single-cell and biology
 communities, and to pioneer data, code sharing, and computational
 reproducibility within the single-cell and RNA biology communities.  She will
