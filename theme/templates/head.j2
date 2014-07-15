@@ -34,14 +34,17 @@
 {% endif %} 
 <script type="text/javascript">
 	$(function() {
-    //this is a subpage rather an index
-		if(location.pathname.split("/")[1]!='') {
-      $('.nav a[href^="/' + location.pathname.split("/")[1] + '"]').parents('ul.nav > li').addClass('active');  
+    
+    //this is a subpage (catches top level menu items)
+    if(location.pathname.split("/")[1]!='') {
+      pagePath=location.pathname.split("/")[1];
+      $('.nav > li > a[href^="/'+pagePath+'"]').parent('li').addClass('active');
     }
-    //this is a secondary subpage
+
+    ////this is a secondary subpage (catches second level menu items)
     if(location.pathname.split("/")[2]!='') {
       pagePath=location.pathname.split("/")[2];
-      $('.nav a[href*="'+pagePath+'"]').parent('li').addClass('active')
+      $('li > ul  li > a[href*="'+pagePath+'"]').parent('li').addClass('active');
     }
 
 	});
