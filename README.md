@@ -48,9 +48,37 @@ forms the root for paths.
 
 Building and deploying the Site
 ===============================
+
+Python Dependencies
+-------------------
+Note that you have to have the following packages installed for everything to
+work properly (see requirements.txt):
+
+* python 2.7 (might work with others, no promises)
+* pelican
+* typogrify
+* ghp-import
+
+Non-Python dependencies
+-----------------------
+* Make
+* sass-lang
+    $ gem install sass
+    $ sass -v
+    Sass 3.3.8 (Maptastic Maple)     
+
+Building
+--------
+
 Use the following to build the and serve the site locally:
 
+    make html 
+    make serve
+
+To edit content and have the local repo update continually, you can use the dev server. Just remember to shut it down later.
+
     make devserver
+    make stopserver
 
 Use the following to push the results up to github:
 
@@ -59,13 +87,7 @@ Use the following to push the results up to github:
 For this to work, please set your github remote 'upstream' to 
 'git@github.com:numfocus/numfocus.org.git'.
 
+For more targets (such as debug to find errors) run:
 
-Dependencies
-============
-Note that you have to have the following packages installed for everything to
-work properly:
-
-* pelican
-* typogrify
-
+    make help
 
