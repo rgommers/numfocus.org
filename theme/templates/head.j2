@@ -34,12 +34,16 @@
 {% endif %} 
 <script type="text/javascript">
 	$(function() {
-		$('.nav li').each(function(){
-			$(this).removeClass('active');
-		})
-    if(location.pathname.split("/")[1]!='') {
-	    $('.nav a[href^="/' + location.pathname.split("/")[1] + '"]').parents('li').addClass('active');  
+    //this is a subpage rather an index
+		if(location.pathname.split("/")[1]!='') {
+      $('.nav a[href^="/' + location.pathname.split("/")[1] + '"]').parents('ul.nav > li').addClass('active');  
     }
+    //this is a secondary subpage
+    if(location.pathname.split("/")[2]!='') {
+      pagePath=location.pathname.split("/")[2];
+      $('.nav a[href*="'+pagePath+'"]').parent('li').addClass('active')
+    }
+
 	});
 </script>
 
