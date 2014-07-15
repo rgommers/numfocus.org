@@ -6,7 +6,7 @@ NumFOCUS Website
 This is the source of the pelican-based NumFOCUS.org site.  These pages should
 be generated from these sources and then pushed to the actual site.
 
-The site is based on Pelican:  http://docs.getpelican.com/en/3.2/
+The site is based on Pelican:  http://docs.getpelican.com/
 
 
 Workflow
@@ -63,9 +63,12 @@ Non-Python dependencies
 -----------------------
 * Make
 * sass-lang
+
+````
     $ gem install sass
     $ sass -v
     Sass 3.3.8 (Maptastic Maple)     
+````
 
 Building
 --------
@@ -80,7 +83,10 @@ To edit content and have the local repo update continually, you can use the dev 
     make devserver
     make stopserver
 
-Use the following to push the results up to github:
+Deploying
+----------
+
+The site is deployed as a github page (see https://pages.github.com/ ). Use the following to push the results up to github:
 
     make github
 
