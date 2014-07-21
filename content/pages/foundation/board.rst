@@ -176,8 +176,7 @@ Andy Terrel
     :alt: Andy Terrel
 
 Andy Terrel received his PhD in computer science at the University of Chicago
-in 2010 and is currently a staff researcher at the Texas Advance Computing
-Center at the Univerisity of Texas at Austin.  His major emphasis of research
+in 2010 and the Chief Science Officer at Continuum Analytics.  His major emphasis of research
 has been on the automation of numerical methods on high performance computing
 resources. To this end, he has provided numerous contributions to a wide
 variety of open source projects, including the popular FEniCS project and
