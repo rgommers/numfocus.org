@@ -3,8 +3,6 @@ Board of Directors
 :url: foundation/board.html
 :save_as: foundation/board.html
 
-Board of Directors
-==================
 
 Lorena Barba
 ------------

@@ -3,8 +3,6 @@ Board of Advisers
 :url: foundation/advisers.html
 :save_as: foundation/advisers.html
 
-Board of Advisers
-==================
 
 Travis Oliphant
 ---------------
