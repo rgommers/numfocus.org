@@ -61,6 +61,11 @@ Center.
 
 Didrik Pinte
 ------------
+.. image:: /media/img/board/didrik-pinte.jpg
+    :height: 150px
+    :alt: Didrik Pinte
+
+
 Didrik Pinte has had a mixed career between academia
 and the private sector. As a researcher, he focused his work on large scale
 water allocation problems during 4 years at UCL, Belgium. After another 5 years
