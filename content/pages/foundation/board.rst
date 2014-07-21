@@ -53,6 +53,15 @@ science software to support the next large space telescope under
 construction, the James Webb Space Telescope.
 
 
+Cindee Madison
+--------------
+.. image:: /media/img/board/cindee-madison.jpg
+    :height: 150px
+    :alt: Cindee Madison
+
+Cindee is a data scientist, software engineer, and project manager with over 10 years experience in scientific computing. She is a strong proponent of reproducible science, with proven expertise in data mining, complex problem solving, analytics, algorithm and software development. Cindee recieved a M.A. in Psychology and Computer Science from University of Minnesota-Twin Cities in 2002 and has held various positions at the University of California -- Berkeley working in neuroscience since 2002. Her specialties include python, numpy/scipy, pandas, scikit-learn, scikit-image, vim, testing, neuroscience, explaining how things work to a wide range of skill levels.
+
+
 Jarrod Millman
 --------------
 .. image:: /media/img/board/jarrod-millman.jpg
