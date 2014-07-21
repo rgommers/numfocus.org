@@ -23,6 +23,15 @@ has been the NumPy release manager for two years, and is currently the SciPy
 release manager.
 
 
+Brian Granger
+-------------
+.. image:: /media/img/board/brian-granger.jpg
+    :height: 150px
+    :alt: Brian Granger
+
+Brian Granger is an Assistant Professor of Physics at Cal Poly State University in San Luis Obispo, CA. He has a background in theoretical atomic, molecular and optical physics, with a Ph.D from the University of Colorado. His current research interests include quantum computing, parallel and distributed computing and interactive computing environments for scientific and technical computing. He is a core developer of the IPython project and is an active contributor to a number of other open source projects focused on scientific computing in Python.
+
+
 Perry Greenfield
 ----------------
 .. image:: /media/img/board/perry-greenfield.jpg
@@ -55,8 +64,6 @@ NumPy and SciPy projects. While director of computing for UC Berkeley’s
 Neuroscience Institute, he helped found the Neuroimaging in Python (NIPY)
 project. Currently, he is a software developer at Berkeley’s Brain Imaging
 Center.
-
-
 
 
 Didrik Pinte
