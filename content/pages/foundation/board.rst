@@ -6,6 +6,15 @@ Board of Directors
 Board of Directors
 ==================
 
+Lorena Barba
+------------
+.. image:: /media/img/board/lorena-barba.jpg
+    :height: 150px
+    :alt: Lorena Barba
+
+Lorena A. Barba is Associate Professor of Mechanical and Aerospace Engineering at the George Washington University, in Washington DC. She has MSc and PhD degrees in Aeronautics from the California Institute of Technology and BSc and PEng degrees in Mechanical Engineering from Universidad Técnica Federico Santa María in Chile. Previous to joining GW, she was Assistant Professor of Mechanical Engineering at Boston University (2008–2013) and Lecturer/Senior Lecturer of Applied Mathematics at University of Bristol, UK (2004–2008). Barba is an Amelia Earhart Fellow of the Zonta Foundation (1999), an awardee of the Engineering and Physical Sciences Research Council (EPSRC) First Grant scheme (UK, 2007), an NVIDIA Academic Partner award recipient (2011), and a recipient of the National Science Foundation Early CAREER award (2012). She was named CUDA Fellow by NVIDIA in 2012, and is a sought-after speaker about high-performance computing, fast and efficient algorithms and computational science.
+
+
 Ralf Gommers
 ------------
 .. image:: /media/img/board/ralf-gommers.jpg
