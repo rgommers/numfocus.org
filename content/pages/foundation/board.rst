@@ -23,30 +23,6 @@ has been the NumPy release manager for two years, and is currently the SciPy
 release manager.
 
 
-Emmanuelle Gouillart
---------------------
-.. image:: /media/img/board/emmanuelle-gouillart.jpg
-    :height: 150px
-    :alt: Emmanuelle Gouillart
-
-Emmanuelle Gouillart works as a physics researcher in the joint laboratory
-between the French National Research Center (CNRS), and the French corporation
-Saint-Gobain. She holds a physics PhD from the Université Pierre et Marie
-Curie, and an MSc from the Ecole Normale Supérieure in Paris. Her research
-interests are in glass melting, tomography imaging, and fluid mixing.
-Scientific Python is the ubiquitous tool in her daily research.
-
-She became involved in the Scientific Python community with the Numpy/Scipy
-documentation marathon from 2008 on, and shortly after she started teaching
-Scientific Python during the Python African Tour event in Dakar in 2009. She
-has been contributing to the Scipy Lecture Notes used for the Euroscipy
-tutorial sessions since Euroscipy 2010, where she was tutorial chair, and she
-has organized several training sessions on Scientific Python since then. She
-has been part of the organizing board of the Euroscipy conferences in 2010,
-2011 and 2012. Her daily use of image processing has led her to become a
-regular contributor to the Python scikit-image.
-
-
 Perry Greenfield
 ----------------
 .. image:: /media/img/board/perry-greenfield.jpg
