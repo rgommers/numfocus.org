@@ -5,7 +5,7 @@ Joining NumFOCUS
 
 NumFOCUS was formed in 2012 with the goal of "promoting the use of accessible and reproducible computing in science and technology."  The Foundation's work is largely centered around Python and its tools.  
 
-NumFOCUS is excited to announce membership is now open!  Community involvement is critical to supporting NumFocus's projects and making Python more visible in the scientific and engineering community.
+NumFOCUS is excited to announce membership is now open!  Community involvement is critical to supporting NumFocus' projects and making Python more visible in the scientific and engineering community.
 
 How To Join NumFOCUS
 --------------------
@@ -18,7 +18,7 @@ You can join NumFOCUS by completing the `Member Information Form <https://docs.g
 - **Community Member**: Anyone may become a Community Member by filling out the `Member Information Form <https://docs.google.com/a/continuum.io/spreadsheet/viewform?usp=drive_web&formkey=dEt4MGJ2Rk0zSFJLTHNIMGhGWDdTYVE6MQ#gid=0>`_.  Community Members can become involved in NumFOCUS through any of the avenues listed above.
 
 
-- **Supporting Member**: Individuals who support NumFOCUS with an annual financial contribution.  Through their donation, Supporting Members provide crucial contributions to the ecosystem of NumFOCUS projects.   Supporting Members also enjoy the right to vote on certain Foundation actions, and receive a 30% discount on PyData conferences and additional discounts on products (e.g. 20% off IOPro and Accelerate from `Continuum <http://continuum.io>`_).  Minimum yearly dues for Supporting Members are:
+- **Supporting Member**: Individuals who support NumFOCUS with an annual financial contribution.  Through their donation, Supporting Members provide crucial assistance to the ecosystem of NumFOCUS projects.   Supporting Members also enjoy the right to vote on certain Foundation actions, and receive a 30% discount on `PyData <http://pydata.org/>`_ conferences and additional discounts on products (e.g. 20% off IOPro and Accelerate from `Continuum <http://continuum.io>`_).  Minimum yearly dues for Supporting Members are:
 
   - Professional: $128/yr
   - Early Professional (<5 years after school): $64/yr
