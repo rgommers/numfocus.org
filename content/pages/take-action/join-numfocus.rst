@@ -3,9 +3,9 @@ Joining NumFOCUS
 :url: take-action/join.html
 :save_as: take-action/join.html
 
-The NumFOCUS Foundation was formed in 2012 to "promote the use of accessible and reproducible computing in science and technology." Much of this effort centers around the use of Python and its tools.
+NumFOCUS was formed in 2012 with the goal of "promoting the use of accessible and reproducible computing in science and technology."  The Foundation's work is largely centered around Python and its tools.  
 
-NumFOCUS is excited to announce membership is now open. The involvement of the community is vital in helping to help raise the visibility of Python and its advantages within the scientific and engineering community, as well as to support and promote its projects.
+NumFOCUS is excited to announce membership is now open!  Community involvement is critical to supporting NumFocus's projects and making Python more visible in the scientific and engineering community.
 
 How To Join NumFOCUS
 --------------------
@@ -15,18 +15,18 @@ You can join NumFOCUS by completing the `Member Information Form <https://docs.g
 
 **Membership Types**
 
-- **Community Member**: Anyone may may become a Community Member by filling out the `Member Information Form <https://docs.google.com/a/continuum.io/spreadsheet/viewform?usp=drive_web&formkey=dEt4MGJ2Rk0zSFJLTHNIMGhGWDdTYVE6MQ#gid=0>`_.  Community Members can become involved in NumFOCUS through any of the avenues listed above.
+- **Community Member**: Anyone may become a Community Member by filling out the `Member Information Form <https://docs.google.com/a/continuum.io/spreadsheet/viewform?usp=drive_web&formkey=dEt4MGJ2Rk0zSFJLTHNIMGhGWDdTYVE6MQ#gid=0>`_.  Community Members can become involved in NumFOCUS through any of the avenues listed above.
 
 
-- **Supporting Member**: Individuals who manifest their support for NumFOCUS and its aims by  contributing funds each year to the Foundation. Besides the benefit of knowing they are contributing to the ecosystem of projects that NumFOCUS supports, supporting Members also enjoy the right to vote on certain actions brought to the membership as well as a 30% Discount on PyData conferences and additional discounts on products (e.g. 20% off IOPro and Accelerate from Continuum).  Minimum yearly dues for Supporting Members are:
+- **Supporting Member**: Individuals who support NumFOCUS with an annual financial contribution.  Through their donation, Supporting Members provide crucial contributions to the ecosystem of NumFOCUS projects.   Supporting Members also enjoy the right to vote on certain Foundation actions, and receive a 30% discount on PyData conferences and additional discounts on products (e.g. 20% off IOPro and Accelerate from `Continuum <http://continuum.io>`_).  Minimum yearly dues for Supporting Members are:
 
   - Professional: $128/yr
   - Early Professional (<5 years after school): $64/yr
   - Student or Retired: $32/yr
   - Lifetime Supporting Member: $4000 one time
 
-The following categories of membership are intended to demonstrate special
-recognition by the NumFOCUS community of contributions by such members towards
+The following categories of membership demonstrate special
+recognition by the NumFOCUS community of members' contributions towards
 the goals of NumFOCUS.
 
 
@@ -41,11 +41,8 @@ the goals of NumFOCUS.
   intended to honor contributions of the highest order to the NumFOCUS mission.
 
 
-- **Member Emeritus**: Are for members previously in the Supporting,
-  Contributing, or Fellow category that are currently inactive. A switch
-  to emeritus status can be initiated by the member themselves or by the
-  board. If by the board, it must be approved by a 2/3 majority vote.
-  Emeritus members may reactivate their previous membership status by
+- **Member Emeritus**: Are former Supporting, Contributing or Fellow members that 
+  are currently inactive. A switch to emeritus status can be initiated by the member themselves or by the board. If by the board, it must be approved by a 2/3 majority vote. Emeritus members may reactivate their previous membership status by
   sending such a request by email.
 
 **Corporate Sponsorships** are also available and encouraged and details can be
