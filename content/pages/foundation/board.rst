@@ -10,7 +10,20 @@ Lorena Barba
     :height: 150px
     :alt: Lorena Barba
 
-Lorena A. Barba is Associate Professor of Mechanical and Aerospace Engineering at the George Washington University, in Washington DC. She has MSc and PhD degrees in Aeronautics from the California Institute of Technology and BSc and PEng degrees in Mechanical Engineering from Universidad Técnica Federico Santa María in Chile. Previous to joining GW, she was Assistant Professor of Mechanical Engineering at Boston University (2008–2013) and Lecturer/Senior Lecturer of Applied Mathematics at University of Bristol, UK (2004–2008). Barba is an Amelia Earhart Fellow of the Zonta Foundation (1999), an awardee of the Engineering and Physical Sciences Research Council (EPSRC) First Grant scheme (UK, 2007), an NVIDIA Academic Partner award recipient (2011), and a recipient of the National Science Foundation Early CAREER award (2012). She was named CUDA Fellow by NVIDIA in 2012, and is a sought-after speaker about high-performance computing, fast and efficient algorithms and computational science.
+Lorena A. Barba is Associate Professor of Mechanical and Aerospace Engineering
+at the George Washington University, in Washington DC. She has MSc and PhD
+degrees in Aeronautics from the California Institute of Technology and BSc and
+PEng degrees in Mechanical Engineering from Universidad Técnica Federico Santa
+María in Chile. Previous to joining GW, she was Assistant Professor of
+Mechanical Engineering at Boston University (2008–2013) and Lecturer/Senior
+Lecturer of Applied Mathematics at University of Bristol, UK (2004–2008). Barba
+is an Amelia Earhart Fellow of the Zonta Foundation (1999), an awardee of the
+Engineering and Physical Sciences Research Council (EPSRC) First Grant scheme
+(UK, 2007), an NVIDIA Academic Partner award recipient (2011), and a recipient
+of the National Science Foundation Early CAREER award (2012). She was named
+CUDA Fellow by NVIDIA in 2012, and is a sought-after speaker about
+high-performance computing, fast and efficient algorithms and computational
+science.
 
 
 Ralf Gommers
@@ -36,7 +49,14 @@ Brian Granger
     :height: 150px
     :alt: Brian Granger
 
-Brian Granger is an Assistant Professor of Physics at Cal Poly State University in San Luis Obispo, CA. He has a background in theoretical atomic, molecular and optical physics, with a Ph.D from the University of Colorado. His current research interests include quantum computing, parallel and distributed computing and interactive computing environments for scientific and technical computing. He is a core developer of the IPython project and is an active contributor to a number of other open source projects focused on scientific computing in Python.
+Brian Granger is an Assistant Professor of Physics at Cal Poly State University
+in San Luis Obispo, CA. He has a background in theoretical atomic, molecular
+and optical physics, with a Ph.D from the University of Colorado. His current
+research interests include quantum computing, parallel and distributed
+computing and interactive computing environments for scientific and technical
+computing. He is a core developer of the IPython project and is an active
+contributor to a number of other open source projects focused on scientific
+computing in Python.
 
 
 Perry Greenfield
@@ -66,7 +86,15 @@ Cindee Madison
     :height: 150px
     :alt: Cindee Madison
 
-Cindee is a data scientist, software engineer, and project manager with over 10 years experience in scientific computing. She is a strong proponent of reproducible science, with proven expertise in data mining, complex problem solving, analytics, algorithm and software development. Cindee recieved a M.A. in Psychology and Computer Science from University of Minnesota-Twin Cities in 2002 and has held various positions at the University of California -- Berkeley working in neuroscience since 2002. Her specialties include python, numpy/scipy, pandas, scikit-learn, scikit-image, vim, testing, neuroscience, explaining how things work to a wide range of skill levels.
+Cindee is a data scientist, software engineer, and project manager with over 10
+years experience in scientific computing. She is a strong proponent of
+reproducible science, with proven expertise in data mining, complex problem
+solving, analytics, algorithm and software development. Cindee recieved a M.A.
+in Psychology and Computer Science from University of Minnesota-Twin Cities in
+2002 and has held various positions at the University of California -- Berkeley
+working in neuroscience since 2002. Her specialties include python,
+numpy/scipy, pandas, scikit-learn, scikit-image, vim, testing, neuroscience,
+explaining how things work to a wide range of skill levels.
 
 
 Jarrod Millman
@@ -75,12 +103,13 @@ Jarrod Millman
     :height: 150px
     :alt: Jarrod Millman
 
-Jarrod Millman is on the SciPy steering committee and a contributor to both the
-NumPy and SciPy projects. While director of computing for UC Berkeley’s
-Neuroscience Institute, he helped found the Neuroimaging in Python (NIPY)
-project. Currently, he is a software developer at Berkeley’s Brain Imaging
-Center.
-
+Jarrod Millman is a graduate student in Biostatistics at UC Berkeley.  Prior to
+starting graduate school, Jarrod was the director of computing for UC
+Berkeley’s Neuroscience Institute, where he helped found the Neuroimaging in
+Python (NIPY) project.  From 2007 to 2009, he was the release manager for NumPy
+and SciPy.  He has also previously served as the conference chair for both the
+US and the India SciPy conferences.  His current interests concern statistics,
+neuroinformatics, reproducible research, and scientific computing.
 
 Didrik Pinte
 ------------
