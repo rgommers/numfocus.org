@@ -158,7 +158,7 @@ mathematical expressions involving multi-dimensional arrays efficiently.
 
 
 `rOpenSci`_
-----------
+------------
 .. image:: /media/img/projects/ropensci_logo.png
     :alt: rOpenSci logo
     :height: 127px
@@ -245,6 +245,7 @@ entice each other and the world.  `http://inscight.org`_
 .. _Scikits-Statsmodels: http://scikits.appspot.com/statsmodels
 .. _Spyder: http://code.google.com/p/spyderlib/
 .. _Theano: http://deeplearning.net/software/theano/#
+.. _rOpenSci: http://ropensci.org/
 
 .. _info@NumFOCUS.org: mailto:info@NumFOCUS.org
 
