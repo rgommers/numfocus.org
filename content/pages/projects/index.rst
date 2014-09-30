@@ -157,6 +157,14 @@ Theano is a Python library that allows you to define, optimize, and evaluate
 mathematical expressions involving multi-dimensional arrays efficiently.
 
 
+`rOpenSci`_
+----------
+.. image:: /media/img/projects/ropensci_logo.png
+    :alt: rOpenSci logo
+    :height: 127px
+
+rOpenSci is a software collective that provides R based tools to enable access to scientific data repositories, full-text of articles, and science metrics and also facilitate a culture shift in the scientific community towards reproducible research practices.
+
 Associated Projects
 ===================
 
