@@ -222,7 +222,7 @@ entice each other and the world.  `http://inscight.org`_
 .. _`Software Carpentry`: http://software-carpentry.org/
 .. _`http://software-carpentry.org/blog/`: http://software-carpentry.org/blog/
 .. _`@swcarpentry`: https://twitter.com/swcarpentry
-.. _info@software-carpentry.org: mailto:info@software-carpentry.org
+.. _admin@software-carpentry.org: mailto:admin@software-carpentry.org
 
 
 .. _project-proposal:
