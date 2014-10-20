@@ -480,3 +480,17 @@ section.projects {
 		width: auto;
 	}
 }
+div#fiscally-sponsored-projects, div#other-supported-projects, div#educational-projects {
+	h3 {
+   		float: left;
+   		& + img {
+   			margin-left: 20px;
+   			& + p:before {
+				content: " "; 
+				display: block;
+				height: 0;
+				clear: both;
+   			}
+   		}
+   	}
+}
