@@ -3,15 +3,68 @@ Projects
 :url: projects/
 :save_as: projects/index.html
 
-Core Projects
-=============
+
+Fiscally Sponsored Projects 
+===========================
+
+`AstroPy`_
+--------------
+.. image:: /media/img/projects/astropy_logo.png
+    :alt: AstroPy logo
+    :height: 65px
+
+The Astropy Project is a community effort to develop a single core package for Astronomy in Python and foster interoperability between Python astronomy packages.
+
+
+`IPython`_
+--------------
+.. image:: /media/img/projects/ipython.png
+    :alt: IPython logo
+    :height: 50px
+
+High quality open source Python shell that includes tools for high level and
+interactive parallel computing.
+
+`julia`_
+--------
+.. image:: /media/img/projects/julia_logo.png
+    :alt: Julia logo
+    :height: 65px
+
+Julia is a high-level, high-performance dynamic programming language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, `distributed parallel execution`_, numerical accuracy, and an `extensive mathematical function library`_. The library, largely written in Julia itself, also integrates mature, best-of-breed C and Fortran libraries for `linear algebra`_, `random number generation`_, `signal processing`_, and `string processing`_. In addition, the Julia developer community is contributing a number of `external packages`_ through Julia’s built-in package manager at a rapid pace. `IJulia`_, a collaboration between the `IPython`_ and Julia communities, provides a powerful browser-based graphical notebook interface to Julia.
+
+Julia programs are organized around `multiple dispatch`_; by defining functions and overloading them for different combinations of argument types, which can also be user-defined. For a more in-depth discussion of the rationale and advantages of Julia over other systems, see the following highlights or read the `introduction`_ in the `online manual`_.
+
+`rOpenSci`_
+------------
+.. image:: /media/img/projects/ropensci_logo.png
+    :alt: rOpenSci logo
+    :height: 65px
+
+rOpenSci is a software collective that provides R based tools to enable access to scientific data repositories, full-text of articles, and science metrics and also facilitate a culture shift in the scientific community towards reproducible research practices.
+
+`SymPy`_
+------------
+.. image:: /media/img/projects/SymPy2.jpg
+    :alt: SymPy logo
+    :height: 65px
+
+SymPy is a Python library for symbolic mathematics. It aims to become a
+full-featured computer algebra system (CAS) while keeping the code as simple as
+possible in order to be comprehensible and easily extensible. SymPy is written
+entirely in Python and does not require any external libraries.
+
+
+Other Supported Projects 
+========================
+
 
 `NumPy`_
 ------------
 .. image:: /media/img/projects/NumPY.png
-    :height: 75px
     :alt: NumPy logo
-
+    :height: 65px
+    
 NumPy is the fundamental package needed for scientific computing with Python.
 Besides its obvious scientific uses, NumPy can also be used as an efficient
 multi-dimensional container of generic data. Arbitrary data-types can be
@@ -21,8 +74,8 @@ variety of databases.
 `SciPy`_
 --------
 .. image:: /media/img/projects/scipy.png
-    :height: 75px
     :alt: SciPy logo
+    :height: 65px
 
 SciPy is open-source software for mathematics, science, and engineering. It is
 also the name of a very popular conference on scientific programming with
@@ -35,43 +88,18 @@ as routines for numerical integration and optimization.
 --------------
 .. image:: /media/img/projects/matplotlib.png
     :alt: Matplotlib logo
-    :height: 75px
+    :height: 65px
 
 2D plotting library for Python that produces high quality figures that can be
 used in various hardcopy and interactive environments.  Matplolib is
 compatible with Python scripts and the Python and IPython shells, web
 application servers, and six graphical user interface toolkits.
 
-`IPython`_
---------------
-.. image:: /media/img/projects/ipython.png
-    :alt: IPython logo
-    :height: 70px
-
-High quality open source Python shell that includes tools for high level and
-interactive parallel computing.
-
-`SymPy`_
-------------
-.. image:: /media/img/projects/SymPy2.jpg
-    :alt: SymPy logo
-    :height: 75px
-
-SymPy is a Python library for symbolic mathematics. It aims to become a
-full-featured computer algebra system (CAS) while keeping the code as simple as
-possible in order to be comprehensible and easily extensible. SymPy is written
-entirely in Python and does not require any external libraries.
-
-
-
-Other Projects
-==============
-
 `Cython`_
 -------------
 .. image:: /media/img/projects/cython.png
     :alt: Cython logo
-    :height: 75px
+    :height: 65px
 
 Cython is an optimising static compiler for both the Python programming
 language and the extended Cython programming language (based on Pyrex). It
@@ -82,7 +110,7 @@ makes writing C extensions for Python as easy as Python itself.
 -------------
 .. image:: /media/img/projects/pandas.png
     :alt: Pandas logo
-    :height: 75px
+    :height: 65px
 
 pandas is an open source, BSD-licensed library providing high-performance,
 easy-to-use data structures and data analysis tools for the Python programming
@@ -93,7 +121,7 @@ language.
 ---------------
 .. image:: /media/img/projects/logo-pytables-small.png
     :alt: PyTables logo
-    :height: 75px
+    :height: 65px
 
 PyTables is a package for managing hierarchical datasets and designed to
 efficiently and easily cope with extremely large amounts of data. PyTables is
@@ -104,12 +132,23 @@ extremely easy to use tool for very large amounts of data.
 http://pytables.github.com/
 
 
+`Python(X,Y)`_
+--------------
+.. image:: /media/img/projects/pythonxy.png
+    :alt: Python(X,Y) logo
+    :height: 65px
+
+Free scientific and engineering development software used for numerical
+computations, and analysis and visualization of data using the Python
+programmimg language.
+
+
 `scikit-image`_
 -------------------
 .. image:: /media/img/projects/scikitsimage.png
-    :height: 75px
     :alt: Scikit-Image logo
-
+    :height: 65px
+    
 Free high-quality and peer-reviewed volunteer produced collection of algorithms
 for image processing.
 
@@ -118,7 +157,7 @@ for image processing.
 -------------------
 .. image:: /media/img/projects/scikitslearn.png
     :alt: Scikit-learn logo
-    :height: 75px
+    :height: 65px
 
 Module designed for scientific Python that provides accessible solutions to
 machine learning problems.
@@ -128,7 +167,7 @@ machine learning problems.
 --------------
 .. image:: /media/img/projects/scikits.png
     :alt: Scikits-Statsmodels logo
-    :height: 75px
+    :height: 65px
 
 Statsmodels is a Python package that provides a complement to Scipy for
 statistical computations including descriptive statistics and estimation of
@@ -139,7 +178,7 @@ statistical models.
 ---------
 .. image:: /media/img/projects/spyder.png
     :alt: Spyder logo
-    :height: 75px
+    :height: 65px
 
 Interactive development environment for Python that features advanced editing,
 interactive testing, debugging and introspection capabilities, as well as a
@@ -156,47 +195,29 @@ NumPy, SciPy, and matplotlib.
 Theano is a Python library that allows you to define, optimize, and evaluate
 mathematical expressions involving multi-dimensional arrays efficiently.
 
-
-`rOpenSci`_
-------------
-.. image:: /media/img/projects/ropensci_logo.png
-    :alt: rOpenSci logo
-    :height: 127px
-
-rOpenSci is a software collective that provides R based tools to enable access to scientific data repositories, full-text of articles, and science metrics and also facilitate a culture shift in the scientific community towards reproducible research practices.
-
-Associated Projects
-===================
-
-`Python(X,Y)`_
---------------
-.. image:: /media/img/projects/pythonxy.png
-    :alt: Python(X,Y) logo
-    :height: 75px
-
-Free scientific and engineering development software used for numerical
-computations, and analysis and visualization of data using the Python
-programmimg language.
-
 `yt`_
 ------
 .. image:: /media/img/projects/yt_icon.png
     :alt: yt logo
-    :height: 75px
+    :height: 50px
 
 yt is a community-developed analysis and visualization toolkit for examining
 datasets in a variety of scientific disciplines. yt aims to provide a simple
 uniform way of handling volumetric data, regardless of where it is generated.
 yt is developed in Python under the open-source model. 
 
-Educational Projects
+
+
+Educational Projects 
 ====================
+
 
 Software Carpentry
 ------------------
 
 .. image:: |filename|/media/img/projects/software-carpentry-logo-285x58.png
    :alt: Software Carpentry logo
+   :height: 65px
 
 Our mission is to help scientists be more productive by teaching them basic computing skills. Our approach combines short, intensive workshops with self-paced online instruction. The benefits are more reliable results and higher productivity: a day a week is common, and a ten-fold improvement isn’t rare.  For more information check out our blog at  `http://software-carpentry.org/blog/`_, follow us on twitter as  `@swcarpentry`_, or contact us by email at  `admin@software-carpentry.org`_.
 
@@ -204,7 +225,9 @@ inSCIght
 --------
 
 .. image:: |filename|/media/img/projects/InSciGHT.jpg
-   :alt: InSCIght logo
+    :alt: InSCIght logo
+    :height: 75px
+    
 
 `inSCIght`_ is a podcast that focuses on scientific computing in all of its
 various forms. We have four panelists engage head-to-head on poignant and
@@ -214,6 +237,7 @@ gurus, from biologists to nuclear engineers, the hosts of inSCIght use
 computers to solve science and engineering problems everyday. This podcast
 throws people, ideas, and opinions into an audio-blender hoping to educate and
 entice each other and the world.  `http://inscight.org`_
+
 
 .. _`inSCIght`: http://inscight.org/
 .. _`http://inscight.org`: http://inscight.org/
@@ -226,7 +250,7 @@ entice each other and the world.  `http://inscight.org`_
 
 
 .. _project-proposal:
-
+.. _AstroPy: http://www.astropy.org/
 .. _NumPy: http://numpy.scipy.org/
 .. _SciPy: http://www.scipy.org/
 .. _Matplotlib: http://matplotlib.sourceforge.net/
@@ -253,3 +277,16 @@ entice each other and the world.  `http://inscight.org`_
 .. _NetworkX: http://networkx.lanl.gov/
 .. _Python(X,Y): http://code.google.com/p/pythonxy/wiki/Welcome
 .. _yt: http://yt-project.org/
+.. _julia: http://julialang.org/
+
+.. _distributed parallel execution: http://docs.julialang.org/en/release-0.3/manual/parallel-computing/
+.. _extensive mathematical function library: http://docs.julialang.org/en/release-0.3/stdlib/
+.. _linear algebra: http://docs.julialang.org/en/release-0.3/stdlib/linalg/
+.. _random number generation: http://docs.julialang.org/en/release-0.3/stdlib/base/#random-numbers
+.. _signal processing: http://docs.julialang.org/en/release-0.3/stdlib/base/#signal-processing
+.. _string processing: http://docs.julialang.org/en/release-0.3/stdlib/base/#strings
+.. _external packages: http://pkg.julialang.org/
+.. _IJulia: https://github.com/JuliaLang/IJulia.jl
+.. _multiple dispatch: http://docs.julialang.org/en/release-0.3/manual/methods/#man-methods
+.. _introduction: http://docs.julialang.org/en/release-0.3/manual/introduction/
+.. _online manual: http://docs.julialang.org/en/release-0.3/
