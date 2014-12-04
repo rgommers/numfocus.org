@@ -68,4 +68,4 @@ The 2014 `John Hunter Technology Fellowship`_ was awarded to Olga Botvinnik (UC 
 
 
 .. _corporate sponsorship page: |filename|/pages/take-action/sponsorship.rst
-.. _John Hunter Technology Fellowship: |filename|/pages/john_hunter_fellowship_2014.rst
+.. _John Hunter Technology Fellowship: |filename|/pages/programs/john_hunter_fellowship_2014.rst
