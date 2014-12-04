@@ -494,3 +494,29 @@ div#fiscally-sponsored-projects, div#other-supported-projects, div#educational-p
    		}
    	}
 }
+.holiday-donation {
+	float: left;
+	margin-left: 100px;
+	a {
+		text-decoration: none;
+		h1, span {
+			color: #004000;
+		}
+		&:hover {
+			h1, span {
+				color: #8C0000;
+			}
+		}
+	}
+	h1 {
+		font-size: 150%;
+		line-height: 1em;
+		padding: 0;
+		margin: 20px 0 0 0;
+	}
+	span {
+		font-size: 80%;
+		text-indent: 10px;
+		display: inline-block;
+	}
+}
