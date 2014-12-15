@@ -26,8 +26,8 @@ high-performance computing, fast and efficient algorithms and computational
 science.
 
 
-Ralf Gommers
-------------
+Ralf Gommers (Secretary)
+------------------------
 .. image:: /media/img/board/ralf-gommers.jpg
     :height: 150px
     :alt: Ralf Gomers
@@ -80,6 +80,17 @@ science software to support the next large space telescope under
 construction, the James Webb Space Telescope.
 
 
+Stefan Karpinski
+-----------------
+.. image:: /media/img/board/stefan-karpinski.jpg
+    :height: 150px
+    :alt: Stefan Karpinski
+
+Stefan is a data scientist and applied mathematician working at MIT. He has worked at Akamai,
+Citrix Online, and Etsy. Currently, Stefan is working on a next-generation programming
+language for numerical and scientific computing, called Julia. See his resume at http://karpinski.org/resume/.
+
+
 Cindee Madison
 --------------
 .. image:: /media/img/board/cindee-madison.jpg
@@ -97,8 +108,8 @@ numpy/scipy, pandas, scikit-learn, scikit-image, vim, testing, neuroscience,
 explaining how things work to a wide range of skill levels.
 
 
-Jarrod Millman
---------------
+Jarrod Millman (Chairman)
+--------------------------
 .. image:: /media/img/board/jarrod-millman.jpg
     :height: 150px
     :alt: Jarrod Millman
@@ -111,8 +122,8 @@ and SciPy.  He has also previously served as the conference chair for both the
 US and the India SciPy conferences.  His current interests concern statistics,
 neuroinformatics, reproducible research, and scientific computing.
 
-Didrik Pinte
-------------
+Didrik Pinte (Treasurer)
+------------------------
 .. image:: /media/img/board/didrik-pinte.jpg
     :height: 150px
     :alt: Didrik Pinte
@@ -126,31 +137,15 @@ management systems, mostly based on Python, he joined Enthought. He is now
 running the European operations of Enthought out of Cambridge, UK.
 
 
-Anthony Scopatz (Treasurer)
----------------------------
-.. image:: /media/img/board/anthony-scopatz.jpeg
-    :height: 150px
-    :alt: Anthony Scopatz
-
-`Anthony Scopatz <http://scopatz.com/>`_ is a computational scientist and long 
-time Python developer, Anthony holds his BS in Physics from UC Santa Barbara and 
-Ph.D. in Mechanical / Nuclear Engineering from UT Austin. A former Enthought 
-employee, he spent his post-doctoral studies at the FLASH Center at the University 
-of Chicago in the Astrophysics Department. He is currently a Staff Scientist at the 
-University of Wisconsin-Maidson in Engineering Physics.  Anthony’s research interests 
-revolve around essential physics modeling of the nuclear fuel cycle,
-and information theory & entropy. Anthony has published and spoken at numerous
-conferences on a variety of science & software development topics.
-
-
-Andy Terrel
------------
+Andy Terrel (President)
+-----------------------
 .. image:: /media/img/board/andy-terrel.jpg 
     :height: 150px
     :alt: Andy Terrel
 
+
 Andy Terrel received his PhD in computer science at the University of Chicago
-in 2010 and the Chief Science Officer at Continuum Analytics.  His major emphasis of research
+in 2010. He is currently the Chief Science Officer at Continuum Analytics.  His major emphasis of research
 has been on the automation of numerical methods on high performance computing
 resources. To this end, he has provided numerous contributions to a wide
 variety of open source projects, including the popular FEniCS project and
