@@ -80,6 +80,17 @@ science software to support the next large space telescope under
 construction, the James Webb Space Telescope.
 
 
+Stefan Karpinski
+-----------------
+.. image:: /media/img/board/stefan-karpinski.jpg
+    :height: 150px
+    :alt: Stefan Karpinski
+
+Stephan is a data scientist and applied mathematician. He has worked at Akamai,
+Citrix Online, and Etsy. Currently, Stefan is working on a next-generation programming
+language for numerical and scientific computing, called Julia.
+
+
 Cindee Madison
 --------------
 .. image:: /media/img/board/cindee-madison.jpg
