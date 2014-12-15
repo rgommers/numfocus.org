@@ -86,9 +86,9 @@ Stefan Karpinski
     :height: 150px
     :alt: Stefan Karpinski
 
-Stephan is a data scientist and applied mathematician. He has worked at Akamai,
+Stefan is a data scientist and applied mathematician working at MIT. He has worked at Akamai,
 Citrix Online, and Etsy. Currently, Stefan is working on a next-generation programming
-language for numerical and scientific computing, called Julia.
+language for numerical and scientific computing, called Julia. See his resume at http://karpinski.org/resume/.
 
 
 Cindee Madison
