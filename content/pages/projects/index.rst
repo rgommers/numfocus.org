@@ -49,7 +49,7 @@ The Astropy Project is a community effort to develop a single core package for A
 High quality open source Python shell that includes tools for high level and
 interactive parallel computing.
 
-`julia`_
+`Julia`_
 --------
 .. image:: /media/img/projects/julia_logo.png
     :alt: Julia logo
