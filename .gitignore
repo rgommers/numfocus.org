@@ -1,6 +1,15 @@
-output/
-theme/static/css/style.css
-theme/static/css/mixins.css
+# Standard for Python repos
 *.pyc
 .DS_Store
+
+# Produced when building the site
+output/
+cache/
+theme/static/css/style.css
+theme/static/css/style.css.map
+theme/static/css/mixins.css
+theme/static/css/mixins.css.map
 theme/.sass-cache/*
+
+# Produced when running a local http server
+*.pid
