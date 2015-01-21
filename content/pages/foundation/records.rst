@@ -40,6 +40,6 @@ IRS tax returns (990)
 Because NumFOCUS is a public charity, we are required by the IRS to publish our
 tax returns for public inspection.
 
-- 2013
-- 2012
+- `2013 <|filename|/media/docs/financial/NumFOCUS_990_taxform_2013.pdf>`_
+- `2012 <|filename|/media/docs/financial/NumFOCUS_990_taxform_2012.pdf>`_
 
