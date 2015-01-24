@@ -1,0 +1,89 @@
+Minutes - December 09, 2013
+############################
+:url: foundation/minutes/board-meeting-minutes2013-12-09.html
+:save_as: foundation/minutes/board-meeting-minutes2013-12-09.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Anthony Scopatz, Ralf Gommers, Fernando Perez
+
+**Not Attending**:
+Andy Terrel, Travis Oliphant, Perry Greenfield, Jarrod Millman, Didrik Pinte
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+Minutes of last meeting are approved.
+
+Treasurer's Report
+------------------
+“I have been a bit distracted this past couple of weeks” -- Anthony
+
+
+Old Business
+============
+
+Status of PyTables domain transfer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Domain transfer is completed.
+
+This spurred the discussion that we should have a list of assets that Numfocus
+holds (we have the mac mini for numpy/scipy, domains, etc).
+
+Finishing up comprehensive FSA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This is the FSA that IPython will use first, but ready for other projects as
+well.  Leah will put it up soon on a google doc we can work on, she’s been
+already working on it.
+
+For comprehensive sponsorship requiring 5 signatories from the project makes
+sense (for grantor-grantee 3 is enough).
+
+Credit card application
+~~~~~~~~~~~~~~~~~~~~~~~
+Perry and Fernando signed the paperwork for the credit card application, Leah
+filed it and it’s in the pipeline.  Confirmation should arrive soon.  Leah,
+Anthony and Travis will have a card.
+
+
+
+New Business
+============
+
+Instructions on website for donate button install
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This needs to be done on a project-by-project basis, Anthony (or the current
+treasurer) pretty much has to give each project the HTML with the specific
+PayPal information.  We need to clarify our policy so that any project that has
+a donate button should at the very least sign a grantor/grantee FSA so that the
+relationship between NF and the project is clearly established.  Ralf motioned
+that, in the future, all projects and organizations that want NumFOCUS to
+accept donations on their behalf, must first sign a Fiscal Sponsorship
+Agreement (it can be a simple grantor/grantee one or a comprehensive one,
+depending on the needs of the project). This motion is accepted.
+
+We will work on signing FSAs for the projects that already have donation
+buttons to transition them into this policy.
+
+John Hunter Fellowship update
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ralf has a short update, he’s finishing up ideas on how to advertise this and
+run the selection process. Jake vdP indicated that PhD students, even if funded
+100% by NumFOCUS, might not be allowed to spend more than 50% of their time on
+the work we fund. This will need lots further clarification, because at this
+time NF is not comfortable with the possibility that we might have to pay 100%
+time + tuition for a student and get substantially less effort commitment.  We
+will investigate further exactly what the conditions are, and try to come up
+with a clear policy for these cases.
+
+Elections  
+~~~~~~~~~
+The board will try to reach out to new potential members who might be
+interested in serving next year, and this list will be voted on by the existing
+board as long as those people are actually interested in serving.  We may move
+towards a more open election model in the future as our membership grows and
+stabilizes, and we have more resources to tackle an open election. But we’re
+still in a somewhat bootstrapping phase, and it doesn’t look realistic right
+now to run a full-blown open election.  Anthony will try to organize these
+ideas and run a discussion on the admin mailing list.

@@ -1,0 +1,77 @@
+Minutes - October 28, 2013
+###########################
+:url: foundation/minutes/board-meeting-minutes2013-10-28.html
+:save_as: foundation/minutes/board-meeting-minutes2013-10-28.html
+
+
+Attendance
+----------
+**Participating**:
+Andy Terrel, Travis Oliphant, Leah Silen, Perry Greenfield, Anthony Scopatz,
+Matt Terry, Fernando Perez.
+
+**Not Attending**:
+Emmanuelle Gouillart, Jarrod Millman, Didrik Pinte, Ralf Gommers
+
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+The minutes have been approved.
+
+Treasurer's Report
+------------------
+Anthony has been working with TANO (Texas Association of Nonprofit
+Organizations) to do our taxes (990 filing), which are due on November 15th.
+Anthony and Donna Davis at TANO have made progress and Donna should be
+providing very soon a 990 to review. The move to Quickbooks made the process
+much easier.  Anthony, Matt Terry and Matt McCormick set up the ability to also
+donate via bitcoin, which is already live on the website.
+
+
+Old Business
+============
+
+FSA
+~~~
+1. **Grantor Grantee Model**: question on highlighted wording below. Do we want to
+include FOSS project governing documents?
+
+    1.  Grantee shall provide Grantor with a link to any governing documents
+    (articles of incorporation or FOSS governance documents), on-line repositories,
+    mailing lists, other communication channels (such as IRC or hipchat) and
+    websites.   Grantee shall also provide the names of 2 or 3 contact people
+    (these should not be members of the NumFOCUS Board of Directors ) who will
+    provide any required reporting and will formally verify, at least annually,
+    that all funds are used in accordance with the tax-exempt purposes of NumFOCUS. 
+
+Our Grantor Grantee: https://docs.google.com/a/numfocus.org/document/d/18n_wrjNqUmruQxTQHJRY9Q01IgHFeQCvyUo8utQNUvo/edit
+
+2. **Comprehensive Model**
+
+NumFOCUS Credit Card
+~~~~~~~~~~~~~~~~~~~~
+Leah has started the process of getting a credit card. We need two/three people
+to sign the documents for the card, who will not be the card holders. Leah will
+clarify what the personal liability implications are for the signers, and once
+that is sorted out we will move forward.
+
+Membership program
+~~~~~~~~~~~~~~~~~~
+PSF model: https://docs.google.com/a/numfocus.org/document/d/1z7hHII7_zKPku3w4M3rNHLPV6DE8EnjENiTZXd9ucn8/edit    
+
+NumFOCUS draft:
+https://docs.google.com/a/numfocus.org/document/d/1fM8UtURPPXQT7nn4l71BC117iqWlCFTdANP9YeB-wDs/edit
+
+Perry will provide some final edits to the membership docs so we can vote on them and approve it.
+
+
+New Business
+============
+
+PyHPC talk - Matt Turk
+~~~~~~~~~~~~~~~~~~~~~~
+This will be a talk about NumFOCUS at the PyHPC event at Supercomputing’13 in
+November (held in Denver).  Anthony won’t be able to make it due to some travel
+conflicts, but Matt Turk (project lead for yt) will present. Andy Terrel will
+be around, so he can coordinate with Matt. Anthony will provide Matt Turk with
+slides.

@@ -1,0 +1,129 @@
+Minutes - December 30, 2013
+############################
+:url: foundation/minutes/board-meeting-minutes2013-12-30.html
+:save_as: foundation/minutes/board-meeting-minutes2013-12-30.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Andy Terrel, Didrik Pinte, Ralf Gommers, Travis Oliphant, Perry
+Greenfield, Fernando Perez, Jarrod Millman, Anthony Scopatz
+
+**Not Attending**:
+Emmanuelle Gouillart
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+Minutes of 9 Dec 2013 meeting are approved.
+
+Treasurer's Report
+------------------
+Anthony provided a Profit & Loss overview.
+
+Leah managing Invoices with MS Word rather than Quickbooks, Anthony figured out
+Quickbooks and will show Leah.
+
+
+Old Business
+============
+
+Comprehensive FSA Approval
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Wants to add more verbage on what the Project gains.
+- Paragraph 2(c) needs to be rephrased and expanded - it’s not clear: the
+  everyday running of the project remains the responsibility of the project;
+  community programs, public information work are not things Numfocus will be
+  involved in.
+- Need to add legal representation 
+- Add paragraph titled “Services Offered by Numfocus” or something similar.
+
+Interest on money held in the fund should remain in the Numfocus account - this
+is how it generally works (see universities and academic grants), and tracking
+it per project would be a significant overhead.
+
+John Hunter Fellowship
+~~~~~~~~~~~~~~~~~~~~~~
+
+- Email 
+- Questions:
+
+  - Who is the applicant the Mentor or Student?
+
+      - Student proposes project and mentor
+
+  - Students only work 50% (100% in summer), how do we acommodate?
+
+      - Work two summers at (100%)
+      - Only advanced students at 100%
+      - Time slice
+      - Just specify set amount and due date
+
+  - How do we pay tuition?
+
+    - Students tuitions will vary by institution, but if students are given set
+      amount then it excludes top universities.
+    - Focus on summer work outside of graduate student duties
+
+  - Open access publications
+
+  - Do we pay for the OA fees?
+
+    - Allow students to appeal for funding fees
+
+  - Add a preference versus requirement
+
+    - Requirement is better
+
+  - Add caveat to make pre-print available to free well-recognized preprint
+    repository (ArXiv, FigShare, etc)
+
+  - Licenses
+
+    - OSI approved, preferrably BSD or MIT
+
+- Edit on Github, private.
+
+Membership form
+~~~~~~~~~~~~~~~
+Looks good to Perry, will get back to folks in the next few weeks Google form
+goes to spreadsheet, would be better than github pull request can be displayed
+on site
+
+
+New Business
+============
+
+Document Storage and adoption of a Document Retention Policy
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Retention policies:
+
+- Critical documents that need permanent storage are the Meeting Minutes,
+  Bylaws, IRS 501(c)3 letter and ?
+- FSA docs
+
+http://www.smartgivers.org/uploads/record_retention_policy_HNC.docx
+http://www.blueavocado.org/content/model-document-retention-policy-nonprofits
+http://www.publiccounsel.org/tools/assets/files/DocMemo.pdf
+
+Document Storage:
+
+- Github synced with Google Drive
+- Two levels, receipts and major IRS documents
+
+  - Anthony already has two level storage
+  - Would good to back up eventually.
+  - Primary should be smartvault
+  - Primary problem with Dropbox, GDrive, Box.com is they delete old versions
+    and you lose history of documents
+  - Continue discussion over email.
+
+- Approve use of safety deposit box at local bank.
+    
+
+Not Discussed
+~~~~~~~~~~~~~
+#. Per diem system for conference scholarship recipients
+#. Suggested changes to logo: NumFOCUS to Numfocus
+#. Election

@@ -1,0 +1,76 @@
+Minutes - November 25, 2013
+############################
+:url: foundation/minutes/board-meeting-minutes2013-11-25.html
+:save_as: foundation/minutes/board-meeting-minutes2013-11-25.html
+
+
+Attendance
+----------
+**Participating**:
+Andy R. Terrel, Perry Greenfield, Didrik Pinte, Ralf Gommers, Anthony Scopatz,
+Leah Silen, Travis Oliphant, Matt Terry
+
+**Not Attending**:
+Emmanuelle Gouillart, Jarrod Millman,  Fernando Perez
+
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+Minutes pass unanimously
+
+Treasurer's Report
+------------------
+Anthony provided a Profit & Loss overview.
+
+
+Old Business
+============
+
+Membership (in particular, by-law vote to change from Sponsoring Member to Supporting Member)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Need to change wording in by-laws
+- Leah says don’t need to delineate all the types
+- Change the website and https://github.com/numfocus/numfocus.org/pull/63
+- Move to change word sponsoring to supporting [member] in by-laws
+- Perry made motion, Travis second --> Passed unanimously
+
+Getting JPMorgan announcement of $100k donation up on website
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Leah will talk to Matt Terry to get short article.
+- $25K from hosting PyData, $75K cash
+- Consider it an annual sponsorship
+- Want to set $100k as Corporate sponsorship.
+- Should put $25K for technical fellowship with some more money available from PyData.
+- Ralf and Jarrod will follow up on Technical Fellowship Solicitation
+
+
+
+New Business
+============
+Keeping inventory of all assets (domains, servers for projects, etc.)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Ralf will make private Google Drive doc to start but possibly make public
+- Who has all the data? Travis says all in namecheap.com account.  Would be
+  good to have more access to NameCheap account
+
+Update on PyData funding policy
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+$15k now from PyData conferences this year.   In future, at least 5% of
+receipts as soon as the conference ends.  Each year (in December) any retained
+earnings (above $2k) will be donated to NumFOCUS.   Continuum will continue to
+serve as institutional backer. 
+
+PyTables domain update
+~~~~~~~~~~~~~~~~~~~~~~
+Leah has not done it yet, plans on working on this today.
+
+Numpy.com domain transfer --- need help completing this 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+John Turner has turned over numpy.org but never completed numpy.com
+If anyone is interested in helping with asset management, Travis can introduce
+to John (turnerja@ornl.gov) Ralf volunteers to take this on.
+
+Comprehensive FSA
+~~~~~~~~~~~~~~~~~
+The comprehensive FSA is 3/4-th finished. Leah is working on it with Fernando
+and should hopefully have something by next meeting.

@@ -14,7 +14,6 @@ Ralf Gommers, Didrik Pinte, Jarrod Millman, Perry Greenfield,
 Emmanuelle Gouillart, Jarrod Millman, Travis Oliphant
 
 
-**Not Attending**:
 Treasurer’s Report
 ------------------
 Expecting a few checking acct. disbursements: reimbursements, M. Droetboom is waiting for the Mac Mini reimbursement.  Matplotlib is having a meeting on August 15th, at that point they will have a better idea of their expenses.

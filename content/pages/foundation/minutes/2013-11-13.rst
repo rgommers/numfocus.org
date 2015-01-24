@@ -1,0 +1,88 @@
+Minutes - November 13, 2013
+############################
+:url: foundation/minutes/board-meeting-minutes2013-11-13.html
+:save_as: foundation/minutes/board-meeting-minutes2013-11-13.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Perry Greenfield, Anthony Scopatz, Didrik Pinte, Matt Terry
+
+**Not Attending**:
+Travis Oliphant, Ralf Gommers, Fernando Perez, Andy Terrel, Emmanuelle
+Gouillart, Jarrod Millman
+
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+
+
+Treasurer's Report
+------------------
+Anthony provided a Profit & Loss overview.
+
+
+Old Business
+============
+
+PyData NYC and Women in Technology Workshop report
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Great exposure for NF at PyData.  400+ attendees.  65 high school girls in
+attendance due to Women in Technology initiative.  20 diversity scholarships
+paid by JPMorgan through NF.
+
+Membership
+~~~~~~~~~~
+Discussed was what the purpose of the Fellows and Emeritus membership
+categories was. Since there is the community membership category, it seems
+apparent that these two categories are meant for special recognition in the
+community. As background, it was noted that the Fellow category came from the
+proposed PSF change to their membership model, but they haven’t yet made it
+their new policy yet, and that document doesn’t really explain the purpose of
+that category. But all present agreed that was the purpose of a Fellow
+membership. Perry agreed to draft some text to explain the purpose of the
+Fellow and Emeritus membership categories.
+
+A second issue is how many Fellow members are appropriate. The policy on this
+does not need to be part of the membership page, but we as a board should
+understand our goals. We expect that we will be adding Fellows gradually over
+time, so we should be careful to add at a rate consistent with the number we
+want to achieve in the longer term. There appeared to be agreement on this, but
+no specific number for the long term was settled on.
+
+Leah mentioned that corporate sponsorship was being separated from sponsored
+members (and thus we were renaming sponsored members to supporting members).
+There was no objection to that separation. Perry raised the issue of whether
+the categories of supporting members should be changed from student,
+professional, etc, to something more indicative of the amount contributed
+rather than the professional status of the member. Anthony was in general
+agreement, but for the most part, most don’t seem to care one way or another.
+Even Perry said he will accept anything to get the membership issue settled.
+
+Perry asked if it made any sense to keep some members hidden in the membership
+list shown on the web page. It does make sense to ask them if they want their
+contact info kept private, but not that they are a member kept private. There
+was general agreement with this, so that is the way we will proceed. 
+
+Leah offered to find the previous web form for people to fill out application
+information (including whether they want contact info kept private) rather
+require it sent by email. 
+
+FSA
+~~~
+What needs to be done? Grantor/grantee approved and will be put on the website.
+We are good to go with this model and feel free to distribute and use.
+
+Leah will merge comprehensive model versions between what is there now and what
+Fernando has.  Let’s try to vote on this next board meeting.
+
+
+New Business
+============
+
+Making financial information public
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Come up with guidelines for what financial information is made public and
+how.  Until then, Matt is going to remove bank balances from old minutes and
+post them to the website.
