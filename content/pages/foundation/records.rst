@@ -6,25 +6,24 @@ NumFOCUS Public Records
 Board Meetings
 **************
 
-- Meeting Minutes
+- `Meeting Minutes <|filename|/pages/foundation/minutes/index.rst>`_
 - Resolutions
 
 
 Directors & Officers
 ********************
 
-- Current Board of Directors
-- Current Advisory Board
-- Current Officers
-- History of Board & Officers
+- `Board of Directors <|filename|board.rst>`_
+- `Board of Advisers <|filename|advisers.rst>`_
+- `Staff <|filename|staff.rst>`_
+- `History of Officers & Directors <|filename|history.rst>`_
 
 
 Incorporation
 *************
 
 - Articles of incorporation
-- `Current Bylaws <|filename|/media/docs/bylaws.pdf>`_
-- Amendments to Bylaws
+- `Bylaws <|filename|/media/docs/bylaws.pdf>`_ (includes all amendments made)
 
 
 IRS recognition of tax exempt status
