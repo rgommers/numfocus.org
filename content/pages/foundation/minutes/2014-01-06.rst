@@ -1,0 +1,84 @@
+Minutes - January 06, 2014
+###########################
+:url: foundation/minutes/board-meeting-minutes2014-01-06.html
+:save_as: foundation/minutes/board-meeting-minutes2014-01-06.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Andy Terrel, Jarrod Millman, Anthony Scopatz
+
+**Not Attending**:
+Didrik Pinte, Ralf Gommers, Travis Oliphant, Perry Greenfield, Fernando Perez,
+Emmanuelle Gouillart
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+Minutes of 9 Dec 2013 meeting are approved.
+
+Treasurer's Report
+------------------
+Anthony provided an overview of bank balances.
+
+
+Old Business
+============
+
+Comprehensive FSA Approval
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Approved via email, and IPython has/is signing document.
+
+John Hunter Fellowship
+~~~~~~~~~~~~~~~~~~~~~~
+Pending work by Jarrod and/or Ralf.
+
+Membership form
+~~~~~~~~~~~~~~~
+Perry needed.
+
+Document Storage and adoption of a Document Retention Policy
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safety deposit box still needed (Leah looking into this).  Considering more
+widespread smartvault.
+
+SymPy update on signing of FSA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+SymPy is still reviewing their options, but will be deciding soon.  (We need a
+separate fiscal sponsorship page on the website.  The information is on the
+website now under Donations.)
+
+
+New Business
+============
+
+Per diem system for conference scholarship recipients
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Use US government standard per diem rate for meal and incidentals was approved.
+
+http://www.gsa.gov/portal/content/101518
+
+Suggested changes to logo: NumFOCUS to Numfocus
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Approved via email.
+
+Elections
+~~~~~~~~~
+We proposed to move election to later this year.  Eventually we want to open
+elections to the general membership, but for now we will do something more
+informal to help ensure continuity and all our membership model to get
+finalized before opening to voting.
+
+The tentative proposal for now is to request nominations from the general
+mailing list.  Then the board will review and order the list of potential
+nominees.  Any board member who wishes to stay would get a one year appointment
+and new members will have two years.
+
+We have a preference for representation from the different sectors (industry,
+academic, etc.)  We will need to have a blog post before the election this
+year.  Andy Terrel will draft a blog post summarizing our discussion that will
+be noted on in the next meeting.
+
+Disco domain transfer
+~~~~~~~~~~~~~~~~~~~~~
+Approved

@@ -1,0 +1,56 @@
+Minutes - February 03, 2014
+############################
+:url: foundation/minutes/board-meeting-minutes2014-02-03.html
+:save_as: foundation/minutes/board-meeting-minutes2014-02-03.html
+
+
+Attendance
+----------
+**Participating**:
+Fernando Perez, Leah Silen, Perry Greenfield, Didrik Pinte.
+
+Erik Tollerud and Thomas Robitaille from the AstroPy project are visiting.
+
+**Not Attending**:
+Jarrod Millman, Andy Terrel, Travis Oliphant, Ralf Gommers, Emmanuelle
+Gouillart, Anthony Scopatz.
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+Postponed to future meeting for purposes of reaching quorum
+
+Treasurer's Report
+------------------
+no update
+
+Old Business
+============
+not discussed
+
+
+New Business
+============
+
+Astropy NASA Challenge
+~~~~~~~~~~~~~~~~~~~~~~
+Since we don’t have enough quorum for a vote, we gathered some input from
+Thomas and Erik, and will finish up the discussion/vote over email.
+
+Astropy was contacted by a NASA Grand Challenge manager. The GC program is a
+large science & outreach effort, aimed at the problem of asteroids hitting the
+Earth.  The idea would be to have Astropy be an official member of the GC. That
+would entail for example having ‘bounties’ to develop specific aspects of
+Astropy that would be related to the GC goals. The GC program wants an
+agreement with Astropy that would entail cross-listing and promotion (astropy &
+GC program), prizes for competitions and potentially grants in the future.  The
+GC program needs to be able to sign this agreement with a legal entity, and
+since Astropy has no individual legal standing, we are considering whether NF
+could play that role.  This is a requirement of the fact that NASA is running
+the program.  We explained to the Astropy team what the Grantor/Grantee and
+Comprehensive FSA models entail, and they will take it back to their community
+to decide whether to apply for Numfocus sponsorship.
+
+Julia folks on 3/17?
+~~~~~~~~~~~~~~~~~~~~
+The Julia team is also interested in asking us some questions about FSAs. They
+will join our call on 3/17 for that purpose.

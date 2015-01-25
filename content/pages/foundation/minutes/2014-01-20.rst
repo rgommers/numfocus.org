@@ -1,0 +1,98 @@
+Minutes - January 20, 2014
+###########################
+:url: foundation/minutes/board-meeting-minutes2014-01-20.html
+:save_as: foundation/minutes/board-meeting-minutes2014-01-20.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Jarrod Millman, Anthony Scopatz, Ralf Gommers, Perry Greenfield,
+Travis Oliphant, Fernando Perez
+
+**Not Attending**:
+Andy Terrel, Didrik Pinte, Emmanuelle Gouillart
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+Meeting minutes are approved.
+
+Treasurer's Report
+------------------
+Anthony provided an overview of bank balances.
+
+Old Business
+============
+
+FSA
+~~~
+IPython’s and SymPy’s have both been signed.
+
+John Hunter Fellowship
+~~~~~~~~~~~~~~~~~~~~~~
+Discuss draft website material:
+https://github.com/rgommers/numfocus.org/blob/fellowship/content/fellowship2013.rst
+https://github.com/rgommers/numfocus.org/blob/fellowship/content/john_hunter_fellowship_2014.rst
+
+A motion has been approved to submit this as a final pull request on github to
+finish this up. We will aim for an April 22nd application date, to allow
+sufficient time for proposal review, aiming for a summer start date.
+
+Membership form Approval
+~~~~~~~~~~~~~~~~~~~~~~~~
+Form and link posted to website. How should payments be made for supporting
+memberships?
+
+Anthony can add membership payment button.  Form imports to spreadsheet
+
+Document Storage
+~~~~~~~~~~~~~~~~
+Safety Deposit box will be $65/mn with a $20 deposit for 2 keys Check if we can
+get this free given how much we have in account. Otherwise we should look into
+buying fireproof boxes we can store at two locations in Austin for redundancy,
+which could be much cheaper in the long run.
+
+Elections
+~~~~~~~~~
+Maybe scipy conference time-line: announce prior to and during scipy’14, and
+tally votes at the end of the conference. That gives us the added attention of
+the conference period to rally interest.  We need to clarify very well our
+elections procedure before starting. We should aim to have it written up by May
+1st. Need to check with Andy if he still wants to take the lead on this.
+
+
+New Business
+============
+
+Women in Technology at PyData London
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Asking for £1250 to sponsor 2-3 scholarships and sponsor a Women in Data
+Science speaker and networking event.
+Motion to spend this amount of money for this purpose is approved.
+ 
+IPython FSA
+~~~~~~~~~~~
+How to approve new expenditures? We want to file expenses for our new
+developer.
+  
+Invoice for work? How does this need to be approved? Do we need a point of
+contact or do all signaturies need to sign? Send to treasure@numfocus
+
+The developer is an independent contractor at the moment. He should submit
+invoices, Numfocus can pay those as well as arrange a 1099.
+
+Astropy request
+~~~~~~~~~~~~~~~
+Request by Astropy for NumFOCUS to be legal representative on NASA Grand
+Challenge Initiative.
+
+This sounds like it should be handled under a FSA.   We may want to invite
+someone to talk with us at the next board to get a more detailed understanding
+of what they are asking and to see if they are interested in a FSA.
+
+Do we have a diversity statement / position?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This has happened / been emphasized informally - see the events we have chosen
+to sponsor. However adding such a statement on the website would be a good step
+forward.  Leah will draft something to discuss. PSF and PyCon diversity
+statements and code of conduct documents are good examples to look at.

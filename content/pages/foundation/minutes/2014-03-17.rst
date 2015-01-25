@@ -1,0 +1,79 @@
+Minutes - March 17, 2014
+#########################
+:url: foundation/minutes/board-meeting-minutes2014-03-17.html
+:save_as: foundation/minutes/board-meeting-minutes2014-03-17.html
+
+
+Attendance
+----------
+**Participating**:
+Andy Terrel, Perry Greenfield, Leah Silen, Didrik Pinte, Fernando Perez, Jarrod
+Millman
+
+*Guests*: Jiahao Chen, Keno Fischer, Stefan Karpinksi, Jeff Bezanson
+
+**Not Attending**:
+Travis Oliphant, Emmanuelle Gouillart, Ralf Gommers, Anthony Scopatz
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+Minutes are approved unanimously
+
+Treasurer's Report
+------------------
+no update
+
+Old Business
+============
+
+Election details 
+~~~~~~~~~~~~~~~~
+Perry suggest longest serving should step down or considered for replacement
+Andy has two chairs stepping down and would focus on adding Vice President
+offices.  Vote and discussion held until next meeting
+
+Website Update
+~~~~~~~~~~~~~~
+Andy and Leah met with Lila Hickey and Kim Conklin (web developer and designer
+from Continuum Analytics) to design a new look and feel for the website. Expect
+a mock up next board meeting.
+
+Vote on support for SciPy2014 Women Social Luncheon
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Womens Luncheon at SciPy conference:
+
+  - will cost $10 per person for luncheon ($500 to offset cost)
+  - scholarships for 5 women ($5000 total)
+
+    - Question: Should this be run through the SciPy FinAid group? Or general
+      student sponsorships?
+    - Idea resulted from SciPy2013 Women’s social, where the general consensus
+      was that a call specifcally to women helps get candidates.
+    - Money would come out of earmarked money from Numfocus diversity
+      scholarships whereas any more general scholarships would be required to
+      come from the general fund.
+    - Andy will investigate giving money through Scipy sponsorship with earmark
+      to females and underrepresented groups. Any advertisements should
+      mentions the specific earmarked funds.
+    - Probably best to partner with PyLadies to announce it.
+
+  - Honorarium for speaker discussed.
+
+- Jarrod proposes a motions to fund the entire luncheon, Andy seconds Passes
+  unanimously. (Vote attendance: Andy, Jarrod, Perry, and Didrik)
+- Leah will correspond with proposers about the money.
+
+
+New Business
+============
+
+Julia FSA Discussion
+~~~~~~~~~~~~~~~~~~~~
+Long discussion on details of the FSA document.
+
+AstroPy interested in FSA
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Next steps Leah will create document and create echosign
+Will correspond with Perry
+Interested in Comprehensive FSA
+

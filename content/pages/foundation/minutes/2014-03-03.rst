@@ -1,0 +1,102 @@
+Minutes - March 03, 2014
+#########################
+:url: foundation/minutes/board-meeting-minutes2014-03-03.html
+:save_as: foundation/minutes/board-meeting-minutes2014-03-03.html
+
+
+Attendance
+----------
+**Participating**:
+Perry Greenfield, Leah Silen, Andy Terrel, Fernando Perez, Ralf Gommers
+
+**Not Attending**:
+Anthony Scopatz, Travis Oliphant, Didrik Pinte, Jarrod Millman, Emmanuelle
+Gouillart
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+Approved
+
+Treasurer's Report
+------------------
+No large updates.
+
+Old Business
+============
+
+Election details 
+~~~~~~~~~~~~~~~~
+- discussed draft document
+- Need to determine which board members to have their position up for election.
+  Ask for volunteers: (Andy contact list for those interested in stepping
+  down).
+- Try to encourage more diversity in board
+- Worry about Chair, Secretary, and Treasurer after elections.
+
+Project Grant Request Application
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Radim on the mailing list to set up project application on the website
+  (https://github.com/numfocus/numfocus.org/pull/62/files).
+- Andy volunteers to look at website.
+- Need to highlight the three paths to:
+  
+  - Full comprehensive FSA (email admin list)
+  - Grantor/Grantee (email admin list)
+  - One off, adhoc item by item request (case by case basis, needs official
+    application form on web)
+  - First attempt by Matt to describe all three: https://github.com/numfocus/numfocus.org/pull/38 
+
+Disco Sponsorship
+~~~~~~~~~~~~~~~~~
+Waiting on contact to continue website transfer.
+
+Website
+~~~~~~~
+In need of maintenance.  Travis has offered time from Continuum web developer
+(Lila Hickey).  Need to get her a list of changes to be made. (Github issues)
+Would be good to make sure her toolchain is available to others.  Andy can work
+as project manager.
+
+
+New Business
+============
+
+Fiscal Sponsorship program
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Email reply to groups interested in our Fiscal Sponsorship program, e.g. Kansas
+City Open Hardware Society.  www.kcohg.org
+
+- Worry about size of KCOHS and not sure we can support the load.
+- Not able to take risk for holding events.
+- A bit outside our mission
+- Fernando: not worried about mission as hardware and software converging
+- Have great set of sponsors to collaborate with.
+- Good to contact about them helping Numfocus grow and extend our own
+  capabilities. If they are less willing to build our community suggest
+  Software Conservancy.  (Fernando agrees to contact them).
+
+Report on PyData London
+~~~~~~~~~~~~~~~~~~~~~~~
+- Went really well, first European PyData.
+- Interest in Numfocus from Spanish university.
+- http://ianozsvald.com/2014/02/24/pydatalondon-2014/
+- Starting pyladies group in London
+- Next Silicon Valley then after EuroPython in Berlin
+- Fernando gave talk at Facebook
+- Facebook giving venue for Silicon Valley PyData 2014
+
+Support for SciPy2014 Women Social
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Scipy committee asking for support again this year
+- Want to have a speaker this year
+- Evening social invited 
+- Can we support their social last year given $300
+- This year would be good to include stipends for a woman 
+- Ask Kristen to send an email to Numfocus with details for support
+
+General sponsorship for SciPy conference
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Propose a silver sponsorship: $2000
+- Need to get numbers on discretionary budget.
+- Seems Anthony has not taken the 7% out of IPython grant.
+

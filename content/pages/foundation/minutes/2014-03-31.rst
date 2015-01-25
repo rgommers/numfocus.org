@@ -1,0 +1,101 @@
+Minutes - March 31, 2014
+#########################
+:url: foundation/minutes/board-meeting-minutes2014-03-31.html
+:save_as: foundation/minutes/board-meeting-minutes2014-03-31.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Fernando Perez, Anthony Scopatz, Ralf Gommers, Perry Greenfield
+
+**Not Attending**:
+Andy Terrel, Travis Oliphant, Emmanuelle Gouillart, Jarrod Millman, Didrik
+Pinte
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+Minutes were approved.
+
+Treasurer's Report
+------------------
+- Anthony gave an update on bank balances.
+- Documentation for PyData income needed, Leah will follow up on this.
+
+Old Business
+============
+
+Elections
+~~~~~~~~~
+Discussed a draft.  Getting this document up on website / out on the mailing
+list is getting somewhat urgent. Not enough people now, to be taken up on the
+admin list this week.
+
+Website update
+~~~~~~~~~~~~~~
+- Determine categories or labels to distinguish the projects we promote/support
+  and those who have signed FSA’s.
+
+  - Distinguishing projects
+  - Continue on GitHub 
+
+- FSA article on IPython, SymPy and Astropy on website home page.
+- Leah has press release about already signed FSAs. To be put up on website as
+  soon as AstroPy has signed. 
+
+Astropy FSA
+~~~~~~~~~~~
+Awaiting one signature, Perry will follow up on this.
+
+Legal advice on developer contract
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tony Sebro’s answer to the question regarding developers, such as Jonathan
+Frederic, needing a contract.
+
+Recap of 3/26 call with Tony Sebro regarding NumFocus hiring developers as
+contractors:
+
+#. Developers working for a project should have an Independent Contractor
+   relationship with NumFocus.
+
+#. A signed agreement is needed and the developer should be given a proposal,
+   from NF of work that is to be done.
+
+#. The agreement should be separate from the proposal, and contain deliverables
+   and the process in which the work will be evaluated. It should state that
+   the work is licensed under BSD and make sure that NF retains ownership or
+   that the copyright is assigned to NF. [Unless NF wants the contractor to own
+   copyrights]
+
+#. It’s just good practice to make sure it’s the project’s work and not the
+   individual’s.
+
+#. Tony has a template of an agreement we can use. He would not have to create
+   a new document. He could customize the template in less than one hour.
+
+#. He highly recommends the contractor post the deliverables in a public place,
+   e.g. IPython’s blog or website, saying what was done, how long was spent and
+   that an invoice was given to NF. 
+
+#. “In case of an audit you can’t point the IRS to commit logs.”
+
+#. He also suggested that to “clean things up” NF should own all of the
+   project’s domains.
+
+Leah will ask Tony to contact Fernando (who forwards to the IPython FSA
+co-signer mailing list) about customizing the template for IPython.
+
+
+New Business
+============
+
+Numfocus vs. NumFocus
+~~~~~~~~~~~~~~~~~~~~~
+No strong feelings either way, pick this up next time when Andy is here.
+
+JH fellowship - R & Julia
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Discussed whether or not to forward to Julia and R mailing lists. Agreed that
+this is a good idea - nothing in the call for proposals is specifically aimed
+at Python, and projects like IPython are getting more involved with R and
+Julia. Ralf will do that this week.

@@ -1,0 +1,92 @@
+Minutes - February 17, 2014
+############################
+:url: foundation/minutes/board-meeting-minutes2014-02-17.html
+:save_as: foundation/minutes/board-meeting-minutes2014-02-17.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Andy Terrel, Didrik Pinte, Fernando Perez, Jarrod Millman, Anthony
+Scopatz, Travis Oliphant (joined for the end of the meeting)
+
+**Not Attending**:
+Perry Greenfield, Ralf Gommers, Emmanuelle Gouillart.
+
+Approval of Minutes from two previous Meetings
+----------------------------------------------
+Both approved
+
+Treasurer's Report
+------------------
+- Anthony provided a Profit & Loss overview and an overview of bank balances.
+- We have paid out the expenses for the scikit-learn sprint.
+- Wells-Fargo canceled Anthony’s access to the bill pay service b/c he tried to
+  access the website from Israel. In order to restore it, Anthony will have to
+  personally go to a Wells-Fargo branch to restore it.
+- Leah received the SecureID device for direct deposit transfers.
+
+Old Business
+============
+
+Diversity Statement
+~~~~~~~~~~~~~~~~~~~
+Discussed a draft, based on the PSF’s and adapted for Numfocus.
+
+Jarrod will try to slightly modify the statement to align more with our
+position as funding agency that promotes diversity, rather than a community
+that welcomes it.
+
+Astropy NASA Challenge
+~~~~~~~~~~~~~~~~~~~~~~
+The participation of Numfocus in the AstroPy NASA Challenge project was
+approved. So far, this only entails that we will be open to signing a
+comprehensive FSA with the Astropy project, so that NF can be their Fiscal
+Sponsor in engaging NASA. At this point, we wait for the Astropy team to decide
+whether they do want to sign an FSA with us or not.
+
+John Hunter Fellowship
+~~~~~~~~~~~~~~~~~~~~~~
+Pending action as follow up our approved motion from Jan. 20th.
+
+Document Storage
+~~~~~~~~~~~~~~~~
+A motion was approved to buy a fireproof safe that can be used to store
+originals of important documents required by IRS law. That safe will be kept at
+the Continuum offices or the house of one of our team.
+
+Membership docs approval
+~~~~~~~~~~~~~~~~~~~~~~~~
+Membership payment button awaiting action from Anthony
+
+
+New Business
+============
+
+NYC PyLadies request for PyCon sponsorships
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This was discussed on the mailing list. We would like to sponsor PyLadies, but
+given our financial constraints and our focus on scientific computing, we
+resolved to cap our contribution.  A motion was approved to give $2000 to NYC
+PyLadies to fund two attendees for PyCon. NF stipulated that these funds should
+go to women in the science, engineering and mathematics fields, broadly
+understood (they can be students, researchers, educators, developers of
+scientific computing projects, etc).
+
+
+Reserve funds/credit
+~~~~~~~~~~~~~~~~~~~~
+We believe there is no legal requirement for reserve funds for nonprofits.  We
+have established a line of credit (~$30K) to help with emergencies.  We
+discussed whether we want to try to and establish some reserve funding just to
+be safe.  The consensus was that we should move toward having a reserve fund
+that would perhaps cover our minimum needed funds to maintain operations for 6
+months.  There was a general interest in having a financial committee to start
+planning more long-term than we are currently doing.  Should be included in
+plan for new Board membership elections over summer (maybe we should even have
+an accountant on the Board).
+
+Travis and Anthony will think over and clarify the following as a future motion
+to be voted on:  “We will actively seek (via email and on the website) members
+of our community with an accounting background to assist us with financial
+matters and serve on a financial oversight committee.”
