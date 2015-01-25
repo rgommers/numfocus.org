@@ -1,0 +1,52 @@
+Minutes - April 28, 2014
+#########################
+:url: foundation/minutes/board-meeting-minutes2014-04-28.html
+:save_as: foundation/minutes/board-meeting-minutes2014-04-28.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Ralf Gommers, Perry Greenfield
+
+**Not Attending**:
+Fernando Perez, Anthony Scopatz, Didrik Pinte, Andy Terrel, Travis Oliphant,
+Emmanuelle Gouillart, Jarrod Millman
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+not done
+
+Treasurer's Report
+------------------
+no update
+
+Old Business
+============
+
+Elections
+~~~~~~~~~
+Discussed draft announcement.  Andy can do this tonight. Announcement should go
+out to the NF list at the same time.
+
+Fellowship
+~~~~~~~~~~
+How to organize review process --> Ralf will start an email discussion on that.
+
+Meeting notes
+~~~~~~~~~~~~~
+Leah will split the meeting minutes into two; last year and this year.
+
+
+New Business
+============
+
+EuroSciPy sponsorship
+~~~~~~~~~~~~~~~~~~~~~
+Request for sponsorship of EuroSciPy at the same level as last year ($2k) -
+allocated to support student travel.  Vote on this on the admin mailing list.
+
+PyData scholarships
+~~~~~~~~~~~~~~~~~~~
+Diversity Scholarships approval for PyData: vote on this on the admin mailing
+list.

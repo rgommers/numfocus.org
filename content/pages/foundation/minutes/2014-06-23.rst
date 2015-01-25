@@ -1,0 +1,43 @@
+Minutes - June 23, 2014
+########################
+:url: foundation/minutes/board-meeting-minutes2014-06-23.html
+:save_as: foundation/minutes/board-meeting-minutes2014-06-23.html
+
+
+Attendance
+----------
+**Participating**:
+Andy Terrel, Anthony Scopatz, Perry Greenfield, Didrik Pinte, Jarrod Millman
+
+**Not Attending**:
+Fernando Perez, Travis Oliphant, Ralf Gommers
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+Minutes are approved
+
+Treasurer's Report
+------------------
+Conversation with TANO to get a contract for book keeping services. Should be
+done by the end of the week.
+
+Old Business
+============
+
+Elections
+~~~~~~~~~
+- Positions: http://numfocus.org/news/2014/05/12/numfocus-elections-2014/
+- Discussed candidates for Board, Vice Presidents and Board of Advisers.
+
+
+New Business
+============
+
+Booths/Tables at SciPy and EuroPython
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Discussed
+
+Data Carpentry
+~~~~~~~~~~~~~~
+Interest from Data Carpentry in possibly signing an FSA.
+

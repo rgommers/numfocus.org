@@ -1,0 +1,42 @@
+Minutes - June 16, 2014
+########################
+:url: foundation/minutes/board-meeting-minutes2014-06-16.html
+:save_as: foundation/minutes/board-meeting-minutes2014-06-16.html
+
+
+Attendance
+----------
+**Participating**:
+Anthony Scopatz, Andy Terrel, Leah Silen, Ralf Gommers
+
+**Not Attending**:
+Fernando Perez, Travis Oliphant, Perry Greenfield, Didrik Pinte, Jarrod
+Millman, Emmanuelle Gouillart
+
+
+Old Business
+============
+
+Elections
+~~~~~~~~~
+Discussion on what vice-president roles mean and whether they should be elected
+or appointed.
+
+Discussion on who to include. List of candidates sent out by Andy.
+
+- Of the above names, only Brian and Ben suggested themselves as board members,
+  the rest are added to this list by a board member.
+- Do we need at least one woman on the board? --> yes
+- Do we need a corporate fundraiser-type person on the board? That’s maybe more
+  a profile for a “board of advisors” (which we currently don’t have).
+- All agree that it’s important to increase diversity in the next selection round.
+- We need some people with vision and also people that execute.
+- VPs are already mentioned in the by-laws, so can be introduced without amending those.
+- All agree that including a Julia community member would be good. Some concern
+  about including an R community representative, due to non-involvement so far,
+  size of the community, existence of R Foundation and that community’s strong
+  preference for GPL.
+
+Andy will write up a summary of the discussion of today and send it to the
+admin list, so we will be able to have an effective discussion next board
+meeting.

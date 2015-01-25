@@ -1,0 +1,59 @@
+Minutes - May 27, 2014
+#######################
+:url: foundation/minutes/board-meeting-minutes2014-05-27.html
+:save_as: foundation/minutes/board-meeting-minutes2014-05-27.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Andy Terrel, Ralf Gommers, Jarrod Millman, Didrik Pinte, Travis
+Oliphant
+
+**Not Attending**:
+Fernando Perez, Emmanuelle Gouillart, Perry Greenfield, Anthony Scopatz
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+not done
+
+Treasurer's Report
+------------------
+no update
+
+Old Business
+============
+
+JH Fellowship applications review
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Ranked applications and voted.  Outcome in order (out of 7): Olga Damien, Connie.
+- Give other board members 48 hours to vote to approve Olga as the fellowship.
+  Jarrod to email board
+- Will request Olga and her mentors give a set of milestones to organize the
+  proposed project. Ralf to correspond with awarding fellowship:
+
+    - Contact Olga about if able to accept award
+    - Work with fellowship office to arrange the money
+    - If overhead is 50%, then ask her to work full time over two summers
+    - Work with her mentor for milestones
+
+- Travis will write “press release” on Olga and the Fellowship
+
+Website update
+~~~~~~~~~~~~~~
+Andy still working with Lila to get the rest of the pages to match the front
+page style. Hopes to have something by next meeting.
+
+
+New Business
+============
+
+Support for NeuroDebian promo materials
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Yaroslav Halchenko requested ~$450 for proofing & printing materials, also
+offered to promote Numfocus with existing promo materials.
+
+- Consent is to give money on the condition that he acknowledge Numfocus with
+  logo, byline and url.
+- Vote passed unanimously

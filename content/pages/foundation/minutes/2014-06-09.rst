@@ -1,0 +1,74 @@
+Minutes - June 09, 2014
+########################
+:url: foundation/minutes/board-meeting-minutes2014-06-09.html
+:save_as: foundation/minutes/board-meeting-minutes2014-06-09.html
+
+
+Attendance
+----------
+**Participating**:
+Anthony Scopatz, Andy Terrel, Leah Silen, Travis Oliphant, Perry Greenfield,
+Didrik Pinte
+
+**Not Attending**:
+Ralf Gommers, Fernando Perez, Jarrod Millman
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+not done
+
+Treasurer's Report
+------------------
+no update
+
+Old Business
+============
+
+Julia FSA
+~~~~~~~~~
+Leah will begin the process of getting the FSA signed by the Julia
+representatives. 
+
+Hopefully by next week the EchoSign will go out.
+
+JH Fellowship
+~~~~~~~~~~~~~
+Announcement of the Fellowship recipient and notification of those not
+selected. Press release?
+
+Travis will draft the Press release by Thursday of this week and wait for
+fellowship approval before sending out.
+
+Ralf & Olga are supposed to be in touch with the UCSD fellowship office.
+
+Elections at SciPy
+~~~~~~~~~~~~~~~~~~
+Andy will send out an email and try to up a special meeting for next week.
+
+
+New Business
+============
+
+Diversity Scholarships for PyData Berlin
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Approval of Diversity Scholarships for PyData Berlin: $2,500.  This would be
+instead of a Women in Technology event at PyData.  Passed, no objections.
+
+Website
+~~~~~~~
+Mobile improvements happening by Leila
+
+Content Needed:
+
+- Women in Technology Page
+- Conferences
+- Projects
+- News
+- Apply for grant
+- Contribute
+
+Travis stepping down
+~~~~~~~~~~~~~~~~~~~~
+Travis was elected to the PSF board and will be stepping down from the NF board
+come the SciPy Elections. Congratulations!
+

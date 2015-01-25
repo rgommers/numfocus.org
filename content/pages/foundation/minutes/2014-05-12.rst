@@ -1,0 +1,59 @@
+Minutes - May 12, 2014
+#######################
+:url: foundation/minutes/board-meeting-minutes2014-05-12.html
+:save_as: foundation/minutes/board-meeting-minutes2014-05-12.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Anthony Scopatz, Andy Terrel, Perry Greenfield, Ralf Gommers
+
+**Not Attending**:
+Fernando Perez, Travis Oliphant, Jarrod Millman, Didrik Pinte, Emmanuelle
+Gouillart
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+not done
+
+Treasurer's Report
+------------------
+Advice from Raymond Hettiger: get a bookkeeper. Found one for $75/hr; expected
+one or two hours per month of work needed. Motion approved to pay Yvette
+Hernandez as our bookkeeper.
+
+Tax extension to be put in by this Thursday.
+
+
+Old Business
+============
+
+Election information on the website
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Website frontpage now ported to Pelican and merged into the numfocus.org Github
+repo. Other pages will be transferred to the new format soon, Andy is working
+on this with the web designers.
+
+Report from PyData
+~~~~~~~~~~~~~~~~~~
+Women in Technology event went great, 60 high school students, good
+collaboration between Numfocus and Facebook. Leah will write up a blog post,
+and solicit some more content.
+
+Review process for the fellowship?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Three complete applications so far, some more expected at the last minute. We
+see no need to extend the deadline. Aim for a preliminary review completed by
+the next board meeting; perhaps a separate board will be needed.  Website needs
+to be updated after the deadline to reflect that deadline expiration. Ralf will
+do this after May 15. Other than that no work on the website is needed.
+
+
+New Business
+============
+
+Astropy domain name
+~~~~~~~~~~~~~~~~~~~
+AstroPy is transferring their domain name to NumFocus.  Website being down
+should not be an issue.
