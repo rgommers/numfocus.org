@@ -30,7 +30,6 @@ IRS recognition of tax exempt status
 ************************************
 
 - `Final determination letter from the IRS, 20 Sep 2012 <|filename|/media/docs/financial/NumFocus_IRS_501c3_final_determination_letter.pdf>`_
-- Tax exempt application (form 1023)
 
 
 IRS tax returns (990)
