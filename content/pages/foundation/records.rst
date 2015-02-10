@@ -22,7 +22,7 @@ Directors & Officers
 Incorporation
 *************
 
-- Articles of incorporation
+- `Articles of incorporation <|filename|/media/docs/NumFOCUS_certificate_of_formation.pdf>`_
 - `Bylaws <|filename|/media/docs/bylaws.pdf>`_ (includes all amendments made)
 
 
