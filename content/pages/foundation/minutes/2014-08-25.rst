@@ -1,0 +1,135 @@
+Minutes - August 25, 2014
+##########################
+:url: foundation/minutes/board-meeting-minutes2014-08-25.html
+:save_as: foundation/minutes/board-meeting-minutes2014-08-25.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Cindee Madison, Andy Terrel, Ralf Gommers, Didrik Pinte, Jarrod
+Millman, Lorena Barba, Anthony Scopatz
+
+**Not Attending**:
+Perry Greenfield, Brian Granger
+
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+Unanimously approved
+
+
+Treasurer's Report
+------------------
+no update
+
+
+Items Approved by Email
+=======================
+
+NumFOCUS Officers
+~~~~~~~~~~~~~~~~~
+Slate of officers approved as follows:
+
+- Chairman: Jarrod Millman
+- President: Andy Terrel
+- Treasurer: Anthony Scopatz
+- Secretary: Ralf Gommers
+
+Austin PyLadies Hackathon
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Transferring remaining balance of SciPy Diversity Scholarship Funding to the
+Austin PyLadies group to be used for their upcoming hackathon approved.
+
+
+Old Business
+============
+
+Update on John Hunter Technology Fellowship
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Olga received approval from to accept money from her funding agency.
+Need to review what we need to change for next fellowship - Ralf to lead.
+
+New FSA’s
+~~~~~~~~~
+#. The Julia FSA has been sent out and is awaiting signatures.
+   Went out on 8/13 but status is still pending
+#. We are currently working with rOpenSci to sign.  Fernando, Andy, Leah, and
+   Lorena met with them.  Going back and forth on wording around entity,
+   consulting Tony about these details
+
+Update on Vice Presidents
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Still pending.  Andy is planning to send out invites in the next few weeks.
+
+IPython contract
+~~~~~~~~~~~~~~~~
+Contractor Service Agreement for IPython is waiting on final approval from Tony Sebro. 
+
+
+New Business
+============
+
+(First two items were tabled in last meeting)
+
+Microsoft Azure hours donations (Wenming Ye)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Possible binstar.org CI for continuously build NumFOCUS projects Proposed by Andy.
+- Wheel builds from Matthew Brett (server from Rackspace)
+- General computing available for people?  Send out email to lists to make a proposal.
+- Contact Wenming Ye (action Andy)
+
+  - Ask what kind of proposals to be accepted
+  - What timing do we need to accommodate
+  - After contacting, send out a call for proposals to general lists
+
+- Ask for a large donation of hours to manage via Numfocus
+
+  - maybe for a competition (possibly at a conference?)
+  - or for subawards
+
+Membership
+~~~~~~~~~~
+New Membership Perks: stickers, SciPy discount, O’Reilly ebook coupon or discount
+
+- Need to approve stickers.
+- Jonathan Rocher talked about SciPy and PyData discount
+- O’Reilly ebook discounts
+- possible opt-out for mail
+- (we are around 76 members now)
+
+Conference Participation
+~~~~~~~~~~~~~~~~~~~~~~~~
+We had a NumFOCUS table at both EuroPython and PyData Berlin. 
+
+Astronomy workshop funding request
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Request for scholarship funding from Thomas Robitaille for Python in Astronomy
+workshop in Leiden:
+
+- Summary: $10K for international travelers to workshop
+- Jarrod proposed to give $2K, Cindee second, passed unanimously
+- Leah will follow up with Thomas
+
+PyData Seattle
+~~~~~~~~~~~~~~
+eScience Institute and Microsoft will be sponsoring PyData Seattle which will
+be held in 2015.
+
+- Jake Vanderplas wants to host a PyData 
+- Working on getting a date set, based on Microsoft venue availability.
+
+SciDev Conference Day
+~~~~~~~~~~~~~~~~~~~~~
+Possibility of hosting SciDev (http://scidev.io) Conference Day at O’Reilly’s
+Strata San Jose.  Andy: Should NumFOCUS be involved (tentatively for first year)?
+
+- Sounds good to go ahead as a NumFOCUS event
+- Next steps is to put together a conference committee
+- Ideas for speakers discussed.
+- Unanimous consent to approve emails for committee invitations.
+
+Bylaws
+~~~~~~
+By-laws needs updating Board of Advisors and Vice Presidents.
+

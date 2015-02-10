@@ -1,0 +1,125 @@
+Minutes - September 29, 2014
+#############################
+:url: foundation/minutes/board-meeting-minutes2014-09-29.html
+:save_as: foundation/minutes/board-meeting-minutes2014-09-29.html
+
+
+Attendance
+----------
+**Participating**:
+Leah Silen, Andy Terrel, Brian Granger, Cindee Madison, Didrik Pinte, Lorena
+Barba, Jarrod Millman, Perry Greenfield
+
+**Not Attending**:
+Anthony Scopatz, Ralf Gommers
+
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+Approved unanimously
+
+
+Treasurer's Report
+------------------
+no update
+
+
+Old Business
+============
+
+IPython contract
+~~~~~~~~~~~~~~~~
+Contractor Agreement for Jonathan Fredric (for IPython) discussed.  This will
+serve as a general template moving forward, although minor edits will have to
+be made for each new contract.
+
+Bylaws
+~~~~~~
+Proposed Bylaw Amendments discussed.  Andy proposes to approve, Brian seconds:
+passed unanimously.
+
+Vice Presidents
+~~~~~~~~~~~~~~~
+Where do we stand on getting the new positions up and running?
+
+Busy working on previous documents, so not much progress.  A number of
+candidates discussed.  Andy will ping potential candidates and send
+confirmation via email.
+
+Membership
+~~~~~~~~~~
+Membership follow up - engaging new volunteers:
+
+- Leah email members that have shown interest.
+- try to find a VP of Membership and forward to them.
+
+rOpenSci FSA
+~~~~~~~~~~~~
+- We’re waiting on the last signature.
+- Need to get on website
+- Also need to update site on Julia
+- Can we make a FAQ on this topic from the questions on the back and forth?
+
+Microsoft Azure donations
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Is there any follow up that needs to be made regarding the donations or
+applications?
+
+- Solicit for proposals (numfocus email list)
+- Try to get a large allocation from NumFOCUS that allows us to quickly award
+  projects.
+- Brian and Andy to sync up for a better option.
+
+
+New Business
+============
+
+MinGW-w64 proposal
+~~~~~~~~~~~~~~~~~~
+Approval of mingw-w64 Proposal by Carl Kleffner discussed:
+
+- Not possible to fund on current funds
+- Could post to proposals seeking funding
+- Andy to follow up with Carl.
+
+Women In Technology program
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Approval to form a committee to help with the WIT programs. WIT discussion:
+
+- 15k of 50k (get some numbers from Leah)
+- Seeking another 50k or new sponsors
+- Also donation of space, hosting the events
+- Hosted on Numfocus until bigger
+- Several volunteers engaged.
+- Diversity in Computing email list
+- Formation of Committee approved unanimously
+
+Shogun travel grant request
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vote on Heiko Strathmann’s request for a grant to help fund his trip to NYC to
+give an invited presentation of Shogun at an Open-Source Machine Learning
+Workshop.  Vote moved to email.
+
+PyData Strata
+~~~~~~~~~~~~~
+Will happen on October 15.
+
+IPython Steering Council
+~~~~~~~~~~~~~~~~~~~~~~~~
+- Would like to formalize their technical leadership. Brings up the question of
+  that relation between that team and fiscal team corresponding with NumFOCUS.
+- rOpenSci overlaps the two teams
+
+NumFOCUS employees?
+~~~~~~~~~~~~~~~~~~~
+When should we take on employees, risks involved?
+
+Invoice approval
+~~~~~~~~~~~~~~~~
+Invoices from Tony Sebro for work on Contractor Service Agreement and on the
+rOpenSci FSA: passed unanimously
+
+PyData
+~~~~~~
+Review/update of future PyData Conference plans.
+

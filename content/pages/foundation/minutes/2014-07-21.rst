@@ -1,0 +1,109 @@
+Minutes - July 21, 2014
+########################
+:url: foundation/minutes/board-meeting-minutes2014-07-21.html
+:save_as: foundation/minutes/board-meeting-minutes2014-07-21.html
+
+
+Attendance
+----------
+**Participating**:
+Perry Greenfield, Jarrod Millman, Andy Terrel, Leah Silen, Cindee Madison,
+Anthony Scopatz, Brian Granger, Ralf Gommers
+
+**Not Attending**:
+Lorena Barba, Didrik Pinte
+
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+Andy - propose, Jarrod - second, passes
+
+
+Treasurer's Report
+------------------
+
+Brief update on book-keeping:
+
+- Signed contract with TANO for next year
+- Leah met with Joanne (from TANO) last Monday
+- First order of business, reconcile our books and do taxes
+
+
+Old Business
+============
+
+
+Summary of SciPy
+~~~~~~~~~~~~~~~~
+
+- Booth entire time. Lots of folks came by.
+- Jake Vanderplas proposed having a training for faculty to know about the tools 
+- WSSSPE idea: Project dev days
+- 26 new members
+
+  - Oreilly willing to do a discount
+  - Jonathan R. talked about SciPy2015 discount
+  - Project stickers for folks who are donating.
+
+- Page on website for instructions for contributing 
+- BoF:
+
+  - Are society or grantmaking foundation?
+  - DHHS to set overhead rates for university. -- Mike McKerns
+  - Who owns copyright to code?
+
+- Blog post -- Andy
+
+
+New Business
+============
+
+Introduce new board members
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Lorena Barba
+- Brian Granger
+- Cindee Madison
+- Add to board member
+- Add bios to pages: https://github.com/numfocus/numfocus.org/blob/master/content/pages/foundation/board.rst
+
+Need new officers
+~~~~~~~~~~~~~~~~~
+
+- Travis and Fernando have moved to Board of Advisors. Need to elect new officers
+  (see http://numfocus.org/media/docs/bylaws.pdf Article 4).
+- Chairman. Volunteers: Jarrod Millman
+- President (current - Jarrod Millman). Volunteers: Andy R. Terrel
+- Treasurer (current - Anthony Scopatz). Volunteers: Anthony Scopatz
+- Secretary. Volunteers: Ralf 
+
+Email the vote.
+
+Designation of Leah Silen as Executive Director
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+http://numfocus.org/foundation/staff.html
+
+Moving forward on structural changes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Update bylaws for: terms of office, advisory board and VP board.
+- Move board meetings to monthly.  Do a doodle poll to find good time slot.
+  Fixed schedule versus weekly poll: small set of choices to make the monthly
+  doodle smaller.
+    
+Seek out people to fill VP roles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(see http://numfocus.org/news/2014/05/12/numfocus-elections-2014/)
+
+- Add point of contact for each role on the Board of Directors
+- *Technology*: Responsible for managing the NumFOCUS web tech (website, drive, …).
+- *Fundraising*: Responsible for coordinating fundraising events and
+  corresponding with sponsors.
+- *Communications*: Responsible for managing web content, blogs, and
+  corresponding with membership.
+- *Programs*: Responsible for coordination of NumFOCUS sponsored programs such
+  as fellowships, conference events, and so on.  Ben Zaitlen volunteered for
+  this position.
+- *Assistant Treasurer*: Responsible for managing project funds and
+  correspondence with those projects.
+

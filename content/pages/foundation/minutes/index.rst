@@ -8,6 +8,9 @@ Below you will find a listing of our board minutes. We are currently trying to m
 2014
 ----
 
+* `2014-09-29 <|filename|2014-09-29.rst>`_
+* `2014-08-25 <|filename|2014-08-25.rst>`_
+* `2014-07-21 <|filename|2014-07-21.rst>`_
 * `2014-06-23 <|filename|2014-06-23.rst>`_
 * `2014-06-16 <|filename|2014-06-16.rst>`_
 * `2014-06-09 <|filename|2014-06-09.rst>`_
