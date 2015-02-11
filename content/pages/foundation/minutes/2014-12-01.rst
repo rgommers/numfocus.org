@@ -1,0 +1,138 @@
+Minutes - December 01, 2014
+############################
+:url: foundation/minutes/board-meeting-minutes2014-12-01.html
+:save_as: foundation/minutes/board-meeting-minutes2014-12-01.html
+
+
+Attendance
+----------
+**Participating**:
+Andy Terrel, Brian Granger, Didrik Pinte, Leah Silen, Jarrod Millman, Cindee
+Madison, Perry Greenfield, Ralf Gommers
+
+**Not Attending**:
+Lorena Barba
+
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+not done
+
+
+Treasurer's Report
+------------------
+Update given on bank balances and amount allocated to projects that signed an
+FSA.
+
+
+Items Approved by Email
+=======================
+
+PyData Diversity Scholarships
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+$2,000 given for PyData Diversity Scholarships out of WIT funds.
+
+Learn to Code Summit
+~~~~~~~~~~~~~~~~~~~~
+Participation in the Learn to Code Summit organized by Greg Wilson. Do we want
+to be billed as a Co-host, Host, Sponsor?
+
+- Needs to be added to NumFOCUS programs
+- Plan to be main host, or top co-host for the Event
+- http://training-up.org/
+
+European status of NumFOCUS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Moving forward to establish NumFOCUS as a charitable organization in Europe as
+a Dutch “foundation” to receive donations from European entities at a cost of
+$1,500.
+
+- Dutch process would be fastest and possibly cheapest (see http://philantropia.org/)
+- Individual liability: individuals exposed as part of a company or non-profit,
+  We should find details on liability in US and in Europe and share with board.
+- Would allow most flexibility?
+- France has more potential members?  However France is worst place to set up.
+- All countries would need a member in the country
+- UK also very difficult to set up? 
+- Current Motion is to move forward and pay notary fee to move forward to
+  presence in NL (EU).  Not approved:
+
+  - Start a document with background and include specific questions for the lawyer 
+  - Set up a meeting sooner than next board meeting if possible
+
+
+Old Business
+============
+
+Holiday season fundraising
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Holiday fundraising campaign to be promoted now through Jan. 31. Matching Gift
+program will cost $199/yr.
+
+Treasurer position
+~~~~~~~~~~~~~~~~~~
+Open board chair position (Treasurer):
+
+- Need a volunteer to be in compliance with IRS 501c3 status
+- Less onerous than was in the past with bookkeeper and Quickbooks integration.
+- Needs someone on current board rather than new.
+- Time commitment of 1 hour a week
+- Needs to have another person on hand to be signatory
+- Didrik Pinte volunteers.
+
+Data Carpentry FSA
+~~~~~~~~~~~~~~~~~~
+Data Carpentry is ready to sign an FSA. Tracy Teal is our contact.
+
+MinGW-w64 grant request
+~~~~~~~~~~~~~~~~~~~~~~~
+Carl Kleffner proposal re-submitted: Continue discussion by email. Proposal
+needs to be clearer; what does $1k get us?
+
+XSEDE/Apache proposal
+~~~~~~~~~~~~~~~~~~~~~
+- Andy will schedule a meeting with these organisations this week, and follow up
+  with them together with Brian.
+- White paper will be drafted (most likely all orgs together) and be voted on.
+
+Election process
+~~~~~~~~~~~~~~~~
+Sent email for a vote on last four (Andy will setup ranking poll and send out
+email).  Vote by 5 Dec midnight.
+
+
+New Business
+============
+
+
+Additional staff position
+~~~~~~~~~~~~~~~~~~~~~~~~~
+discussed
+
+Decision making process
+~~~~~~~~~~~~~~~~~~~~~~~
+Review decision making process needed.
+
+Software Carpentry FSA
+~~~~~~~~~~~~~~~~~~~~~~
+Vote for FSA for Software Carpentry: unanimously approved
+
+FSA signing process
+~~~~~~~~~~~~~~~~~~~
+FSA's require a vote by Board.  Summary of changes to default documents.  Ideally Board should have a head’s up so there is no additional delay. Anticipated upcoming FSA votes:
+
+- Matplotlib
+- Spyder
+- Scikit-learn
+
+Data Carpentry FSA
+~~~~~~~~~~~~~~~~~~
+Upcoming vote to approve Data Carpentry comprehensive FSA.  No planned edits to
+document.  Will vote by email and allow 5 days.  Data Carpentry signatories:
+Tracy Teal, Greg Wilson, ?
+
+Scikit-learn FSA
+~~~~~~~~~~~~~~~~
+Upcoming vote to approve scikit-learn comprehensive FSA.  No planned edits to
+document. Will vote by email and allow 5 days.
+

@@ -1,0 +1,132 @@
+Minutes - October 27, 2014
+###########################
+:url: foundation/minutes/board-meeting-minutes2014-10-27.html
+:save_as: foundation/minutes/board-meeting-minutes2014-10-27.html
+
+
+Attendance
+----------
+**Participating**:
+Cindee Madison, Leah Silen, Perry Greenfield, Jarrod Millman, Didrik Pinte
+
+**Not Attending**:
+Andy Terrel, Brian Granger, Lorena Barba, Ralf Gommers
+
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+unanimously approved
+
+
+Treasurer's Report
+------------------
+no update
+
+
+Old Business
+============
+
+MinGW-w64 proposal
+~~~~~~~~~~~~~~~~~~
+Approval of mingw-w64 proposal by Carl Kleffner.  Response suggested it was
+possibly out of scope (email: sept 30), follow up with email or Andy?
+Proposal was above our ability to fund.
+
+Vice Presidents
+~~~~~~~~~~~~~~~
+Two candidates approached.  Further discussion tabled until Andy arrives (was
+unable to make meeting).
+
+
+New Business
+============
+
+Resignation Anthony Scopatz
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Open board position as a result of Anthony’s resignation.
+- Vice Presidents take on some responsibilities?
+- Bookkeeper and Firm doing our taxes 
+- Oversee and make reports
+- Get the ability to have high level view on funding each month
+- Vote over candidates for open board position to be moved to email list
+  (action Jarrod).
+
+Financial status
+~~~~~~~~~~~~~~~~
+Method for reporting our financial level/status at each board meeting
+discussed.
+
+New FSA’s
+~~~~~~~~~
+New FSA's: Software Carpentry (signed), matplotlib (reviewing FSA):
+
+- Change on website (open pull request) to update our new relationships
+- Matplotlib is reviewing (been @ week)
+- Spyder also interested 
+- Jarrod: surprised by SWC FSA, where has this been discussed, open question
+  about our process? 
+
+  - First outreach via DataCarpentry. Greg Wilson to board members about
+    relationship with Mozilla switch to NumFOCUS, Only a few board members were
+    primary contacts, and there is concern that this “fell through the cracks”
+    in terms of communication with the board. We are all excited about SWC,
+    (postmortem: need better clarity with board) Can we get a summary of the
+    context of this relationship to help clarity for the board? Future
+    discussion when more board members at meeting. FSA in future should require
+    board approval? Add to bylaws. (This is all about process not the
+    relationship)
+
+Women In Technology update
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Committee: Primary Goals outlined by Committee:
+
+- Mentorship/outreach to improve representation of at conferences (both attending and speaking)
+- Linkedin group (mentorship and to help with hiring).  Separate DB for linking mentors to mentees.
+- Connecting Academic Departments to open source tools:
+
+  - Not specific to WIT
+  - Envision working with SWC for WISE/WIT events
+
+
+Cloud computing resource for WIT Tutorial/coding events:
+
+- Could we make a proposal to use Microsoft Azure for an online Wakari
+  interface for teaching at some of the WIT outreach courses?
+- AWS ? Cloud computing for Berkeley?
+- Rackspace (they have donated some to NumFOCUS via Pydata, and never used)?
+  (They have shown significant investment in NumFOCUS)
+
+Diversity Scholarships... important to continue this.
+
+
+Fundraising campaign
+~~~~~~~~~~~~~~~~~~~~
+Leah talked to Travis about trying to get more money ….end of the year
+donations, and good time of year for outreach.  E.g. “We are looking for 150
+people to give $50”.
+
+Start some kind of campaign to get the word out, and get people used to seeing
+some fundraising activity by NumFOCUS. Important to keep money coming in,
+usually we can get the money but we need to start some kind of process around
+regular fund raising, even if just for visibility across our community. 
+
+Endpoints help, where money goes helps in terms of fundraising:
+
+- Can we earmark donations? 
+- Easy to make buttons on paypay (50, 100) 
+- All scipy conferences had scholarships, 
+- Scikit-learn sprint help. 
+
+Have a chart of how money has been spent.  Raise money for a sprint for a core
+project, and have projects apply?  Examples of how $5000 would be used...
+
+Before next board meeting: Cindee and Leah to send email about fundraising.
+Matching funds? Corporate ideas (ideas from Leah?) List of WIT uses for funding
+(paragraph to few sentences).  Bring before the board for a vote.
+
+Year-end report
+~~~~~~~~~~~~~~~
+Move toward having a year end report. Get quotes from people who have been
+funded, and some pictures for website. John Hunter Scholarship? Olga (short
+sentence or paragraph).
+

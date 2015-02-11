@@ -1,0 +1,143 @@
+Minutes - December 15, 2014
+############################
+:url: foundation/minutes/board-meeting-minutes2014-12-15.html
+:save_as: foundation/minutes/board-meeting-minutes2014-12-15.html
+
+
+Attendance
+----------
+**Participating**:
+Andy Terrel, Brian Granger, Didrik Pinte, Leah Silen, Jarrod Millman, Cindee
+Madison, Perry Greenfield, Ralf Gommers, Stefan Karpinski, Lorena Barba
+
+**Not Attending**:
+-
+
+
+Approval of Minutes from Last Meeting
+-------------------------------------
+Oct. 27th and Dec. 1st minutes: approved
+
+
+Treasurer's Report
+------------------
+An overview of bank balances and project balances is presented.
+
+
+Items Approved by Email
+=======================
+#. Include the embedded corporate matching gift information and search on our
+   fundraising site, which will cost a fee of $199 for one year's usage.
+#. Stefan Karpinski accepted invitation as new Board Member
+#. Ben Zaitlen invited as VP of Communications (accepted)  
+
+
+Old Business
+============
+
+[Andy] European status
+~~~~~~~~~~~~~~~~~~~~~~
+- Proposal and questions to lawyers: document discussed.
+- Need to schedule out-of-band meeting -- postpone until Leah has discussed with
+  Nature Conservancy. 
+- Nature Conservancy: a non-profit in US and UK / Berlin. Leah calling them.
+
+[Leah] Holiday Giving Campaign 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- http://numfocus.org/take-action/holiday-donations.html 
+- Going slow, have 18 donations.
+- Board Members please tweet and spread on mailing lists.
+- Put on all project mailing list.
+- In future we may want to have bar chart or list names of donors, so people
+  can see how the drive is going.
+
+[Ralf] Updates on MingW-w64 proposal
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sent Carl Kleffner a set of questions on long term sustainability.
+Will draft a letter to PSF, aim at completing it by the end of 2014.
+Waiting on response from Carl.
+
+[Andy] Updates for Spyder FSA 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Carlos Cordoba wants to be a comprehensive FSA.
+Previously he was denied because it didn’t have much community (only one person).
+Put in touch with Sympy per tax solutions.
+Do we just want to push him to a G/G FSA?
+Not enough community to consider stable or use our bandwidth for.
+Tax work would be required by Spyder
+Need to develop guidelines for who we sign comprehensive FSAs with.
+
+
+New Business
+============
+
+[Leah] Data Carpentry
+~~~~~~~~~~~~~~~~~~~~~
+Approval of FSA. They’d like to sign this week if possible.
+
+- Just waiting on Fiscal Leadership board names.
+- Changed mission a bit to focus on mission from standard FSA to match Data
+  Carpentry’s mission.
+- Brian moves to approve FSA, Cindee seconds.  Approved unanimously.
+
+[Leah] Matching campaign for donation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Donor has given a $5000 donation to encourage matching donations.
+- Suggestions on how to spread word about this opportunity for matching
+
+  - Jarrod suggests Ask donor to write up why to donate.
+  - Send out to our mailing lists.
+
+[Andy] Gensim project
+~~~~~~~~~~~~~~~~~~~~~
+- https://radimrehurek.com/gensim/
+- Should it be a supported project (http://numfocus.org/projects/index.html)?
+- Probably too small to sign a FSA
+- Board Members: Please try to download and install and do sanity check
+- Move  vote to email list 
+
+[Andy] Update on Advisory Committee
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Discussed mission of the advisory counsel position
+- Discussed potential members
+
+[Andy] Discussion on communication and process
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Over email we have been discussing how to track our decisions better. Generally
+  folks want to have a document that is tracking our decision process. A few
+  potential possibilities:
+
+  - GDrive docs
+  - Github documents
+
+- Jarrod is more interested in Github since GDrive is not as efficient for him
+- Lorena uses markdown and Github in her group and does quite a bit more managements
+- Brian sees PRs and organizations working in other spaces. Interested in
+  seeing the process work out better.
+
+  - GDrive will still have some purpose (no spreadsheets in Github)
+  - Really need to have changes tracked better on things like the FSA documents.
+  - Will need to make sure we are able to work on documents with other parties.
+  - Probably need to think about automated way of integrating with Google docs
+
+- Committee on a process: Brian and Jarrod
+
+[Andy] Manual of Operations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Started manual at https://github.com/numfocus/numfocus just to keep a simpler
+set of instructions on how we operate.
+
+[Andy] Webpage updates
+~~~~~~~~~~~~~~~~~~~~~~
+- Updated board http://numfocus.org/foundation/board.html 
+- Updated Projects to include donation buttons http://numfocus.org/projects/index.html 
+- Ben Zaitlen will be working on Blog details.
+
+[Jarrod] Sloan foundation
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Leah is preparing a proposal for first part Jan. (see email discussion)
+
+[Lorena] Twitter handle
+~~~~~~~~~~~~~~~~~~~~~~~
+Twitter handle should be handed over to someone will need to have someone who
+uses it regularly (maybe Ben Zaitlen?).
